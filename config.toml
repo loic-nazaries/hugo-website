@@ -1,0 +1,204 @@
+######################## default configuration ####################
+baseURL = "https://loic-nazaries.github.io/website/"
+canonifyURLs = true
+
+theme = "somrat"
+title = "Welcome to Loïc's Data Science"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "10"
+# disable language
+disableLanguages = [] # disable language from here
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML"]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap"
+[[params.plugins.css]]
+link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
+[[params.plugins.css]]
+link = "plugins/hover/hover.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/owl-carousel/owl.carousel.min.css"
+[[params.plugins.css]]
+link = "plugins/owl-carousel/owl.theme.default.min.css"
+[[params.plugins.css]]
+link = "plugins/text-animation/text-animation.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/wow.min.js"
+[[params.plugins.js]]
+link = "plugins/text-animation/text-animation.js"
+[[params.plugins.js]]
+link = "plugins/jquery.waypoints.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/owl-carousel/owl.carousel.min.js"
+
+#################### default parameters ################################
+[params]
+favicon = "images/favicon.png"
+logo_dark = "images/logo-dark.png"
+logo_light = "images/logo.png"
+logo_width = "150px"
+# Meta data
+author = "somrat"
+description = "This is meta description"
+
+# Preloader
+[params.preloader]
+
+enable = true 
+preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
+############################# social site ########################
+[[params.social]]
+icon = "fab fa-linkedin"
+link = "https://www.linkedin.com/in/loic-nazaries"
+
+[[params.social]]
+icon = "fab fa-github"
+link = "https://github.com/loic-nazaries"
+
+[[params.social]]
+icon = "fab fa-github-alt"
+link = "https://gist.github.com/loic-nazaries"
+
+# [[params.social]]
+# icon = "fab fa-twitter"
+# link = "https://twitter.com/somratpro"
+
+# [[params.social]]
+# icon = "fab fa-instagram"
+# link = "https://www.instagram.com/somratpro"
+
+################################### English language #####################################
+[Languages.en]
+contentDir = "content/english"
+home = "Home"
+languageCode = "en-us"
+languageName = "English"
+weight = 1
+# copyright
+copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+
+################# English navigation ##################
+
+# main menu
+[[Languages.en.menu.main]]
+name = "Home"
+url = "/github-pages-website"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "About Me"
+pre = "#"
+url = "about"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "Services"
+pre = "#"
+url = "service"
+weight = 3
+
+[[Languages.en.menu.main]]
+name = "Portfolio"
+pre = "#"
+url = "portfolio"
+weight = 4
+
+# [[Languages.en.menu.main]]
+# name = "Blog"
+# url = "blog"
+# weight = 5
+
+# [[Languages.en.menu.main]]
+# name = "Testimonial"
+# pre = "#"
+# url = "testimonial"
+# weight = 6
+
+[[Languages.en.menu.main]]
+name = "Contact"
+pre = "#"
+url = "contact"
+weight = 7
+
+################################### French language #####################################
+[Languages.fr]
+contentDir = "content/french"
+home = "Accueil"
+languageCode = "fr-fr"
+languageName = "Français"
+weight = 2
+# copyright
+copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+
+################# French navigation ##################
+
+# main menu
+[[Languages.fr.menu.main]]
+name = "Accueil"
+url = "fr/"
+weight = 1
+
+[[Languages.fr.menu.main]]
+name = "À propos de moi"
+pre = "fr/#"
+url = "about"
+weight = 2
+
+[[Languages.fr.menu.main]]
+name = "Services"
+pre = "fr/#"
+url = "service"
+weight = 3
+
+[[Languages.fr.menu.main]]
+name = "Portfolio"
+pre = "fr/#"
+url = "portfolio"
+weight = 4
+
+# [[Languages.fr.menu.main]]
+# name = "Témoignages"
+# pre = "fr/#"
+# url = "testimonial"
+# weight = 5
+
+[[Languages.fr.menu.main]]
+name = "Me contacter"
+pre = "fr/#"
+url = "contact"
+weight = 6
+
+############################### 404 page ###################################
+# [params.page404]
+# text = "OOPS, PAGE NOT FOUND!"
+# background_image = "images/404.jpg"
+# button_text = "BACK HOME"

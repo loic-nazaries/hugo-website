@@ -1,0 +1,8 @@
+# VS Code folder
+.vscode/
+
+# blog content
+.content/english/blog
+
+# site build-up
+/public
