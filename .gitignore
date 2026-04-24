@@ -2,7 +2,8 @@
 .vscode/
 
 # blog content
-.content/english/blog
+content/english/blog
+content/french/blog
 
 # site build-up
 /public
