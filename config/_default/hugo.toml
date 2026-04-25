@@ -1,4 +1,6 @@
+######################## default configuration ####################
 baseURL = "https://loic-nazaries.github.io/website/"
+canonifyURLs = true
 
 copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
 
@@ -43,6 +45,10 @@ theme = "somrat"
     locale = "en-GB"
     title = "Welcome to Loïc's Data Science"
     weight = 2
+
+[markup]
+  [markup.goldmark.renderer]
+      unsafe = true
 
 [services]
   [services.googleAnalytics]

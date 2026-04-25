@@ -91,7 +91,7 @@ custom_css: ""
   });
 </script>
 
-<img alt="Profile Picture" width="150" align="right" src="./images/backgrounds/profile_picture.jpg" />
+<img alt="Profile Picture" width="150" align="right" src="/images/backgrounds/profile_picture.jpg" />
 
 > Je suis un ***Data Specialist*** avec plus de 10 ans d’expérience dans le domaine des biostatistiques, de l’exploration des données (***Data Mining***) et du ***Machine Learning***. Le cycle de vie entier de la *Data* me passionne, depuis la modélisation d’une base de données à son utilisation dans le domaine de la ***Business Intelligence*** en passant par la création de supports visuels simples et impactant de type *Dashboard*. Ainsi, l'**analyse exploratoire de données** a le potentiel d’apporter une forte valeur ajoutée pour valoriser une aide à la prise de décision plus rapide et plus intelligente.
 
@@ -113,7 +113,7 @@ Les « **lignes** » en circulation sont:
 
 D'autres sont à venir !
 
-<a href="/images/portfolio/MetroMap_Data_Analyst.png" target="_blank"> <b style="color:#cb6ce6">Cliquez ici !</b></a>
+<a href="/images/portfolio/MetroMap_Data_Analyst.png" target="_blank"> <b style="color:#cb6ce6">Cliquez ici pour agrandir !</b></a>
 
 [<img alt="Metro Map" width="700" align="left" src="/images/portfolio/MetroMap_Data_Analyst.png" />][Metro Map]
 &nbsp;
