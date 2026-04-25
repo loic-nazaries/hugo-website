@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database Management on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/en/categories/database-management/</link>
+    <description>Recent content in Database Management on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Mon, 01 Jun 2020 12:14:34 +0600</lastBuildDate>
+    <atom:link href="https://loic-nazaries.github.io/website/en/categories/database-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Database Modelling</title>
+      <link>https://loic-nazaries.github.io/website/en/portfolio/database_modelling/</link>
+      <pubDate>Mon, 01 Jun 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/portfolio/database_modelling/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;theme&#34;&gt;Theme&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Database&lt;/strong&gt; modelling.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;SQL&lt;/li&gt;&#xA;&lt;li&gt;PostgreSQL &amp;amp; pgAdmin4 | Oracle SQL*Plus&lt;/li&gt;&#xA;&lt;li&gt;UML&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Un &lt;strong&gt;système de gestion de base de données relationnelle&lt;/strong&gt; (SGBDR) a été construit pour le projet « &lt;em&gt;&lt;strong&gt;EucFACE&lt;/strong&gt;&lt;/em&gt; ». La base de données a été implémentée avec le logiciel &lt;strong&gt;&lt;a href=&#34;https://www.postgresql.org/&#34; title=&#34;PostgreSQL&#34;&gt;PostgreSQL&lt;/a&gt;&lt;/strong&gt; (version 12.5) et &lt;strong&gt;pgAdmin4&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Note: le projet &lt;em&gt;EucFACE&lt;/em&gt; est présenté &lt;a href=&#34;https://loic-nazaries.github.io/website/en/portfolio/eucface/&#34; title=&#34;EucFACE Site Presentation&#34;&gt;&lt;strong&gt;ici&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Cliquer &lt;a href=&#34;https://loic-nazaries.github.io/website/documents/RDBMS_UML.html&#34; title=&#34;RDBMS UML - EucFACE&#34;&gt;&lt;strong&gt;ici&lt;/strong&gt;&lt;/a&gt; pour ouvrir la structure UML de l&amp;rsquo;application &lt;em&gt;&lt;strong&gt;Greenhouse Gas Estimation Portal&lt;/strong&gt;&lt;/em&gt; (voir l&amp;rsquo;article &amp;ldquo;Tableau de bord&amp;rdquo;). Y sont contenus les diagrammes de contexte, de fonctionnalités, de cas d&amp;rsquo;utilisation et d&amp;rsquo;activité de la base de données EucFACE.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google Business Intelligence</title>
+      <link>https://loic-nazaries.github.io/website/en/portfolio/google_bi/</link>
+      <pubDate>Mon, 10 Feb 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/portfolio/google_bi/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;theme&#34;&gt;Theme&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data Visualisation&lt;/strong&gt; with Google BigQuery &amp;amp; Google Data Studio.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Google BigQuery&lt;/li&gt;&#xA;&lt;li&gt;Google Data Studio&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Dans ce projet, le &lt;em&gt;&lt;strong&gt;dashboard&lt;/strong&gt;&lt;/em&gt; décrit le coût des budgets investis dans la production de films dans chaque pays. Il s&amp;rsquo;agit du &amp;ldquo;&lt;em&gt;IMDB 5000 Movie Dataset&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Par example, le film le plus coûteux a été produit en 2006 en Corée du Sud. Par contre, les USA est le pays avec le plus gros budget pour le cinéma.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google BigQuery &amp; Google Data Studio</title>
+      <link>https://loic-nazaries.github.io/website/en/portfolio/google_bigquery_datastudio/</link>
+      <pubDate>Wed, 05 Feb 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/portfolio/google_bigquery_datastudio/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;theme&#34;&gt;Theme&lt;/h2&gt;&#xA;&lt;p&gt;Prepare a &lt;strong&gt;dashboard&lt;/strong&gt; with Google BigQuery &amp;amp; Google Data Studio.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Google BigQuery&lt;/li&gt;&#xA;&lt;li&gt;Google Data Studio&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Google a mis à disposition un outil de procession de données de type &lt;strong&gt;Big Data&lt;/strong&gt; appelé &lt;strong&gt;Google BigQuery&lt;/strong&gt;. Grâce à leur plateforme &lt;strong&gt;Google Cloud Platform&lt;/strong&gt;, il est possible de mettre en place un pipeline de gestion et d&amp;rsquo;utilisation de données. De plus, il est possible d&amp;rsquo;utiliser &lt;strong&gt;Google Data Studio&lt;/strong&gt; &lt;em&gt;&lt;strong&gt;gratuitement(!)&lt;/strong&gt;&lt;/em&gt; pour préparer des &lt;em&gt;dashboard&lt;/em&gt; interactif ainsi que de le partager avec d&amp;rsquo;autres collaborateurs.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

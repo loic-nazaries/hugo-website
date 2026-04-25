@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Bienvenue chez Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/fr/categories/</link>
+    <description>Recent content in Categories on Bienvenue chez Loïc&#39;s Data Science</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Wed, 19 May 2021 12:14:34 +0600</lastBuildDate>
+    <atom:link href="https://loic-nazaries.github.io/website/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Mining</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/data-mining/</link>
+      <pubDate>Wed, 19 May 2021 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/data-mining/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python Development</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/python-development/</link>
+      <pubDate>Wed, 19 May 2021 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/python-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistics</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/statistics/</link>
+      <pubDate>Wed, 19 May 2021 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/statistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dashboard</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/dashboard/</link>
+      <pubDate>Sun, 10 Jan 2021 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/dashboard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Visualisation</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/data-visualisation/</link>
+      <pubDate>Sun, 10 Jan 2021 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/data-visualisation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web App</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/web-app/</link>
+      <pubDate>Sun, 10 Jan 2021 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/web-app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Business Intelligence</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/business-intelligence/</link>
+      <pubDate>Mon, 01 Jun 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/business-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Database Management</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/database-management/</link>
+      <pubDate>Mon, 01 Jun 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/database-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/sql/</link>
+      <pubDate>Mon, 01 Jun 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/sql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/machine-learning/</link>
+      <pubDate>Sun, 24 May 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time-Series Analysis</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/time-series-analysis/</link>
+      <pubDate>Sun, 24 May 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/time-series-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atmospheric CO2</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/atmospheric-co2/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/atmospheric-co2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EucFACE</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/eucface/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/eucface/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Global Change</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/global-change/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/global-change/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conda</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/conda/</link>
+      <pubDate>Mon, 04 May 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/conda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virtual Environment</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/virtual-environment/</link>
+      <pubDate>Mon, 04 May 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/virtual-environment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ETL</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/etl/</link>
+      <pubDate>Mon, 10 Feb 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/etl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modelling</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/modelling/</link>
+      <pubDate>Sat, 08 Feb 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/modelling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GitHub</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project Monitoring</title>
+      <link>https://loic-nazaries.github.io/website/fr/categories/project-monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/categories/project-monitoring/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

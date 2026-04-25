@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modelling on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/en/categories/modelling/</link>
+    <description>Recent content in Modelling on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sat, 08 Feb 2020 12:14:34 +0600</lastBuildDate>
+    <atom:link href="https://loic-nazaries.github.io/website/en/categories/modelling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KPI Modelling</title>
+      <link>https://loic-nazaries.github.io/website/en/portfolio/kpi_modelling/</link>
+      <pubDate>Sat, 08 Feb 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/portfolio/kpi_modelling/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;theme&#34;&gt;Theme&lt;/h2&gt;&#xA;&lt;p&gt;Establishment of a &lt;strong&gt;key performance indicator&lt;/strong&gt; (KPI).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Statistics (correlations, Z-score)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Un conglomérat d’agriculteurs australiens a financé une étude dans laquelle j’ai été chargé d’identifier les facteurs biologiques et environnementaux qui sont susceptible d’améliorer les rendements de blé en lien avec les pratiques d’agricultures communes en Australie (chaume brûlé, fertilisation, pâturage, labourage, &lt;em&gt;etc.&lt;/em&gt;). Cette expérience était constituée de sites dans plusieurs régions/états de l’Australie. Un ample effort de coordination a été primordial au bon déroulement de cette étude, ainsi qu’une bonne communication avec les propriétaires des terres et les gouvernements locaux. J’ai aussi eu la charge de tenir notre base de données à jour et disponible auprès de mes collaborateurs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Geographical Modelling</title>
+      <link>https://loic-nazaries.github.io/website/en/portfolio/geographical_modelling/</link>
+      <pubDate>Tue, 12 Nov 2019 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/portfolio/geographical_modelling/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;theme&#34;&gt;Theme&lt;/h2&gt;&#xA;&lt;p&gt;Geographical &lt;strong&gt;Modelling&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Machine Learning (Random Forest, Canonical Variates Analysis)&lt;/li&gt;&#xA;&lt;li&gt;Geostatistics (Kriging)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;J’ai complété une étude décrivant les étapes de modélisation nécessaire pour &lt;strong&gt;prédire la répartition géographique&lt;/strong&gt; de microbes dans le sol responsables de la réduction des concentrations de méthane (un puissant gaz effet de serre) dans l’atmosphère.&#xA;Grâce au sponsor du gouvernement écossais, une grande base de données a été construite après un sondage du sol dans toute l’Écosse. L’objectif a été de collecter plusieurs données environnementales (température, pluies, humidité, nutriments, fertilité, composition minérale, &lt;em&gt;etc.&lt;/em&gt;) pour mieux décrire les procédés biologiques dans le sol. J’ai réparti les tâches de modélisation entre mes collaborateurs pour faire avancer le processus intellectuel. Une fois les analyses terminées, j’ai écrit un article scientifique pour présenter nos résultats. Cela a été une occasion fantastique pour apprendre à manier des &lt;strong&gt;méthodes statistiques&lt;/strong&gt; pointues. Voir la publication &lt;a href=&#34;https://loic-nazaries.github.io/website/documents/scientific_publications/Nazaries_et_al_2018.pdf&#34; title=&#34;Nazaries et al., 2018 - Soil Biology and Biochemistry&#34;&gt;Nazaries &lt;em&gt;et al.&lt;/em&gt;, 2018&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scientific Publications</title>
+      <link>https://loic-nazaries.github.io/website/en/portfolio/scientific_publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/portfolio/scientific_publications/</guid>
+      <description>&lt;p&gt;A list of chosen papers and posters.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Table of contents&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://loic-nazaries.github.io/website/en/portfolio/scientific_publications/#journal-articles&#34;&gt;Journal Articles&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://loic-nazaries.github.io/website/en/portfolio/scientific_publications/#poster-presentations&#34;&gt;Poster presentations&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://loic-nazaries.github.io/website/en/portfolio/scientific_publications/#conference-paper&#34;&gt;Conference paper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;journal-articles&#34;&gt;Journal Articles&lt;/h2&gt;&#xA;&lt;p&gt;Henaka Arachchi M.P.N.K.a, Karunaratne S.B.b, c, Fang Y.a, Minasny Bb, &lt;strong&gt;Nazaries&lt;/strong&gt; L.d, Sarker J.R.a, e, Weng Z.f, g, Van Zwieten L.f, Singh B.K.d, h, Singh B.P, 2021. Mid-infrared spectroscopy for rapid characterisation of soil chemical and biological properties on long-term field trial sites. &lt;em&gt;&lt;strong&gt;(In preparation)&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Martins, &lt;strong&gt;Nazaries&lt;/strong&gt;, Delgado-Baquerizo, Mitchell, Grinyer, Macdonald, Anderson, Singh, 2021. Rainfall frequency and soil water availability regulate CH&lt;sub&gt;4&lt;/sub&gt;, N&lt;sub&gt;2&lt;/sub&gt;O and CO&lt;sub&gt;2&lt;/sub&gt; emissions from a native forest exposed to elevated CO&lt;sub&gt;2&lt;/sub&gt;. &lt;em&gt;&lt;strong&gt;(In Production - Functional Ecology).&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

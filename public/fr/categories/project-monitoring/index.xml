@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Monitoring on Bienvenue chez Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/fr/categories/project-monitoring/</link>
+    <description>Recent content in Project Monitoring on Bienvenue chez Loïc&#39;s Data Science</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <atom:link href="https://loic-nazaries.github.io/website/fr/categories/project-monitoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dépôt de projet avec GitHub (bientôt)</title>
+      <link>https://loic-nazaries.github.io/website/fr/portfolio/github_repo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/portfolio/github_repo/</guid>
+      <description>&lt;p&gt;Bientôt !&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;thématique&#34;&gt;Thématique&lt;/h2&gt;&#xA;&lt;p&gt;Créer un &lt;strong&gt;dépôt de projet&lt;/strong&gt; avec GitHub.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GitHub&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;!-- credits --&gt;&#xD;&#xA;&lt;p&gt;[Credit for the header picture] Photo by &lt;a href=&#34;https://unsplash.com/@synkevych?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34;&gt;Roman Synkevych&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/s/photos/github?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
