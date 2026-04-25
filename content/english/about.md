@@ -67,7 +67,7 @@ skill:
       
     # skill item loop
     - name : "Database Management"
-      percentage : "90%"
+      percentage : "70%"
       
     # skill item loop
     - name : "Data Visualisation"
