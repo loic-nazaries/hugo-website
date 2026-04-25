@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Mining on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/en/categories/data-mining/</link>
+    <description>Recent content in Data Mining on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Wed, 19 May 2021 12:14:34 +0600</lastBuildDate>
+    <atom:link href="https://loic-nazaries.github.io/website/en/categories/data-mining/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Pipeline</title>
+      <link>https://loic-nazaries.github.io/website/en/portfolio/data_pipeline/</link>
+      <pubDate>Wed, 19 May 2021 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/portfolio/data_pipeline/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;theme&#34;&gt;Theme&lt;/h2&gt;&#xA;&lt;p&gt;Data integration, cleansing and validation &lt;strong&gt;pipeline&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python (Numpy, Pandas, Matplotlib, Seaborn, Click libraries)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Une &lt;strong&gt;base de données relationnelle&lt;/strong&gt; de type  « &lt;strong&gt;flocon de neige&lt;/strong&gt; » a été modélisée à partir de fichiers de type et d&amp;rsquo;origine multiples (enregistreurs automatiques, mesures manuelles, fichiers au formats variés - .csv, .txt, tableur, &lt;em&gt;etc.&lt;/em&gt;). Grâce aux fonctionnalités Python, ces données ont été uniformisées et &amp;ldquo;nettoyées&amp;rdquo; tout en respectant les bonnes pratiques statistiques (par exemple, pas de &amp;ldquo;&lt;em&gt;cherry-picking&lt;/em&gt;&amp;rdquo;, ni de &amp;ldquo;&lt;em&gt;data dredging&lt;/em&gt;&amp;rdquo;, &lt;em&gt;etc.&lt;/em&gt; - &lt;em&gt;cf.&lt;/em&gt;&#xA;&lt;a href=&#34;https://loic-nazaries.github.io/website/documents/data-fallacies-to-avoid.pdf&#34; title=&#34;Data Fallacies to avoid&#34;&gt;&lt;em&gt;Data Fallacies to avoid&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scientific Publications</title>
+      <link>https://loic-nazaries.github.io/website/en/portfolio/scientific_publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/portfolio/scientific_publications/</guid>
+      <description>&lt;p&gt;A list of chosen papers and posters.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Table of contents&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://loic-nazaries.github.io/website/en/portfolio/scientific_publications/#journal-articles&#34;&gt;Journal Articles&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://loic-nazaries.github.io/website/en/portfolio/scientific_publications/#poster-presentations&#34;&gt;Poster presentations&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://loic-nazaries.github.io/website/en/portfolio/scientific_publications/#conference-paper&#34;&gt;Conference paper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;journal-articles&#34;&gt;Journal Articles&lt;/h2&gt;&#xA;&lt;p&gt;Henaka Arachchi M.P.N.K.a, Karunaratne S.B.b, c, Fang Y.a, Minasny Bb, &lt;strong&gt;Nazaries&lt;/strong&gt; L.d, Sarker J.R.a, e, Weng Z.f, g, Van Zwieten L.f, Singh B.K.d, h, Singh B.P, 2021. Mid-infrared spectroscopy for rapid characterisation of soil chemical and biological properties on long-term field trial sites. &lt;em&gt;&lt;strong&gt;(In preparation)&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Martins, &lt;strong&gt;Nazaries&lt;/strong&gt;, Delgado-Baquerizo, Mitchell, Grinyer, Macdonald, Anderson, Singh, 2021. Rainfall frequency and soil water availability regulate CH&lt;sub&gt;4&lt;/sub&gt;, N&lt;sub&gt;2&lt;/sub&gt;O and CO&lt;sub&gt;2&lt;/sub&gt; emissions from a native forest exposed to elevated CO&lt;sub&gt;2&lt;/sub&gt;. &lt;em&gt;&lt;strong&gt;(In Production - Functional Ecology).&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

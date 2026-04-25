@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Global Change on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/en/categories/global-change/</link>
+    <description>Recent content in Global Change on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate>
+    <atom:link href="https://loic-nazaries.github.io/website/en/categories/global-change/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EucFACE Site Presentation</title>
+      <link>https://loic-nazaries.github.io/website/en/portfolio/eucface/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/portfolio/eucface/</guid>
+      <description>&lt;p&gt;Analysis of greenhouse gas (GHG) emissions under &lt;strong&gt;elevated atmospheric CO&lt;sub&gt;2&lt;/sub&gt; concentrations&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Table of contents&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://loic-nazaries.github.io/website/en/portfolio/eucface/#background&#34;&gt;Background&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://loic-nazaries.github.io/website/en/portfolio/eucface/#the-eucface-experiment&#34;&gt;The EucFACE Experiment&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://loic-nazaries.github.io/website/en/portfolio/eucface/#aims--hypotheses&#34;&gt;Aims &amp;amp; Hypotheses&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://loic-nazaries.github.io/website/en/portfolio/eucface/#experimental-setup&#34;&gt;Experimental Setup&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://loic-nazaries.github.io/website/en/portfolio/eucface/#greenhouse-gas-measurements&#34;&gt;Greenhouse gas measurements&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://loic-nazaries.github.io/website/en/portfolio/eucface/#illustration-of-the-headspace-volume-sampling-method&#34;&gt;Illustration of the headspace volume sampling method&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://loic-nazaries.github.io/website/en/portfolio/eucface/#references&#34;&gt;References&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;Greenhouse gas (GHG) emissions associated&#xA;with human activities are well known to be&#xA;the major contributors to climate change&#xA;worldwide as reported by the Intergovernmental Panel on Climate Change (&lt;a href=&#34;http://www.climatechange2013.org/images/report/WG1AR5_ALL_FINAL.pdf&#34; title=&#34;IPCC Report, 2013&#34;&gt;IPCC, 2013&lt;/a&gt;).&#xA;These include:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

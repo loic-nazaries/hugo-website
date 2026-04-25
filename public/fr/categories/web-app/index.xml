@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web App on Bienvenue chez Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/fr/categories/web-app/</link>
+    <description>Recent content in Web App on Bienvenue chez Loïc&#39;s Data Science</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sun, 10 Jan 2021 12:14:34 +0600</lastBuildDate>
+    <atom:link href="https://loic-nazaries.github.io/website/fr/categories/web-app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tableau de bord</title>
+      <link>https://loic-nazaries.github.io/website/fr/portfolio/dashboard/</link>
+      <pubDate>Sun, 10 Jan 2021 12:14:34 +0600</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/portfolio/dashboard/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;thématique&#34;&gt;Thématique&lt;/h2&gt;&#xA;&lt;p&gt;Déploiement d&amp;rsquo;une &lt;strong&gt;application web&lt;/strong&gt; pour créer un &lt;strong&gt;tableau de bord interactif&lt;/strong&gt; d&amp;rsquo;analyse de données.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python (librairie Streamlit)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Un tableau de bord (« &lt;em&gt;&lt;strong&gt;dashboard&lt;/strong&gt;&lt;/em&gt; ») interactif a été construit pour observer et tester les émissions des gaz à effet de serre sous différentes conditions. Cette &lt;strong&gt;application web&lt;/strong&gt; appelée « &lt;em&gt;&lt;strong&gt;Greenhouse Gas Estimation Portal&lt;/strong&gt;&lt;/em&gt; » (ou « &lt;strong&gt;Portail d&amp;rsquo;estimation des gas à effet de serre&lt;/strong&gt; ») a été codé avec la librairie Python &lt;a href=&#34;https://www.streamlit.io/&#34; title=&#34;Streamlit.io&#34;&gt;Streamlit&lt;/a&gt; et déployée sur &lt;a href=&#34;https://www.heroku.com/&#34; title=&#34;Heroku.com&#34;&gt;Heroku.com&lt;/a&gt;. L&amp;rsquo;application peut être accédée par le lien &lt;a href=&#34;https://exam-piscine-heroku-redone.herokuapp.com/&#34; title=&#34;Greenhouse Gas Estimation Portal App&#34;&gt;&lt;strong&gt;suivant&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Déploiement d&#39;une appli web avec Heroku (bientôt)</title>
+      <link>https://loic-nazaries.github.io/website/fr/portfolio/deploy_web_app_heroku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/portfolio/deploy_web_app_heroku/</guid>
+      <description>&lt;p&gt;Bientôt !&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;thématique&#34;&gt;Thématique&lt;/h2&gt;&#xA;&lt;p&gt;Déployer une &lt;strong&gt;application web&lt;/strong&gt; avec &lt;strong&gt;Heroku&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python (librairie Streamlit)&lt;/li&gt;&#xA;&lt;li&gt;Heroku.com&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;!-- credits --&gt;&#xD;&#xA;&lt;p&gt;[Credit for the header picture] Photo by &lt;a href=&#34;https://unsplash.com/@stocktrader?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34;&gt;Marco Zuppone&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/s/photos/kanji?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
