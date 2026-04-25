@@ -90,7 +90,7 @@ custom_css: ""
   });
 </script>
 
-<img alt="Profile Picture" width="150" align="right" src="./images/backgrounds/profile_picture.jpg" />
+<img alt="Profile Picture" width="150" align="right" src="/images/backgrounds/profile_picture.jpg" />
 
 > I am a **Data Specialist** with over 10 years of experience in the fields of biostatistics, data exploration (**Data Mining**) and **Machine Learning**. I am passionate about the whole **data life cycle**, from modelling a database to its use in the field of **Business Intelligence** through the creation of simple and impactful visuals such as **dashboards**. Thus, I believe **exploratory data analysis** has the potential to strengthen a faster and more clever decision-making process.
 
@@ -112,9 +112,9 @@ The active « **lines** » are:
 
 More to come!
 
-<a href="./images/portfolio/MetroMap_Data_Analyst.png" target="_blank"> <b style="color:#cb6ce6">Click Here!</b></a>
+<a href="/images/portfolio/MetroMap_Data_Analyst.png" target="_blank"> <b style="color:#cb6ce6">Click Here To Size Up!</b></a>
 
-[<img alt="Metro Map" width="700" align="left" src="./images/portfolio/MetroMap_Data_Analyst.png" />][Metro Map]
+[<img alt="Metro Map" width="700" align="left" src="/images/portfolio/MetroMap_Data_Analyst.png" />][Metro Map]
 &nbsp;
 
 ## Technologies
@@ -153,6 +153,6 @@ More to come!
 <img alt="Visitors Badge" src="https://visitor-badge.glitch.me/badge?page_id=loic-nazaries.github-pages-website" />
 
 <!-- definitions -->
-[Metro Map]: ./images/portfolio/MetroMap_Data_Analyst.png "Metro Map Data Science"
+[Metro Map]: /images/portfolio/MetroMap_Data_Analyst.png "Metro Map Data Science"
 
 ---

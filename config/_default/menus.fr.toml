@@ -1,0 +1,29 @@
+[[main]]
+name = "Accueil"
+url = "/github-pages-website"
+weight = 10
+[[main]]
+name = "À propos de moi"
+pre = "fr/#"
+url = "about"
+weight = 20
+[[main]]
+name = "Services"
+pre = "fr/#"
+url = "service"
+weight = 30
+[[main]]
+name = "Portfolio"
+pre = "fr/#"
+url = "portfolio"
+weight = 40
+[[main]]
+# name = "Témoignages"
+# pre = "fr/#"
+# url = "testimonial"
+# weight = 50
+[[main]]
+name = "Me contacter"
+pre = "fr/#"
+url = "contact"
+weight = 60
