@@ -23,6 +23,10 @@ weight = 40
 # url = "testimonial"
 # weight = 50
 [[main]]
+name = "Blog"
+url = "blog"
+weight = 50
+[[main]]
 name = "Me contacter"
 pre = "fr/#"
 url = "contact"
