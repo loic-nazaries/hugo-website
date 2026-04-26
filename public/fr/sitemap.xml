@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://loic-nazaries.github.io/website/fr/blog/ghg-emissions-data-analysis/</loc>
+    <lastmod>2026-04-26T11:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://loic-nazaries.github.io/website/en/blog/ghg-emissions-data-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://loic-nazaries.github.io/website/fr/blog/ghg-emissions-data-analysis/"
+                />
+  </url><url>
     <loc>https://loic-nazaries.github.io/website/fr/</loc>
-    <lastmod>2021-05-19T12:14:34+06:00</lastmod>
+    <lastmod>2026-04-26T11:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
@@ -13,6 +26,161 @@
                 rel="alternate"
                 hreflang="fr-FR"
                 href="https://loic-nazaries.github.io/website/fr/"
+                />
+  </url><url>
+    <loc>https://loic-nazaries.github.io/website/fr/blog/</loc>
+    <lastmod>2026-04-26T11:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://loic-nazaries.github.io/website/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://loic-nazaries.github.io/website/fr/blog/"
+                />
+  </url><url>
+    <loc>https://loic-nazaries.github.io/website/fr/tags/data-science/</loc>
+    <lastmod>2026-04-26T11:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://loic-nazaries.github.io/website/en/tags/data-science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://loic-nazaries.github.io/website/fr/tags/data-science/"
+                />
+  </url><url>
+    <loc>https://loic-nazaries.github.io/website/fr/tags/environnement/</loc>
+    <lastmod>2026-04-26T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://loic-nazaries.github.io/website/fr/tags/ges/</loc>
+    <lastmod>2026-04-26T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://loic-nazaries.github.io/website/fr/tags/mod%C3%A9lisation/</loc>
+    <lastmod>2026-04-26T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://loic-nazaries.github.io/website/fr/tags/python/</loc>
+    <lastmod>2026-04-26T11:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://loic-nazaries.github.io/website/en/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://loic-nazaries.github.io/website/fr/tags/python/"
+                />
+  </url><url>
+    <loc>https://loic-nazaries.github.io/website/fr/tags/</loc>
+    <lastmod>2026-04-26T11:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://loic-nazaries.github.io/website/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://loic-nazaries.github.io/website/fr/tags/"
+                />
+  </url><url>
+    <loc>https://loic-nazaries.github.io/website/fr/tags/bigquery/</loc>
+    <lastmod>2026-04-26T10:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://loic-nazaries.github.io/website/en/tags/bigquery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://loic-nazaries.github.io/website/fr/tags/bigquery/"
+                />
+  </url><url>
+    <loc>https://loic-nazaries.github.io/website/fr/blog/data-pipeline-best-practices/</loc>
+    <lastmod>2026-04-26T10:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://loic-nazaries.github.io/website/en/blog/data-pipeline-best-practices/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://loic-nazaries.github.io/website/fr/blog/data-pipeline-best-practices/"
+                />
+  </url><url>
+    <loc>https://loic-nazaries.github.io/website/fr/tags/data-engineering/</loc>
+    <lastmod>2026-04-26T10:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://loic-nazaries.github.io/website/en/tags/data-engineering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://loic-nazaries.github.io/website/fr/tags/data-engineering/"
+                />
+  </url><url>
+    <loc>https://loic-nazaries.github.io/website/fr/tags/etl/</loc>
+    <lastmod>2026-04-26T10:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://loic-nazaries.github.io/website/en/tags/etl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://loic-nazaries.github.io/website/fr/tags/etl/"
+                />
+  </url><url>
+    <loc>https://loic-nazaries.github.io/website/fr/tags/conda/</loc>
+    <lastmod>2026-04-26T09:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://loic-nazaries.github.io/website/en/tags/conda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://loic-nazaries.github.io/website/fr/tags/conda/"
+                />
+  </url><url>
+    <loc>https://loic-nazaries.github.io/website/fr/blog/python-virtual-environments/</loc>
+    <lastmod>2026-04-26T09:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://loic-nazaries.github.io/website/en/blog/python-virtual-environments/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://loic-nazaries.github.io/website/fr/blog/python-virtual-environments/"
+                />
+  </url><url>
+    <loc>https://loic-nazaries.github.io/website/fr/tags/tutoriel/</loc>
+    <lastmod>2026-04-26T09:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://loic-nazaries.github.io/website/fr/tags/workflow/</loc>
+    <lastmod>2026-04-26T09:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://loic-nazaries.github.io/website/en/tags/workflow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://loic-nazaries.github.io/website/fr/tags/workflow/"
                 />
   </url><url>
     <loc>https://loic-nazaries.github.io/website/fr/categories/</loc>
@@ -431,18 +599,6 @@
                 href="https://loic-nazaries.github.io/website/fr/portfolio/geographical_modelling/"
                 />
   </url><url>
-    <loc>https://loic-nazaries.github.io/website/fr/testimonial/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://loic-nazaries.github.io/website/en/testimonial/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://loic-nazaries.github.io/website/fr/testimonial/"
-                />
-  </url><url>
     <loc>https://loic-nazaries.github.io/website/fr/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -587,16 +743,16 @@
                 href="https://loic-nazaries.github.io/website/fr/service/"
                 />
   </url><url>
-    <loc>https://loic-nazaries.github.io/website/fr/tags/</loc>
+    <loc>https://loic-nazaries.github.io/website/fr/testimonial/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://loic-nazaries.github.io/website/en/tags/"
+                href="https://loic-nazaries.github.io/website/en/testimonial/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://loic-nazaries.github.io/website/fr/tags/"
+                href="https://loic-nazaries.github.io/website/fr/testimonial/"
                 />
   </url>
 </urlset>

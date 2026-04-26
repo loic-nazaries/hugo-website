@@ -7,8 +7,29 @@
     <generator>Hugo</generator>
     <language>en-GB</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Wed, 19 May 2021 12:14:34 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 11:00:00 +0100</lastBuildDate>
     <atom:link href="https://loic-nazaries.github.io/website/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysing Greenhouse Gas Emissions: From Field Data to Insights</title>
+      <link>https://loic-nazaries.github.io/website/en/blog/ghg-emissions-data-analysis/</link>
+      <pubDate>Sun, 26 Apr 2026 11:00:00 +0100</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/blog/ghg-emissions-data-analysis/</guid>
+      <description>&lt;p&gt;Greenhouse gas (GHG) flux measurements are notoriously noisy. Sensors drift, weather disrupts sampling, and the relationship between soil conditions and gas emissions is non-linear. This post walks through the analytical approach used in environmental GHG research projects, using data from the &lt;a href=&#34;https://loic-nazaries.github.io/website/en/portfolio/eucface&#34;&gt;EucFACE experiment&lt;/a&gt; as a reference.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-are-we-measuring&#34;&gt;What Are We Measuring?&lt;/h2&gt;&#xA;&lt;p&gt;The primary gases of interest in soil flux studies are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;CO₂&lt;/strong&gt; — produced by microbial respiration and root activity&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;CH₄&lt;/strong&gt; — consumed or produced by methanotrophic/methanogenic bacteria&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;N₂O&lt;/strong&gt; — produced during nitrification and denitrification&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Fluxes are typically measured in µmol m⁻² s⁻¹ (CO₂) or nmol m⁻² s⁻¹ (CH₄, N₂O).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Pipeline Best Practices: From Raw Data to Clean Output</title>
+      <link>https://loic-nazaries.github.io/website/en/blog/data-pipeline-best-practices/</link>
+      <pubDate>Sun, 26 Apr 2026 10:00:00 +0100</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/blog/data-pipeline-best-practices/</guid>
+      <description>&lt;p&gt;A data pipeline moves data from one or more sources through a series of transformations to a destination where it can be analysed or served. Getting this right from the start saves enormous debugging effort later.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-etl-pattern&#34;&gt;The ETL Pattern&lt;/h2&gt;&#xA;&lt;p&gt;Most pipelines follow the Extract → Transform → Load (ETL) pattern:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Extract&lt;/strong&gt; — pull data from source systems (databases, APIs, files)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Transform&lt;/strong&gt; — clean, validate, reshape, and enrich the data&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Load&lt;/strong&gt; — write the result to a destination (data warehouse, dashboard, file)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;A variation, ELT, loads raw data first and transforms it inside the destination (common with cloud data warehouses like BigQuery).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python Virtual Environments: venv vs Conda</title>
+      <link>https://loic-nazaries.github.io/website/en/blog/python-virtual-environments/</link>
+      <pubDate>Sun, 26 Apr 2026 09:00:00 +0100</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/blog/python-virtual-environments/</guid>
+      <description>&lt;p&gt;Managing dependencies is one of the first challenges you face when working on multiple Python projects. Two tools dominate the ecosystem: Python&amp;rsquo;s built-in &lt;code&gt;venv&lt;/code&gt; module and &lt;code&gt;Conda&lt;/code&gt;. This post explains when to use each and shows the essential commands.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-isolate-environments&#34;&gt;Why Isolate Environments?&lt;/h2&gt;&#xA;&lt;p&gt;Each project may require different versions of the same library. Without isolation, installing a package for one project can break another. Virtual environments solve this by giving each project its own sandboxed Python installation.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Data Pipeline</title>
       <link>https://loic-nazaries.github.io/website/en/portfolio/data_pipeline/</link>
@@ -94,13 +115,6 @@
       <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;theme&#34;&gt;Theme&lt;/h2&gt;&#xA;&lt;p&gt;Geographical &lt;strong&gt;Modelling&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Machine Learning (Random Forest, Canonical Variates Analysis)&lt;/li&gt;&#xA;&lt;li&gt;Geostatistics (Kriging)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;J’ai complété une étude décrivant les étapes de modélisation nécessaire pour &lt;strong&gt;prédire la répartition géographique&lt;/strong&gt; de microbes dans le sol responsables de la réduction des concentrations de méthane (un puissant gaz effet de serre) dans l’atmosphère.&#xA;Grâce au sponsor du gouvernement écossais, une grande base de données a été construite après un sondage du sol dans toute l’Écosse. L’objectif a été de collecter plusieurs données environnementales (température, pluies, humidité, nutriments, fertilité, composition minérale, &lt;em&gt;etc.&lt;/em&gt;) pour mieux décrire les procédés biologiques dans le sol. J’ai réparti les tâches de modélisation entre mes collaborateurs pour faire avancer le processus intellectuel. Une fois les analyses terminées, j’ai écrit un article scientifique pour présenter nos résultats. Cela a été une occasion fantastique pour apprendre à manier des &lt;strong&gt;méthodes statistiques&lt;/strong&gt; pointues. Voir la publication &lt;a href=&#34;https://loic-nazaries.github.io/website/documents/scientific_publications/Nazaries_et_al_2018.pdf&#34; title=&#34;Nazaries et al., 2018 - Soil Biology and Biochemistry&#34;&gt;Nazaries &lt;em&gt;et al.&lt;/em&gt;, 2018&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>https://loic-nazaries.github.io/website/en/testimonial/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://loic-nazaries.github.io/website/en/testimonial/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Alteryx (coming soon)</title>
       <link>https://loic-nazaries.github.io/website/en/portfolio/alteryx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -164,6 +178,13 @@
       <link>https://loic-nazaries.github.io/website/en/service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://loic-nazaries.github.io/website/en/service/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TESTIMONIALS</title>
+      <link>https://loic-nazaries.github.io/website/en/testimonial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/testimonial/</guid>
       <description></description>
     </item>
     <item>

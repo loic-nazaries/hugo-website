@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="fr-FR"><head>
+  <meta charset="utf-8">
+  <title>Environnements virtuels Python : venv ou Conda ?</title>
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description"
+    content="Guide pratique pour créer et gérer des environnements virtuels Python avec venv et Conda — quand utiliser l&#39;un ou l&#39;autre et comment garder vos projets propres.">
+  
+  <meta name="generator" content="Hugo 0.160.1">
+
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  
+  <link rel="stylesheet" href="https://loic-nazaries.github.io/website/plugins/bootstrap/bootstrap.min.css">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&amp;display=swap">
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+  
+  <link rel="stylesheet" href="https://loic-nazaries.github.io/website/plugins/hover/hover.css">
+  
+  <link rel="stylesheet" href="https://loic-nazaries.github.io/website/plugins/magnific-popup/magnific-popup.css">
+  
+  <link rel="stylesheet" href="https://loic-nazaries.github.io/website/plugins/owl-carousel/owl.carousel.min.css">
+  
+  <link rel="stylesheet" href="https://loic-nazaries.github.io/website/plugins/owl-carousel/owl.theme.default.min.css">
+  
+  <link rel="stylesheet" href="https://loic-nazaries.github.io/website/plugins/text-animation/text-animation.css">
+  
+
+  
+  
+  <link rel="stylesheet" href="https://loic-nazaries.github.io/website/css/style.min.css" media="screen">
+
+  
+  
+  <link rel="stylesheet" href="https://loic-nazaries.github.io/website/css/custom.min.css" media="screen">
+
+  
+  <link rel="shortcut icon" href="https://loic-nazaries.github.io/website/images/favicon.png" type="image/x-icon">
+  <link rel="icon" href="https://loic-nazaries.github.io/website/images/favicon.png" type="image/x-icon">
+
+  
+  
+  
+  <link rel="alternate" hreflang="fr" href="https://loic-nazaries.github.io/website/fr/blog/python-virtual-environments/">
+  
+  <link rel="alternate" hreflang="en" href="https://loic-nazaries.github.io/website/en/blog/python-virtual-environments/">
+  
+  
+
+  
+  <meta property="og:image" content="https://loic-nazaries.github.io/website/images/portfolio/python_virtual_environment.png" />
+  
+  <meta property="og:url" content="https://loic-nazaries.github.io/website/fr/blog/python-virtual-environments/">
+  <meta property="og:site_name" content="Bienvenue chez Loïc&#39;s Data Science">
+  <meta property="og:title" content="Environnements virtuels Python : venv ou Conda ?">
+  <meta property="og:description" content="Guide pratique pour créer et gérer des environnements virtuels Python avec venv et Conda — quand utiliser l&#39;un ou l&#39;autre et comment garder vos projets propres.">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2026-04-26T09:00:00+01:00">
+    <meta property="article:modified_time" content="2026-04-26T09:00:00+01:00">
+    <meta property="article:tag" content="Python">
+    <meta property="article:tag" content="Tutoriel">
+    <meta property="article:tag" content="Conda">
+    <meta property="article:tag" content="Workflow">
+
+  
+
+</head><body>
+<!-- preloader start -->
+<div class="preloader">
+  
+  <img src="https://loic-nazaries.github.io/website/images/preloader.gif" alt="preloader">
+  
+</div>
+<!-- preloader end -->
+
+<section class="menu menu-fix" id="home">
+  <nav>
+    
+    <div class="menu-container menu-normal">
+      <ul class="desktop-menu list-inline mb-0 justify-content-end" id="desktop-menu">
+        <a class="mr-auto" href="https://loic-nazaries.github.io/website/fr">
+          
+          <img class="img-fluid" width="150px" src="https://loic-nazaries.github.io/website/images/logo-dark.png"
+            alt="Bienvenue chez Loïc&#39;s Data Science">
+          
+        </a>
+        
+        <li class="menu-item menu-item-transparent dark hvr-underline-from-left 1"><a href="https://loic-nazaries.github.io/fr/github-pages-website">Accueil</a></li>
+        
+        <li class="menu-item menu-item-transparent dark hvr-underline-from-left 1"><a href="https://loic-nazaries.github.io/website/fr/#about">À propos de moi</a></li>
+        
+        <li class="menu-item menu-item-transparent dark hvr-underline-from-left 1"><a href="https://loic-nazaries.github.io/website/fr/#service">Services</a></li>
+        
+        <li class="menu-item menu-item-transparent dark hvr-underline-from-left 1"><a href="https://loic-nazaries.github.io/website/fr/#portfolio">Portfolio</a></li>
+        
+        <li class="menu-item menu-item-transparent dark hvr-underline-from-left 1"><a href="https://loic-nazaries.github.io/website/fr/blog">Blog</a></li>
+        
+        <li class="menu-item menu-item-transparent dark hvr-underline-from-left 1"><a href="https://loic-nazaries.github.io/website/fr/#testimonial">Témoignages</a></li>
+        
+        <li class="menu-item menu-item-transparent dark hvr-underline-from-left 1"><a href="https://loic-nazaries.github.io/website/fr/#contact">Me contacter</a></li>
+        
+      </ul>
+      
+      <select id="select-language" onchange="location = this.value;">
+        
+        
+        
+        
+        
+        
+        
+        
+        <option id="fr" value="https://loic-nazaries.github.io/website/fr/blog/python-virtual-environments/" selected>Français
+        </option>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <option id="en" value="https://loic-nazaries.github.io/website/en/blog/python-virtual-environments/">English</option>
+        
+        
+        
+        
+      </select>
+      
+      
+
+      
+      <div class="mobile-menu">
+        <a class="menu-link">
+          <div class="mobile-menu-nav">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </a>
+        <div class="mobile-menu-logo"><a href="https://loic-nazaries.github.io/website/fr"><img class="img-fluid"
+              src="https://loic-nazaries.github.io/website/images/logo-dark.png" alt="Bienvenue chez Loïc&#39;s Data Science"></a>
+        </div>
+        <div class="menu-slider">
+          <nav>
+            <ul class="mobile-menu-list">
+              
+              <li class="hvr-shutter-out-vertical mobile-menu-item 1"><a href="https://loic-nazaries.github.io/fr/github-pages-website">Accueil</a></li>
+              
+              <li class="hvr-shutter-out-vertical mobile-menu-item 1"><a href="https://loic-nazaries.github.io/website/fr/#about">À propos de moi</a></li>
+              
+              <li class="hvr-shutter-out-vertical mobile-menu-item 1"><a href="https://loic-nazaries.github.io/website/fr/#service">Services</a></li>
+              
+              <li class="hvr-shutter-out-vertical mobile-menu-item 1"><a href="https://loic-nazaries.github.io/website/fr/#portfolio">Portfolio</a></li>
+              
+              <li class="hvr-shutter-out-vertical mobile-menu-item 1"><a href="https://loic-nazaries.github.io/website/fr/blog">Blog</a></li>
+              
+              <li class="hvr-shutter-out-vertical mobile-menu-item 1"><a href="https://loic-nazaries.github.io/website/fr/#testimonial">Témoignages</a></li>
+              
+              <li class="hvr-shutter-out-vertical mobile-menu-item 1"><a href="https://loic-nazaries.github.io/website/fr/#contact">Me contacter</a></li>
+              
+            </ul>
+            
+            <select class="ml-4" id="select-language" onchange="location = this.value;">
+              
+              
+              
+              
+              
+              
+              
+              
+              <option id="fr" value="https://loic-nazaries.github.io/website/fr/blog/python-virtual-environments/" selected>Français
+              </option>
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              <option id="en" value="https://loic-nazaries.github.io/website/en/blog/python-virtual-environments/">English</option>
+              
+              
+              
+              
+            </select>
+            
+            <ul class="mobile-menu-icons list-inline">
+              
+              <li><a href="https://www.linkedin.com/in/loic-nazaries"><i class="fab fa-linkedin"></i></a></li>
+              
+              <li><a href="https://github.com/loic-nazaries"><i class="fab fa-github"></i></a></li>
+              
+              <li><a href="https://gist.github.com/loic-nazaries"><i class="fab fa-github-alt"></i></a></li>
+              
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </nav>
+</section>
+
+<div style="height: 50px;"></div>
+
+
+
+
+
+<style></style>
+<section class="section " >
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mb-4 mb-lg-0">
+        <div class="wow fadeInUp" data-wow-duration="1.5s">
+          <img src="https://loic-nazaries.github.io/website/images/portfolio/python_virtual_environment.png" alt="image" class="img-fluid w-100 mb-5">
+          <div class="about-me-text mb-4">
+            <h1>Environnements virtuels Python : venv ou Conda ?</h1>
+          </div>
+          <div class="content"><p>La gestion des dépendances est l&rsquo;un des premiers défis rencontrés lorsqu&rsquo;on travaille sur plusieurs projets Python. Deux outils dominent : le module <code>venv</code> intégré à Python et <code>Conda</code>. Cet article explique quand utiliser chacun et présente les commandes essentielles.</p>
+<h2 id="pourquoi-isoler-les-environnements-">Pourquoi isoler les environnements ?</h2>
+<p>Chaque projet peut nécessiter des versions différentes d&rsquo;une même bibliothèque. Sans isolation, l&rsquo;installation d&rsquo;un paquet pour un projet peut en casser un autre. Les environnements virtuels résolvent ce problème en donnant à chaque projet sa propre installation Python cloisonnée.</p>
+<h2 id="créer-un-environnement-avec-venv">Créer un environnement avec venv</h2>
+<p><code>venv</code> fait partie de la bibliothèque standard Python — aucune installation requise.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e"># Créer l&#39;environnement</span>
+</span></span><span style="display:flex;"><span>python -m venv .venv
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># L&#39;activer (Windows)</span>
+</span></span><span style="display:flex;"><span>.venv<span style="color:#ae81ff">\S</span>cripts<span style="color:#ae81ff">\a</span>ctivate
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># L&#39;activer (macOS / Linux)</span>
+</span></span><span style="display:flex;"><span>source .venv/bin/activate
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Installer des paquets</span>
+</span></span><span style="display:flex;"><span>pip install pandas scikit-learn
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Sauvegarder les dépendances</span>
+</span></span><span style="display:flex;"><span>pip freeze &gt; requirements.txt
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Désactiver</span>
+</span></span><span style="display:flex;"><span>deactivate
+</span></span></code></pre></div><p>Utilisez <code>venv</code> lorsque vous travaillez avec des paquets Python purs via pip.</p>
+<h2 id="créer-un-environnement-avec-conda">Créer un environnement avec Conda</h2>
+<p>Conda va plus loin : il gère à la fois les versions Python et les dépendances non-Python (par exemple GDAL, bibliothèques CUDA).</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e"># Créer un environnement avec une version Python spécifique</span>
+</span></span><span style="display:flex;"><span>conda create --name monenv python<span style="color:#f92672">=</span>3.11
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># L&#39;activer</span>
+</span></span><span style="display:flex;"><span>conda activate monenv
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Installer des paquets (canal Conda en priorité, puis pip)</span>
+</span></span><span style="display:flex;"><span>conda install pandas scikit-learn
+</span></span><span style="display:flex;"><span>pip install streamlit
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Exporter l&#39;environnement</span>
+</span></span><span style="display:flex;"><span>conda env export &gt; environment.yml
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Recréer à partir du fichier</span>
+</span></span><span style="display:flex;"><span>conda env create -f environment.yml
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Désactiver</span>
+</span></span><span style="display:flex;"><span>conda deactivate
+</span></span></code></pre></div><h2 id="lequel-utiliser-">Lequel utiliser ?</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Situation</th>
+          <th>Recommandation</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Projet Python pur, paquets pip uniquement</td>
+          <td><code>venv</code></td>
+      </tr>
+      <tr>
+          <td>Projet nécessitant une version Python spécifique</td>
+          <td><code>conda</code></td>
+      </tr>
+      <tr>
+          <td>Projet géospatial, scientifique ou GPU</td>
+          <td><code>conda</code></td>
+      </tr>
+      <tr>
+          <td>Partage en équipe sur différents OS</td>
+          <td><code>conda</code> (environment.yml)</td>
+      </tr>
+      <tr>
+          <td>Pipeline CI/CD léger</td>
+          <td><code>venv</code></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="conseils-pratiques">Conseils pratiques</h2>
+<ul>
+<li>Versionnez <code>requirements.txt</code> ou <code>environment.yml</code> — ne commitez jamais le dossier d&rsquo;environnement lui-même.</li>
+<li>Nommez l&rsquo;environnement d&rsquo;après le projet, pas de façon générique (par ex. <code>analyse-eucface</code>, pas <code>monenv</code>).</li>
+<li>Avec Conda, préférez le canal <code>conda-forge</code> pour des paquets plus à jour.</li>
+</ul>
+<p>Voir aussi les pages portfolio sur les <a href="https://loic-nazaries.github.io/website/fr/portfolio/python_virtual_environment">environnements virtuels Python</a> et les <a href="https://loic-nazaries.github.io/website/fr/portfolio/python_virtual_env_conda">environnements Conda</a> pour des scripts directement réutilisables.</p>
+</div>
+
+          
+          <div class="tags mt-4 content">
+            <i class="fas fa-tags mr-2"></i>
+             <a
+              href="https://loic-nazaries.github.io/website/fr/tags/python">Python</a>, <a
+              href="https://loic-nazaries.github.io/website/fr/tags/tutoriel">Tutoriel</a>, <a
+              href="https://loic-nazaries.github.io/website/fr/tags/conda">Conda</a>, <a
+              href="https://loic-nazaries.github.io/website/fr/tags/workflow">Workflow</a>
+          </div>
+          
+
+          
+          
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="bg-white sticky-top wow fadeInUp" data-wow-duration="1.5s" style="top: 80px;">
+          <div class="widget">
+            <h3 class="widget-title">Tags</h3>
+            <ul class="list-unstyled widget-list">
+              <li><a href="https://loic-nazaries.github.io/website/fr/tags/bigquery">Bigquery&nbsp;&nbsp;(1)</a></li>
+              <li><a href="https://loic-nazaries.github.io/website/fr/tags/conda">Conda&nbsp;&nbsp;(1)</a></li>
+              <li><a href="https://loic-nazaries.github.io/website/fr/tags/data-engineering">Data engineering&nbsp;&nbsp;(1)</a></li>
+              <li><a href="https://loic-nazaries.github.io/website/fr/tags/data-science">Data science&nbsp;&nbsp;(1)</a></li>
+              <li><a href="https://loic-nazaries.github.io/website/fr/tags/environnement">Environnement&nbsp;&nbsp;(1)</a></li>
+              <li><a href="https://loic-nazaries.github.io/website/fr/tags/etl">Etl&nbsp;&nbsp;(1)</a></li>
+              <li><a href="https://loic-nazaries.github.io/website/fr/tags/ges">Ges&nbsp;&nbsp;(1)</a></li>
+              <li><a href="https://loic-nazaries.github.io/website/fr/tags/mod%c3%a9lisation">Modélisation&nbsp;&nbsp;(1)</a></li>
+              <li><a href="https://loic-nazaries.github.io/website/fr/tags/python">Python&nbsp;&nbsp;(3)</a></li>
+              <li><a href="https://loic-nazaries.github.io/website/fr/tags/tutoriel">Tutoriel&nbsp;&nbsp;(1)</a></li>
+              <li><a href="https://loic-nazaries.github.io/website/fr/tags/workflow">Workflow&nbsp;&nbsp;(1)</a></li>
+            </ul>
+          </div>
+
+          <div class="widget">
+            <h3 class="widget-title">Related Post</h3>
+            
+            
+            <ul class="list-unstyled widget-list">
+              <li class="media widget-post align-items-center">
+                
+                <a href="https://loic-nazaries.github.io/website/fr/blog/ghg-emissions-data-analysis/">
+                  <img class="widget-img" src="https://loic-nazaries.github.io/website/images/portfolio/ghg_modelling.png" alt="Analyser les émissions de gaz à effet de serre : des données terrain aux insights">
+                </a>
+                
+                <div class="media-body">
+                  <h5 class="h6 mb-0"><a href="https://loic-nazaries.github.io/website/fr/blog/ghg-emissions-data-analysis/">Analyser les émissions de gaz à effet de serre : des données terrain aux insights</a></h5>
+                  <small>April 26, 2026</small>
+                </div>
+              </li>
+            </ul>
+            
+            <ul class="list-unstyled widget-list">
+              <li class="media widget-post align-items-center">
+                
+                <a href="https://loic-nazaries.github.io/website/fr/blog/data-pipeline-best-practices/">
+                  <img class="widget-img" src="https://loic-nazaries.github.io/website/images/portfolio/data_pipeline.png" alt="Bonnes pratiques pour un pipeline de données : de la donnée brute à l&#39;analyse">
+                </a>
+                
+                <div class="media-body">
+                  <h5 class="h6 mb-0"><a href="https://loic-nazaries.github.io/website/fr/blog/data-pipeline-best-practices/">Bonnes pratiques pour un pipeline de données : de la donnée brute à l&#39;analyse</a></h5>
+                  <small>April 26, 2026</small>
+                </div>
+              </li>
+            </ul>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+	<footer class="footer-bg fadeInUp wow" data-wow-duration="1.5s">
+  <div class="container">
+    <div class="row">
+      <div class="footer col-lg-10 offset-lg-1">
+        <hr>
+        <ul class="footer-icons list-inline">
+          
+          <li><a href="https://www.linkedin.com/in/loic-nazaries"><i class="fab fa-linkedin"></i></a></li>
+          
+          <li><a href="https://github.com/loic-nazaries"><i class="fab fa-github"></i></a></li>
+          
+          <li><a href="https://gist.github.com/loic-nazaries"><i class="fab fa-github-alt"></i></a></li>
+          
+        </ul>
+        <div class="to-top">
+          <a href="#home"><i class="fa fa-chevron-up"></i></a>
+        </div>
+        <div class="credit content">
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer><!-- JS Plugins -->
+
+<script src="https://loic-nazaries.github.io/website/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://loic-nazaries.github.io/website/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://loic-nazaries.github.io/website/plugins/wow.min.js"></script>
+
+<script src="https://loic-nazaries.github.io/website/plugins/text-animation/text-animation.js"></script>
+
+<script src="https://loic-nazaries.github.io/website/plugins/jquery.waypoints.min.js"></script>
+
+<script src="https://loic-nazaries.github.io/website/plugins/shuffle/shuffle.min.js"></script>
+
+<script src="https://loic-nazaries.github.io/website/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+<script src="https://loic-nazaries.github.io/website/plugins/owl-carousel/owl.carousel.min.js"></script>
+
+
+<!-- Main Script -->
+
+<script src="https://loic-nazaries.github.io/website/js/script.min.js"></script>
+
+<!-- google analitycs -->
+</body>
+
+</html>
