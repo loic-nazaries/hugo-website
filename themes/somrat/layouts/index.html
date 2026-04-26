@@ -334,7 +334,7 @@
     {{ with .Content }}<div class="text-white content">{{ . | markdownify }}</div> {{ end }}
     {{ with .Params.button }}
     {{ if .enable }}
-    <a href="{{ .link | absURL}}">{{ .label }}</a>
+    <a href="{{ .link | safeURL }}" class="btn btn-primary hvr-sweep-to-right">{{ .label }}</a>
     {{ end }}
     {{ end }}
   </div>
