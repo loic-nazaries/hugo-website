@@ -6,6 +6,7 @@ bg_image: "images/backgrounds/contact.jpg"
 form_action: "https://formspree.io/f/xdoyeqgl" # works with https://formspree.io/you@email.com
 name: "Nom"
 email: "Email"
+role: "Rôle / Entreprise"
 message: "Message"
 submit: "Envoyer"
 
