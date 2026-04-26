@@ -411,6 +411,12 @@
           </div>
           {{ end }}
         </div>
+        {{ if .Params.testimonial_cta }}
+        <div class="testimonial-cta wow fadeInUp" data-wow-duration="1.5s">
+          <p>{{ .Params.testimonial_cta }}</p>
+          <a href="#contact" class="btn btn-primary hvr-sweep-to-right">{{ .Params.testimonial_cta_label }}</a>
+        </div>
+        {{ end }}
       </div>
     </div>
   </div>

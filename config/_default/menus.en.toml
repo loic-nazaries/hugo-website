@@ -18,10 +18,10 @@ pre = "en/#"
 url = "portfolio"
 weight = 40
 [[main]]
-# name = "Testimonial"
-# pre = "en/#"
-# url = "testimonial"
-# weight = 50
+name = "Testimonials"
+pre = "en/#"
+url = "testimonial"
+weight = 50
 [[main]]
 name = "Blog"
 url = "blog"
