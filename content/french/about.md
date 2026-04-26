@@ -53,6 +53,17 @@ experience:
       Modélisation géographique et temporelle <br>
       Réalisation d'un POC & dépôt d'un **brevet commercial**"
 
+############################### Teaching ###############################
+teaching:
+  enable : true
+  title : "ENSEIGNEMENT"
+  experience_list:
+    # experience item loop
+    - name : "Formateur BI"
+      company : "ISEG (Bordeaux, France)"
+      duration : "| *07/2020 à aujourd'hui*"
+      content : "Tableau Software"
+
 ############################### Skills #################################
 skill:
   enable : true

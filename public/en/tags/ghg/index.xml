@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GHG on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/en/tags/ghg/</link>
+    <description>Recent content in GHG on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sun, 26 Apr 2026 11:00:00 +0100</lastBuildDate>
+    <atom:link href="https://loic-nazaries.github.io/website/en/tags/ghg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysing Greenhouse Gas Emissions: From Field Data to Insights</title>
+      <link>https://loic-nazaries.github.io/website/en/blog/ghg-emissions-data-analysis/</link>
+      <pubDate>Sun, 26 Apr 2026 11:00:00 +0100</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/blog/ghg-emissions-data-analysis/</guid>
+      <description>&lt;p&gt;Greenhouse gas (GHG) flux measurements are notoriously noisy. Sensors drift, weather disrupts sampling, and the relationship between soil conditions and gas emissions is non-linear. This post walks through the analytical approach used in environmental GHG research projects, using data from the &lt;a href=&#34;https://loic-nazaries.github.io/website/en/portfolio/eucface&#34;&gt;EucFACE experiment&lt;/a&gt; as a reference.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-are-we-measuring&#34;&gt;What Are We Measuring?&lt;/h2&gt;&#xA;&lt;p&gt;The primary gases of interest in soil flux studies are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;CO₂&lt;/strong&gt; — produced by microbial respiration and root activity&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;CH₄&lt;/strong&gt; — consumed or produced by methanotrophic/methanogenic bacteria&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;N₂O&lt;/strong&gt; — produced during nitrification and denitrification&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Fluxes are typically measured in µmol m⁻² s⁻¹ (CO₂) or nmol m⁻² s⁻¹ (CH₄, N₂O).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

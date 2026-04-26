@@ -52,6 +52,16 @@ experience:
       Geographical & temporal modelling <br>
       Design of a POC & registration of a **commercial patent**"
 
+teaching:
+  enable : true
+  title : "TEACHING"
+  experience_list:
+    # experience item loop
+    - name : "BI Trainer"
+      company : "ISEG (Bordeaux, France)"
+      duration : "| *07/2020 to now*"
+      content : "Tableau Software"
+
 ############################### Skills #################################
 skill:
   enable : true

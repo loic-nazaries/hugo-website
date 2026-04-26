@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on Bienvenue chez Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/fr/tags/data-science/</link>
+    <description>Recent content in Data Science on Bienvenue chez Loïc&#39;s Data Science</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sun, 26 Apr 2026 11:00:00 +0100</lastBuildDate>
+    <atom:link href="https://loic-nazaries.github.io/website/fr/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyser les émissions de gaz à effet de serre : des données terrain aux insights</title>
+      <link>https://loic-nazaries.github.io/website/fr/blog/ghg-emissions-data-analysis/</link>
+      <pubDate>Sun, 26 Apr 2026 11:00:00 +0100</pubDate>
+      <guid>https://loic-nazaries.github.io/website/fr/blog/ghg-emissions-data-analysis/</guid>
+      <description>&lt;p&gt;Les mesures de flux de gaz à effet de serre (GES) sont notoirement bruitées. Les capteurs dérivent, la météo perturbe l&amp;rsquo;échantillonnage, et la relation entre les conditions du sol et les émissions de gaz est non linéaire. Cet article présente l&amp;rsquo;approche analytique utilisée dans les projets de recherche environnementale sur les GES, en s&amp;rsquo;appuyant sur les données de l&amp;rsquo;&lt;a href=&#34;https://loic-nazaries.github.io/website/fr/portfolio/eucface&#34;&gt;expérience EucFACE&lt;/a&gt; comme référence.&lt;/p&gt;&#xA;&lt;h2 id=&#34;quest-ce-quon-mesure-&#34;&gt;Qu&amp;rsquo;est-ce qu&amp;rsquo;on mesure ?&lt;/h2&gt;&#xA;&lt;p&gt;Les principaux gaz étudiés dans les analyses de flux du sol sont :&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

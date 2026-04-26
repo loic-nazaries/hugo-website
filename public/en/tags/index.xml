@@ -7,6 +7,84 @@
     <generator>Hugo</generator>
     <language>en-GB</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sun, 26 Apr 2026 11:00:00 +0100</lastBuildDate>
     <atom:link href="https://loic-nazaries.github.io/website/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science</title>
+      <link>https://loic-nazaries.github.io/website/en/tags/data-science/</link>
+      <pubDate>Sun, 26 Apr 2026 11:00:00 +0100</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/tags/data-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Environment</title>
+      <link>https://loic-nazaries.github.io/website/en/tags/environment/</link>
+      <pubDate>Sun, 26 Apr 2026 11:00:00 +0100</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/tags/environment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GHG</title>
+      <link>https://loic-nazaries.github.io/website/en/tags/ghg/</link>
+      <pubDate>Sun, 26 Apr 2026 11:00:00 +0100</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/tags/ghg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modelling</title>
+      <link>https://loic-nazaries.github.io/website/en/tags/modelling/</link>
+      <pubDate>Sun, 26 Apr 2026 11:00:00 +0100</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/tags/modelling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://loic-nazaries.github.io/website/en/tags/python/</link>
+      <pubDate>Sun, 26 Apr 2026 11:00:00 +0100</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BigQuery</title>
+      <link>https://loic-nazaries.github.io/website/en/tags/bigquery/</link>
+      <pubDate>Sun, 26 Apr 2026 10:00:00 +0100</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/tags/bigquery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Engineering</title>
+      <link>https://loic-nazaries.github.io/website/en/tags/data-engineering/</link>
+      <pubDate>Sun, 26 Apr 2026 10:00:00 +0100</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/tags/data-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ETL</title>
+      <link>https://loic-nazaries.github.io/website/en/tags/etl/</link>
+      <pubDate>Sun, 26 Apr 2026 10:00:00 +0100</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/tags/etl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conda</title>
+      <link>https://loic-nazaries.github.io/website/en/tags/conda/</link>
+      <pubDate>Sun, 26 Apr 2026 09:00:00 +0100</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/tags/conda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>https://loic-nazaries.github.io/website/en/tags/tutorial/</link>
+      <pubDate>Sun, 26 Apr 2026 09:00:00 +0100</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workflow</title>
+      <link>https://loic-nazaries.github.io/website/en/tags/workflow/</link>
+      <pubDate>Sun, 26 Apr 2026 09:00:00 +0100</pubDate>
+      <guid>https://loic-nazaries.github.io/website/en/tags/workflow/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
