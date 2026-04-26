@@ -1,0 +1,417 @@
+{
+  "communities": {
+    "0": [
+      "jquery_min_a",
+      "jquery_min_ae",
+      "jquery_min_b",
+      "jquery_min_be",
+      "jquery_min_bt",
+      "jquery_min_ce",
+      "jquery_min_ct",
+      "jquery_min_d",
+      "jquery_min_dt",
+      "jquery_min_e",
+      "jquery_min_ee",
+      "jquery_min_et",
+      "jquery_min_fe",
+      "jquery_min_ft",
+      "jquery_min_ge",
+      "jquery_min_he",
+      "jquery_min_i",
+      "jquery_min_ie",
+      "jquery_min_j",
+      "jquery_min_ke",
+      "jquery_min_l",
+      "jquery_min_le",
+      "jquery_min_lt",
+      "jquery_min_m",
+      "jquery_min_me",
+      "jquery_min_mt",
+      "jquery_min_ne",
+      "jquery_min_nt",
+      "jquery_min_oe",
+      "jquery_min_p",
+      "jquery_min_pe",
+      "jquery_min_pt",
+      "jquery_min_qt",
+      "jquery_min_re",
+      "jquery_min_se",
+      "jquery_min_t",
+      "jquery_min_te",
+      "jquery_min_tt",
+      "jquery_min_ue",
+      "jquery_min_v",
+      "jquery_min_ve",
+      "jquery_min_w",
+      "jquery_min_we",
+      "jquery_min_x",
+      "jquery_min_xe",
+      "jquery_min_xt",
+      "jquery_min_y",
+      "jquery_min_ye",
+      "jquery_min_zt",
+      "shuffle_min_s",
+      "static_plugins_jquery_jquery_min_js",
+      "wow_min_k"
+    ],
+    "1": [
+      "about_page",
+      "alteryx_designer",
+      "alteryx_fr",
+      "banner_page",
+      "bifora",
+      "call_to_action_page",
+      "contact_page",
+      "funfacts_page",
+      "github",
+      "google_bi_fr",
+      "google_bigquery",
+      "google_bigquery_datastudio_fr",
+      "google_data_studio",
+      "grains_rdc",
+      "heroku",
+      "hugo_website",
+      "la_piscine",
+      "portfolio_alteryx",
+      "portfolio_dashboard",
+      "portfolio_data_pipeline",
+      "portfolio_deploy_heroku",
+      "portfolio_github_repo",
+      "portfolio_google_bi",
+      "portfolio_google_bigquery_datastudio",
+      "portfolio_kpi_modelling",
+      "python_streamlit",
+      "service_page"
+    ],
+    "2": [
+      "cv_data_eng",
+      "cv_data_fr",
+      "fang_et_al_2018",
+      "fang_et_al_2019",
+      "french_about",
+      "french_banner",
+      "french_service",
+      "grains_research_corp",
+      "jeffries_et_al_2018",
+      "jiang_et_al_2020",
+      "kpi_modelling_fr",
+      "loic_nazaries",
+      "martins_et_al_2015",
+      "martins_et_al_2016",
+      "martins_et_al_2017",
+      "mcnee_et_al_2015",
+      "nazaries_2005",
+      "nazaries_2011",
+      "nazaries_et_al_2010_isme13",
+      "nazaries_et_al_2011",
+      "nazaries_et_al_2012_isme14",
+      "nazaries_et_al_2013a",
+      "nazaries_et_al_2013b",
+      "nazaries_et_al_2014_isme15",
+      "nazaries_et_al_2015",
+      "nazaries_et_al_2018",
+      "scientific_publications_page_fr"
+    ],
+    "3": [
+      "bootstrap_min_a",
+      "bootstrap_min_c",
+      "bootstrap_min_e",
+      "bootstrap_min_i",
+      "bootstrap_min_l",
+      "bootstrap_min_n",
+      "bootstrap_min_o",
+      "bootstrap_min_r",
+      "bootstrap_min_s",
+      "bootstrap_min_t",
+      "bootstrap_min_we",
+      "static_plugins_bootstrap_bootstrap_min_js",
+      "static_plugins_wow_min_js",
+      "wow_min_a",
+      "wow_min_c",
+      "wow_min_d",
+      "wow_min_e",
+      "wow_min_f",
+      "wow_min_g",
+      "wow_min_h",
+      "wow_min_i",
+      "wow_min_j"
+    ],
+    "4": [
+      "bifora_client",
+      "dashboard_streamlit_fr",
+      "data_pipeline_fr",
+      "database_modelling_fr",
+      "deploy_heroku_fr",
+      "eucface_experiment",
+      "eucface_fr",
+      "geographical_modelling_fr",
+      "ghg_emissions",
+      "ghg_modelling_fr",
+      "hawkesbury_institute",
+      "heroku_platform",
+      "la_piscine_client",
+      "portfolio_database_modelling",
+      "portfolio_eucface",
+      "portfolio_geographical_modelling",
+      "portfolio_ghg_modelling",
+      "postgresql",
+      "python_language",
+      "python_virtual_environment_fr",
+      "sql",
+      "streamlit_library"
+    ],
+    "5": [
+      "baseof_layout",
+      "blog_index",
+      "blog_post_6",
+      "default_list_layout",
+      "default_single_layout",
+      "layout_index",
+      "partial_footer",
+      "partial_head",
+      "partial_header",
+      "partial_preloader",
+      "partial_script",
+      "portfolio_index",
+      "portfolio_list_layout",
+      "portfolio_project_1",
+      "portfolio_project_2",
+      "portfolio_project_3",
+      "portfolio_project_4",
+      "portfolio_project_5",
+      "portfolio_project_6",
+      "portfolio_single_layout",
+      "scientific_publications"
+    ],
+    "6": [
+      "jquery_min_ze",
+      "owl_carousel_min_e",
+      "owl_carousel_min_f",
+      "shuffle_min_a",
+      "shuffle_min_c",
+      "shuffle_min_d",
+      "shuffle_min_e",
+      "shuffle_min_f",
+      "shuffle_min_i",
+      "shuffle_min_l",
+      "shuffle_min_m",
+      "shuffle_min_n",
+      "shuffle_min_o",
+      "shuffle_min_r",
+      "shuffle_min_t",
+      "shuffle_min_x",
+      "shuffle_min_z",
+      "static_plugins_owl_carousel_owl_carousel_min_js",
+      "static_plugins_shuffle_shuffle_min_js"
+    ],
+    "7": [
+      "bigquery_datastudio",
+      "conda",
+      "conda_technology",
+      "french_portfolio_section",
+      "ghg_emissions_research",
+      "gist_etl_bigquery_datastudio",
+      "gist_venv_conda",
+      "gist_venv_python",
+      "github_gist_service",
+      "portfolio_index_en",
+      "portfolio_python_venv",
+      "portfolio_python_venv_conda",
+      "portfolio_tableau_dashboard",
+      "python_technology",
+      "python_venv_module",
+      "rdbms_uml_diagram",
+      "scientific_publications_doc",
+      "tableau_dashboard_en",
+      "tableau_software"
+    ],
+    "8": [
+      "aem_journal",
+      "brajesh_singh",
+      "calluna_vulgaris_rhizosphere",
+      "chlorpyrifos",
+      "frontiers_microbiology",
+      "microbial_bioremediation",
+      "mtrflp_method",
+      "pseudomonas_4h1m3",
+      "rayu_2017",
+      "rhizobium_4h1m1",
+      "singh_2006",
+      "smriti_rayu",
+      "soil_microbial_community",
+      "sugarcane_farm_soils",
+      "tcp",
+      "uffe_nielsen",
+      "xanthomonas_4r3m1"
+    ],
+    "9": [
+      "example_blog_post_database",
+      "example_blog_post_design_art",
+      "example_blog_post_design_dev",
+      "example_blog_post_design_sketch",
+      "example_blog_post_web_dev",
+      "example_site_about",
+      "example_site_banner",
+      "example_site_call_to_action",
+      "example_site_contact",
+      "example_site_funfacts",
+      "example_site_service",
+      "example_site_testimonial",
+      "somrat_archetype_default",
+      "somrat_theme"
+    ],
+    "10": [
+      "jquery_min_de",
+      "static_plugins_text_animation_text_animation_js",
+      "text_animation_c",
+      "text_animation_h",
+      "text_animation_l",
+      "text_animation_o",
+      "text_animation_r"
+    ],
+    "11": [
+      "assets_js_script_js",
+      "script_counter",
+      "script_sliderbackground",
+      "script_smoothscroll"
+    ],
+    "12": [
+      "jquery_waypoints_min_e",
+      "jquery_waypoints_min_i",
+      "jquery_waypoints_min_t",
+      "static_plugins_jquery_waypoints_min_js"
+    ],
+    "13": [
+      "github_platform",
+      "github_repo_fr"
+    ],
+    "14": [
+      "static_plugins_magnific_popup_jquery_magnific_popup_min_js"
+    ],
+    "15": [
+      "french_funfacts"
+    ],
+    "16": [
+      "french_contact"
+    ],
+    "17": [
+      "french_call_to_action"
+    ],
+    "18": [
+      "layout_404"
+    ],
+    "19": [
+      "data_fallacies"
+    ]
+  },
+  "cohesion": {},
+  "god_nodes": [
+    {
+      "id": "jquery_min_se",
+      "label": "se()",
+      "degree": 10
+    },
+    {
+      "id": "jquery_min_ce",
+      "label": "ce()",
+      "degree": 10
+    },
+    {
+      "id": "shuffle_min_e",
+      "label": "e()",
+      "degree": 9
+    },
+    {
+      "id": "wow_min_g",
+      "label": "g()",
+      "degree": 8
+    },
+    {
+      "id": "jquery_min_m",
+      "label": "M()",
+      "degree": 8
+    },
+    {
+      "id": "jquery_min_we",
+      "label": "we()",
+      "degree": 7
+    },
+    {
+      "id": "jquery_min_ee",
+      "label": "Ee()",
+      "degree": 7
+    },
+    {
+      "id": "text_animation_l",
+      "label": "l()",
+      "degree": 7
+    },
+    {
+      "id": "jquery_min_l",
+      "label": "l()",
+      "degree": 6
+    },
+    {
+      "id": "bootstrap_min_e",
+      "label": "e()",
+      "degree": 5
+    }
+  ],
+  "surprises": [
+    {
+      "source": "o()",
+      "target": "g()",
+      "source_files": [
+        "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+        "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; peripheral node `o()` unexpectedly reaches hub `g()`"
+    },
+    {
+      "source": "n()",
+      "target": "g()",
+      "source_files": [
+        "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+        "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; peripheral node `n()` unexpectedly reaches hub `g()`"
+    },
+    {
+      "source": "se()",
+      "target": "g()",
+      "source_files": [
+        "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+        "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "ce()",
+      "target": "g()",
+      "source_files": [
+        "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+        "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "se()",
+      "target": "h()",
+      "source_files": [
+        "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+        "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities"
+    }
+  ]
+}

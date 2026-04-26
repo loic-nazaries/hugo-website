@@ -1,0 +1,5813 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "hyperedges": [
+      {
+        "nodes": [
+          "portfolio_eucface",
+          "portfolio_ghg_modelling",
+          "portfolio_database_modelling",
+          "portfolio_geographical_modelling"
+        ],
+        "relation": "all constitute the EucFACE environmental science research cluster",
+        "confidence": "INFERRED"
+      },
+      {
+        "nodes": [
+          "portfolio_dashboard",
+          "portfolio_google_bi",
+          "portfolio_google_bigquery_datastudio"
+        ],
+        "relation": "all demonstrate data visualisation and dashboard capabilities",
+        "confidence": "INFERRED"
+      },
+      {
+        "nodes": [
+          "portfolio_python_venv",
+          "portfolio_python_venv_conda",
+          "portfolio_github_repo"
+        ],
+        "relation": "all describe developer tooling and environment setup workflows",
+        "confidence": "INFERRED"
+      },
+      {
+        "id": "ghg_research_cluster",
+        "label": "GHG Research Projects",
+        "members": [
+          "eucface_fr",
+          "ghg_modelling_fr",
+          "tableau_dashboard_en",
+          "dashboard_streamlit_fr",
+          "data_pipeline_fr",
+          "database_modelling_fr"
+        ],
+        "relation": "collectively_studies_ghg_emissions",
+        "confidence": "INFERRED"
+      },
+      {
+        "id": "google_bi_tools_cluster",
+        "label": "Google BI Tools",
+        "members": [
+          "google_bi_fr",
+          "google_bigquery_datastudio_fr",
+          "google_bigquery",
+          "google_data_studio"
+        ],
+        "relation": "collectively_implements_bi_pipeline",
+        "confidence": "EXTRACTED"
+      },
+      {
+        "id": "python_data_workflow_scripts",
+        "label": "Python Data Workflow Scripts",
+        "members": [
+          "gist_venv_conda",
+          "gist_venv_python",
+          "gist_etl_bigquery_datastudio"
+        ],
+        "relation": "collectively form Python data project setup and ETL scripts",
+        "confidence": "EXTRACTED"
+      },
+      {
+        "id": "base_layout_system",
+        "label": "Somrat Theme Base Layout System",
+        "members": [
+          "baseof_layout",
+          "partial_head",
+          "partial_header",
+          "partial_footer",
+          "partial_preloader",
+          "partial_script"
+        ],
+        "relation": "composes theme shell",
+        "confidence": "EXTRACTED"
+      },
+      {
+        "id": "example_portfolio_projects",
+        "label": "Example Portfolio Projects (Theme Demos)",
+        "members": [
+          "portfolio_project_1",
+          "portfolio_project_2",
+          "portfolio_project_3",
+          "portfolio_project_4",
+          "portfolio_project_5",
+          "portfolio_project_6"
+        ],
+        "relation": "share identical project_info template structure",
+        "confidence": "EXTRACTED"
+      },
+      {
+        "id": "methanotroph_research_series",
+        "label": "Methanotroph Research Series",
+        "members": [
+          "nazaries_2005",
+          "nazaries_et_al_2010_isme13",
+          "nazaries_et_al_2011",
+          "nazaries_2011",
+          "nazaries_et_al_2012_isme14",
+          "nazaries_et_al_2013a",
+          "nazaries_et_al_2013b",
+          "nazaries_et_al_2018"
+        ],
+        "relation": "form_methanotroph_research_series"
+      },
+      {
+        "id": "ghg_emissions_research_series",
+        "label": "Greenhouse Gas Emissions Research Series",
+        "members": [
+          "martins_et_al_2015",
+          "martins_et_al_2016",
+          "martins_et_al_2017",
+          "jiang_et_al_2020",
+          "mcnee_et_al_2015"
+        ],
+        "relation": "form_greenhouse_gas_research_series"
+      },
+      {
+        "id": "carbon_priming_research_series",
+        "label": "Carbon Priming and Soil Carbon Research",
+        "members": [
+          "fang_et_al_2018",
+          "fang_et_al_2019",
+          "nazaries_et_al_2014_isme15",
+          "nazaries_et_al_2015"
+        ],
+        "relation": "form_soil_carbon_research_series"
+      },
+      {
+        "id": "nazaries_authored_works",
+        "label": "Works Authored or Co-authored by Lo\u00efc Nazaries",
+        "members": [
+          "nazaries_2005",
+          "nazaries_2011",
+          "nazaries_et_al_2010_isme13",
+          "nazaries_et_al_2011",
+          "nazaries_et_al_2012_isme14",
+          "nazaries_et_al_2013a",
+          "nazaries_et_al_2013b",
+          "nazaries_et_al_2014_isme15",
+          "nazaries_et_al_2015",
+          "nazaries_et_al_2018",
+          "fang_et_al_2018",
+          "fang_et_al_2019",
+          "jeffries_et_al_2018",
+          "jiang_et_al_2020",
+          "martins_et_al_2015",
+          "martins_et_al_2016",
+          "martins_et_al_2017",
+          "mcnee_et_al_2015"
+        ],
+        "relation": "authored_by_loic_nazaries"
+      },
+      {
+        "id": "shared_authorship_singh_nazaries",
+        "label": "Shared authorship: Brajesh K. Singh & Lo\u00efc Nazaries",
+        "members": [
+          "brajesh_singh",
+          "loic_nazaries",
+          "rayu_2017",
+          "singh_2006"
+        ],
+        "relation": "co-authored both papers",
+        "confidence": "EXTRACTED"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "label": "script.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\assets\\js\\script.js",
+      "source_location": "L1",
+      "id": "assets_js_script_js"
+    },
+    {
+      "label": "counter()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\assets\\js\\script.js",
+      "source_location": "L18",
+      "id": "script_counter"
+    },
+    {
+      "label": "smoothScroll()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\assets\\js\\script.js",
+      "source_location": "L56",
+      "id": "script_smoothscroll"
+    },
+    {
+      "label": "SliderBackground()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\assets\\js\\script.js",
+      "source_location": "L129",
+      "id": "script_sliderbackground"
+    },
+    {
+      "label": "jquery.waypoints.min.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L1",
+      "id": "static_plugins_jquery_waypoints_min_js"
+    },
+    {
+      "label": "t()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "id": "jquery_waypoints_min_t"
+    },
+    {
+      "label": "e()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "id": "jquery_waypoints_min_e"
+    },
+    {
+      "label": "i()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "id": "jquery_waypoints_min_i"
+    },
+    {
+      "label": "wow.min.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L1",
+      "id": "static_plugins_wow_min_js"
+    },
+    {
+      "label": "c()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "id": "wow_min_c"
+    },
+    {
+      "label": "d()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "id": "wow_min_d"
+    },
+    {
+      "label": "e()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "id": "wow_min_e"
+    },
+    {
+      "label": "f()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "id": "wow_min_f"
+    },
+    {
+      "label": "g()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "id": "wow_min_g"
+    },
+    {
+      "label": "h()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "id": "wow_min_h"
+    },
+    {
+      "label": "i()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "id": "wow_min_i"
+    },
+    {
+      "label": "j()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "id": "wow_min_j"
+    },
+    {
+      "label": "k()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "id": "wow_min_k"
+    },
+    {
+      "label": "a()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "id": "wow_min_a"
+    },
+    {
+      "label": "bootstrap.min.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L1",
+      "id": "static_plugins_bootstrap_bootstrap_min_js"
+    },
+    {
+      "label": "i()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "id": "bootstrap_min_i"
+    },
+    {
+      "label": "s()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "id": "bootstrap_min_s"
+    },
+    {
+      "label": "e()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "id": "bootstrap_min_e"
+    },
+    {
+      "label": "l()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "id": "bootstrap_min_l"
+    },
+    {
+      "label": "o()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "id": "bootstrap_min_o"
+    },
+    {
+      "label": "n()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "id": "bootstrap_min_n"
+    },
+    {
+      "label": "r()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "id": "bootstrap_min_r"
+    },
+    {
+      "label": "a()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "id": "bootstrap_min_a"
+    },
+    {
+      "label": "c()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "id": "bootstrap_min_c"
+    },
+    {
+      "label": "we()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "id": "bootstrap_min_we"
+    },
+    {
+      "label": "t()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "id": "bootstrap_min_t"
+    },
+    {
+      "label": "jquery.min.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L1",
+      "id": "static_plugins_jquery_jquery_min_js"
+    },
+    {
+      "label": "b()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_b"
+    },
+    {
+      "label": "w()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_w"
+    },
+    {
+      "label": "d()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_d"
+    },
+    {
+      "label": "se()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_se"
+    },
+    {
+      "label": "ue()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_ue"
+    },
+    {
+      "label": "le()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_le"
+    },
+    {
+      "label": "ce()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_ce"
+    },
+    {
+      "label": "fe()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_fe"
+    },
+    {
+      "label": "pe()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_pe"
+    },
+    {
+      "label": "de()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_de"
+    },
+    {
+      "label": "he()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_he"
+    },
+    {
+      "label": "ge()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_ge"
+    },
+    {
+      "label": "ve()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_ve"
+    },
+    {
+      "label": "ye()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_ye"
+    },
+    {
+      "label": "me()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_me"
+    },
+    {
+      "label": "xe()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_xe"
+    },
+    {
+      "label": "be()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_be"
+    },
+    {
+      "label": "we()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_we"
+    },
+    {
+      "label": "Te()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_te"
+    },
+    {
+      "label": "Ee()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_ee"
+    },
+    {
+      "label": "A()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_a"
+    },
+    {
+      "label": "j()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_j"
+    },
+    {
+      "label": "P()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_p"
+    },
+    {
+      "label": "M()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_m"
+    },
+    {
+      "label": "I()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_i"
+    },
+    {
+      "label": "l()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_l"
+    },
+    {
+      "label": "X()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_x"
+    },
+    {
+      "label": "V()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_v"
+    },
+    {
+      "label": "Y()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_y"
+    },
+    {
+      "label": "ke()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_ke"
+    },
+    {
+      "label": "Ne()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_ne"
+    },
+    {
+      "label": "Ae()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_ae"
+    },
+    {
+      "label": "Oe()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_oe"
+    },
+    {
+      "label": "Re()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_re"
+    },
+    {
+      "label": "Ie()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_ie"
+    },
+    {
+      "label": "_e()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_e"
+    },
+    {
+      "label": "ze()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_ze"
+    },
+    {
+      "label": "t()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_t"
+    },
+    {
+      "label": "et()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_et"
+    },
+    {
+      "label": "tt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_tt"
+    },
+    {
+      "label": "nt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_nt"
+    },
+    {
+      "label": "lt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_lt"
+    },
+    {
+      "label": "ct()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_ct"
+    },
+    {
+      "label": "ft()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_ft"
+    },
+    {
+      "label": "pt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_pt"
+    },
+    {
+      "label": "dt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_dt"
+    },
+    {
+      "label": "mt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_mt"
+    },
+    {
+      "label": "xt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_xt"
+    },
+    {
+      "label": "bt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_bt"
+    },
+    {
+      "label": "qt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_qt"
+    },
+    {
+      "label": "zt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "id": "jquery_min_zt"
+    },
+    {
+      "label": "jquery.magnific-popup.min.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\magnific-popup\\jquery.magnific-popup.min.js",
+      "source_location": "L1",
+      "id": "static_plugins_magnific_popup_jquery_magnific_popup_min_js"
+    },
+    {
+      "label": "owl.carousel.min.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "source_location": "L1",
+      "id": "static_plugins_owl_carousel_owl_carousel_min_js"
+    },
+    {
+      "label": "e()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "source_location": "L6",
+      "id": "owl_carousel_min_e"
+    },
+    {
+      "label": "f()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "source_location": "L7",
+      "id": "owl_carousel_min_f"
+    },
+    {
+      "label": "shuffle.min.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "id": "static_plugins_shuffle_shuffle_min_js"
+    },
+    {
+      "label": "t()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "id": "shuffle_min_t"
+    },
+    {
+      "label": "e()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "id": "shuffle_min_e"
+    },
+    {
+      "label": "i()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "id": "shuffle_min_i"
+    },
+    {
+      "label": "n()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "id": "shuffle_min_n"
+    },
+    {
+      "label": "s()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "id": "shuffle_min_s"
+    },
+    {
+      "label": "o()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "id": "shuffle_min_o"
+    },
+    {
+      "label": "r()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "id": "shuffle_min_r"
+    },
+    {
+      "label": "l()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "id": "shuffle_min_l"
+    },
+    {
+      "label": "c()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "id": "shuffle_min_c"
+    },
+    {
+      "label": "d()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "id": "shuffle_min_d"
+    },
+    {
+      "label": "z()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "id": "shuffle_min_z"
+    },
+    {
+      "label": "M()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "id": "shuffle_min_m"
+    },
+    {
+      "label": "A()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "id": "shuffle_min_a"
+    },
+    {
+      "label": "F()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "id": "shuffle_min_f"
+    },
+    {
+      "label": "x()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "id": "shuffle_min_x"
+    },
+    {
+      "label": "text-animation.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "id": "static_plugins_text_animation_text_animation_js"
+    },
+    {
+      "label": "l()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "id": "text_animation_l"
+    },
+    {
+      "label": "r()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "id": "text_animation_r"
+    },
+    {
+      "label": "o()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "id": "text_animation_o"
+    },
+    {
+      "label": "c()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "id": "text_animation_c"
+    },
+    {
+      "label": "h()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "id": "text_animation_h"
+    },
+    {
+      "label": "Hugo Personal Website",
+      "file_type": "document",
+      "id": "hugo_website"
+    },
+    {
+      "label": "Lo\u00efc Nazaries",
+      "file_type": "document",
+      "id": "loic_nazaries"
+    },
+    {
+      "label": "Somrat Hugo Theme",
+      "file_type": "code",
+      "id": "somrat_theme"
+    },
+    {
+      "label": "About Page",
+      "file_type": "document",
+      "id": "about_page"
+    },
+    {
+      "label": "Banner / Home Page",
+      "file_type": "document",
+      "id": "banner_page"
+    },
+    {
+      "label": "Services Page",
+      "file_type": "document",
+      "id": "service_page"
+    },
+    {
+      "label": "Contact Page",
+      "file_type": "document",
+      "id": "contact_page"
+    },
+    {
+      "label": "Guarantees Page",
+      "file_type": "document",
+      "id": "funfacts_page"
+    },
+    {
+      "label": "Call-to-Action Page",
+      "file_type": "document",
+      "id": "call_to_action_page"
+    },
+    {
+      "label": "Alteryx Workflow Portfolio Item",
+      "file_type": "document",
+      "id": "portfolio_alteryx"
+    },
+    {
+      "label": "GHG Estimation Portal Dashboard",
+      "file_type": "document",
+      "id": "portfolio_dashboard"
+    },
+    {
+      "label": "Database Modelling Portfolio Item",
+      "file_type": "document",
+      "id": "portfolio_database_modelling"
+    },
+    {
+      "label": "Data Pipeline Portfolio Item",
+      "file_type": "document",
+      "id": "portfolio_data_pipeline"
+    },
+    {
+      "label": "Web App Deployment with Heroku",
+      "file_type": "document",
+      "id": "portfolio_deploy_heroku"
+    },
+    {
+      "label": "EucFACE Site Presentation",
+      "file_type": "document",
+      "id": "portfolio_eucface"
+    },
+    {
+      "label": "Geographical Modelling Portfolio Item",
+      "file_type": "document",
+      "id": "portfolio_geographical_modelling"
+    },
+    {
+      "label": "GHG Modelling Portfolio Item",
+      "file_type": "document",
+      "id": "portfolio_ghg_modelling"
+    },
+    {
+      "label": "GitHub Repository Portfolio Item",
+      "file_type": "document",
+      "id": "portfolio_github_repo"
+    },
+    {
+      "label": "Google Business Intelligence Portfolio Item",
+      "file_type": "document",
+      "id": "portfolio_google_bi"
+    },
+    {
+      "label": "Google BigQuery & Data Studio Portfolio Item",
+      "file_type": "document",
+      "id": "portfolio_google_bigquery_datastudio"
+    },
+    {
+      "label": "KPI Modelling Portfolio Item",
+      "file_type": "document",
+      "id": "portfolio_kpi_modelling"
+    },
+    {
+      "label": "Python Virtual Environment Portfolio Item",
+      "file_type": "document",
+      "id": "portfolio_python_venv"
+    },
+    {
+      "label": "Portfolio: Python Virtual Environment with Conda",
+      "file_type": "document",
+      "id": "portfolio_python_venv_conda"
+    },
+    {
+      "label": "Alteryx Designer",
+      "file_type": "code",
+      "id": "alteryx_designer"
+    },
+    {
+      "label": "Python Streamlit",
+      "file_type": "code",
+      "id": "python_streamlit"
+    },
+    {
+      "label": "Heroku",
+      "file_type": "code",
+      "id": "heroku"
+    },
+    {
+      "label": "PostgreSQL",
+      "file_type": "code",
+      "id": "postgresql"
+    },
+    {
+      "label": "SQL",
+      "file_type": "code",
+      "id": "sql"
+    },
+    {
+      "label": "Google BigQuery",
+      "file_type": "code",
+      "id": "google_bigquery"
+    },
+    {
+      "label": "Google Data Studio",
+      "file_type": "code",
+      "id": "google_data_studio"
+    },
+    {
+      "label": "GitHub",
+      "file_type": "code",
+      "id": "github"
+    },
+    {
+      "label": "Conda",
+      "file_type": "code",
+      "id": "conda"
+    },
+    {
+      "label": "Python venv Module",
+      "file_type": "code",
+      "id": "python_venv_module"
+    },
+    {
+      "label": "BIFORA",
+      "file_type": "document",
+      "id": "bifora"
+    },
+    {
+      "label": "La Piscine",
+      "file_type": "document",
+      "id": "la_piscine"
+    },
+    {
+      "label": "Hawkesbury Institute for the Environment",
+      "file_type": "document",
+      "id": "hawkesbury_institute"
+    },
+    {
+      "label": "Grains Research and Development Corporation",
+      "file_type": "document",
+      "id": "grains_rdc"
+    },
+    {
+      "label": "Greenhouse Gas Emissions Research",
+      "file_type": "document",
+      "id": "ghg_emissions"
+    },
+    {
+      "label": "EucFACE Experiment",
+      "file_type": "document",
+      "id": "eucface_experiment"
+    },
+    {
+      "label": "Portfolio Index (English)",
+      "file_type": "document",
+      "id": "portfolio_index_en"
+    },
+    {
+      "label": "Tableau Dashboard",
+      "file_type": "document",
+      "id": "tableau_dashboard_en"
+    },
+    {
+      "label": "Alteryx Workflow",
+      "file_type": "document",
+      "id": "alteryx_fr"
+    },
+    {
+      "label": "Interactive Dashboard - GHG Estimation Portal",
+      "file_type": "document",
+      "id": "dashboard_streamlit_fr"
+    },
+    {
+      "label": "Database Modelling (RDBMS)",
+      "file_type": "document",
+      "id": "database_modelling_fr"
+    },
+    {
+      "label": "Data Pipeline",
+      "file_type": "document",
+      "id": "data_pipeline_fr"
+    },
+    {
+      "label": "Deploy Web App with Heroku",
+      "file_type": "document",
+      "id": "deploy_heroku_fr"
+    },
+    {
+      "label": "EucFACE Site Presentation",
+      "file_type": "document",
+      "id": "eucface_fr"
+    },
+    {
+      "label": "Geographical Modelling",
+      "file_type": "document",
+      "id": "geographical_modelling_fr"
+    },
+    {
+      "label": "GHG Modelling",
+      "file_type": "document",
+      "id": "ghg_modelling_fr"
+    },
+    {
+      "label": "GitHub Repository Project",
+      "file_type": "document",
+      "id": "github_repo_fr"
+    },
+    {
+      "label": "Google Business Intelligence",
+      "file_type": "document",
+      "id": "google_bi_fr"
+    },
+    {
+      "label": "Google BigQuery and Data Studio",
+      "file_type": "document",
+      "id": "google_bigquery_datastudio_fr"
+    },
+    {
+      "label": "KPI Modelling",
+      "file_type": "document",
+      "id": "kpi_modelling_fr"
+    },
+    {
+      "label": "Python Virtual Environment",
+      "file_type": "document",
+      "id": "python_virtual_environment_fr"
+    },
+    {
+      "label": "About Page (French)",
+      "file_type": "document",
+      "id": "french_about"
+    },
+    {
+      "label": "Banner Page (French)",
+      "file_type": "document",
+      "id": "french_banner"
+    },
+    {
+      "label": "Services Page (French)",
+      "file_type": "document",
+      "id": "french_service"
+    },
+    {
+      "label": "Fun Facts / Guarantees Page (French)",
+      "file_type": "document",
+      "id": "french_funfacts"
+    },
+    {
+      "label": "Contact Page (French)",
+      "file_type": "document",
+      "id": "french_contact"
+    },
+    {
+      "label": "Call to Action Page (French)",
+      "file_type": "document",
+      "id": "french_call_to_action"
+    },
+    {
+      "label": "Tableau Software",
+      "file_type": "code",
+      "id": "tableau_software"
+    },
+    {
+      "label": "Python",
+      "file_type": "code",
+      "id": "python_language"
+    },
+    {
+      "label": "Streamlit Library",
+      "file_type": "code",
+      "id": "streamlit_library"
+    },
+    {
+      "label": "Heroku Platform",
+      "file_type": "code",
+      "id": "heroku_platform"
+    },
+    {
+      "label": "GitHub",
+      "file_type": "code",
+      "id": "github_platform"
+    },
+    {
+      "label": "BIFORA",
+      "file_type": "document",
+      "id": "bifora_client"
+    },
+    {
+      "label": "La Piscine",
+      "file_type": "document",
+      "id": "la_piscine_client"
+    },
+    {
+      "label": "Grains Research and Development Corporation",
+      "file_type": "document",
+      "id": "grains_research_corp"
+    },
+    {
+      "label": "French Portfolio Section",
+      "file_type": "document",
+      "id": "french_portfolio_section"
+    },
+    {
+      "label": "Portfolio: Tableau Dashboard",
+      "file_type": "document",
+      "id": "portfolio_tableau_dashboard"
+    },
+    {
+      "label": "Script: Create Virtual Environment with Conda",
+      "file_type": "code",
+      "id": "gist_venv_conda"
+    },
+    {
+      "label": "Script: Create Virtual Environment with Python",
+      "file_type": "code",
+      "id": "gist_venv_python"
+    },
+    {
+      "label": "Script: ETL with BigQuery and Data Studio",
+      "file_type": "code",
+      "id": "gist_etl_bigquery_datastudio"
+    },
+    {
+      "label": "RDBMS UML Architecture Diagram",
+      "file_type": "document",
+      "id": "rdbms_uml_diagram"
+    },
+    {
+      "label": "Scientific Publications",
+      "file_type": "document",
+      "id": "scientific_publications_doc"
+    },
+    {
+      "label": "Default Content Archetype",
+      "file_type": "document",
+      "id": "somrat_archetype_default"
+    },
+    {
+      "label": "Example Site: About Section",
+      "file_type": "document",
+      "id": "example_site_about"
+    },
+    {
+      "label": "Example Site: Banner Section",
+      "file_type": "document",
+      "id": "example_site_banner"
+    },
+    {
+      "label": "Example Site: Call-to-Action Section",
+      "file_type": "document",
+      "id": "example_site_call_to_action"
+    },
+    {
+      "label": "Example Site: Contact Section",
+      "file_type": "document",
+      "id": "example_site_contact"
+    },
+    {
+      "label": "Example Site: Fun Facts Section",
+      "file_type": "document",
+      "id": "example_site_funfacts"
+    },
+    {
+      "label": "Example Site: Services Section",
+      "file_type": "document",
+      "id": "example_site_service"
+    },
+    {
+      "label": "Example Site: Testimonials Section",
+      "file_type": "document",
+      "id": "example_site_testimonial"
+    },
+    {
+      "label": "Example Blog Post: Design & Development",
+      "file_type": "document",
+      "id": "example_blog_post_design_dev"
+    },
+    {
+      "label": "Example Blog Post: Design & Art",
+      "file_type": "document",
+      "id": "example_blog_post_design_art"
+    },
+    {
+      "label": "Example Blog Post: Web Development",
+      "file_type": "document",
+      "id": "example_blog_post_web_dev"
+    },
+    {
+      "label": "Example Blog Post: Database & Access",
+      "file_type": "document",
+      "id": "example_blog_post_database"
+    },
+    {
+      "label": "Example Blog Post: Design & Sketch",
+      "file_type": "document",
+      "id": "example_blog_post_design_sketch"
+    },
+    {
+      "label": "Python",
+      "file_type": "code",
+      "id": "python_technology"
+    },
+    {
+      "label": "Conda",
+      "file_type": "code",
+      "id": "conda_technology"
+    },
+    {
+      "label": "GHG Emissions Research",
+      "file_type": "document",
+      "id": "ghg_emissions_research"
+    },
+    {
+      "label": "GitHub Gist",
+      "file_type": "document",
+      "id": "github_gist_service"
+    },
+    {
+      "label": "BigQuery & Data Studio",
+      "file_type": "code",
+      "id": "bigquery_datastudio"
+    },
+    {
+      "label": "Blog Post: Simple Blog Post",
+      "file_type": "document",
+      "id": "blog_post_6"
+    },
+    {
+      "label": "Blog Section Index",
+      "file_type": "document",
+      "id": "blog_index"
+    },
+    {
+      "label": "Portfolio Project 1 (Design/Development)",
+      "file_type": "document",
+      "id": "portfolio_project_1"
+    },
+    {
+      "label": "Portfolio Project 2 (Design/Development)",
+      "file_type": "document",
+      "id": "portfolio_project_2"
+    },
+    {
+      "label": "Portfolio Project 3 (Database)",
+      "file_type": "document",
+      "id": "portfolio_project_3"
+    },
+    {
+      "label": "Portfolio Project 4 (Database)",
+      "file_type": "document",
+      "id": "portfolio_project_4"
+    },
+    {
+      "label": "Portfolio Project 5 (Design/Sketch)",
+      "file_type": "document",
+      "id": "portfolio_project_5"
+    },
+    {
+      "label": "Portfolio Project 6 (Design/Logo)",
+      "file_type": "document",
+      "id": "portfolio_project_6"
+    },
+    {
+      "label": "Portfolio Section Index",
+      "file_type": "document",
+      "id": "portfolio_index"
+    },
+    {
+      "label": "Scientific Publications Portfolio Page",
+      "file_type": "document",
+      "id": "scientific_publications"
+    },
+    {
+      "label": "Base Layout Template (baseof.html)",
+      "file_type": "code",
+      "id": "baseof_layout"
+    },
+    {
+      "label": "Homepage Layout (index.html)",
+      "file_type": "code",
+      "id": "layout_index"
+    },
+    {
+      "label": "404 Error Page Layout",
+      "file_type": "code",
+      "id": "layout_404"
+    },
+    {
+      "label": "Head Partial (head.html)",
+      "file_type": "code",
+      "id": "partial_head"
+    },
+    {
+      "label": "Header/Navigation Partial",
+      "file_type": "code",
+      "id": "partial_header"
+    },
+    {
+      "label": "Footer Partial",
+      "file_type": "code",
+      "id": "partial_footer"
+    },
+    {
+      "label": "Preloader Partial",
+      "file_type": "code",
+      "id": "partial_preloader"
+    },
+    {
+      "label": "Script Partial (script.html)",
+      "file_type": "code",
+      "id": "partial_script"
+    },
+    {
+      "label": "Portfolio List Layout",
+      "file_type": "code",
+      "id": "portfolio_list_layout"
+    },
+    {
+      "label": "Portfolio Single Layout",
+      "file_type": "code",
+      "id": "portfolio_single_layout"
+    },
+    {
+      "label": "Default List Layout",
+      "file_type": "code",
+      "id": "default_list_layout"
+    },
+    {
+      "label": "Default Single Layout",
+      "file_type": "code",
+      "id": "default_single_layout"
+    },
+    {
+      "label": "Scientific Publications Portfolio (FR)",
+      "file_type": "document",
+      "id": "scientific_publications_page_fr"
+    },
+    {
+      "label": "CV Nazaries - Data Consultant (EN)",
+      "file_type": "document",
+      "id": "cv_data_eng"
+    },
+    {
+      "label": "CV Nazaries - Data Consultant (FR)",
+      "file_type": "document",
+      "id": "cv_data_fr"
+    },
+    {
+      "label": "Data Fallacies to Avoid",
+      "file_type": "document",
+      "id": "data_fallacies"
+    },
+    {
+      "label": "Fang et al. 2018 - Carbon Priming Microbial Mechanisms",
+      "file_type": "paper",
+      "id": "fang_et_al_2018"
+    },
+    {
+      "label": "Fang et al. 2019 - Carbon Priming Biochar Vertisol",
+      "file_type": "paper",
+      "id": "fang_et_al_2019"
+    },
+    {
+      "label": "Jeffries et al. 2018 - Metagenomic Organophosphorus Xenobiotic Degradation",
+      "file_type": "paper",
+      "id": "jeffries_et_al_2018"
+    },
+    {
+      "label": "Jiang et al. 2020 - Fate of Carbon in Mature Forest (EucFACE)",
+      "file_type": "paper",
+      "id": "jiang_et_al_2020"
+    },
+    {
+      "label": "Martins et al. 2015 - Water Availability and GHG Fluxes in Dryland Forest",
+      "file_type": "paper",
+      "id": "martins_et_al_2015"
+    },
+    {
+      "label": "Martins et al. 2016 - Corrigendum to Martins 2015",
+      "file_type": "paper",
+      "id": "martins_et_al_2016"
+    },
+    {
+      "label": "Martins et al. 2017 - GHG Emissions Under Warming and Reduced Rainfall",
+      "file_type": "paper",
+      "id": "martins_et_al_2017"
+    },
+    {
+      "label": "McNee et al. 2015 - Summer Grasses to Minimise Soil N Losses",
+      "file_type": "paper",
+      "id": "mcnee_et_al_2015"
+    },
+    {
+      "label": "Nazaries 2005 - Thesis: Multiplex T-RFLP Rhizosphere-Microbial Interactions",
+      "file_type": "paper",
+      "id": "nazaries_2005"
+    },
+    {
+      "label": "Nazaries 2011 - PhD Thesis: Land-use Changes and Methanotrophic Community",
+      "file_type": "paper",
+      "id": "nazaries_2011"
+    },
+    {
+      "label": "Nazaries et al. 2010 - Poster ISME13: Methanotroph Ecology Reforestation NZ",
+      "file_type": "paper",
+      "id": "nazaries_et_al_2010_isme13"
+    },
+    {
+      "label": "Nazaries et al. 2011 - Methanotrophic Communities Afforestation NZ (ISME J)",
+      "file_type": "paper",
+      "id": "nazaries_et_al_2011"
+    },
+    {
+      "label": "Nazaries et al. 2012 - Poster ISME14: Methane Flux and Land-use Change",
+      "file_type": "paper",
+      "id": "nazaries_et_al_2012_isme14"
+    },
+    {
+      "label": "Nazaries et al. 2013a - Microbial Regulation Biogeochemical Cycles Methane Flux",
+      "file_type": "paper",
+      "id": "nazaries_et_al_2013a"
+    },
+    {
+      "label": "Nazaries et al. 2013b - Methane Microbes Models (Review)",
+      "file_type": "paper",
+      "id": "nazaries_et_al_2013b"
+    },
+    {
+      "label": "Nazaries et al. 2014 - Poster ISME15: Soil Carbon Loss Temperature Microbial Rates",
+      "file_type": "paper",
+      "id": "nazaries_et_al_2014_isme15"
+    },
+    {
+      "label": "Nazaries et al. 2015 - Microbial Community Shifts Soil Respiration Land-use Change",
+      "file_type": "paper",
+      "id": "nazaries_et_al_2015"
+    },
+    {
+      "label": "Nazaries et al. 2018 - Methanotroph Geographical Distribution National Survey",
+      "file_type": "paper",
+      "id": "nazaries_et_al_2018"
+    },
+    {
+      "label": "Rayu et al. 2017 - CP-Degrading Bacteria",
+      "file_type": "paper",
+      "id": "rayu_2017"
+    },
+    {
+      "label": "Singh et al. 2006 - Multiplex TRFLP Method",
+      "file_type": "paper",
+      "id": "singh_2006"
+    },
+    {
+      "label": "Chlorpyrifos (Organophosphate Pesticide)",
+      "file_type": "document",
+      "id": "chlorpyrifos"
+    },
+    {
+      "label": "TCP (3,5,6-trichloro-2-pyridinol)",
+      "file_type": "document",
+      "id": "tcp"
+    },
+    {
+      "label": "Xanthomonas sp. 4R3-M1",
+      "file_type": "document",
+      "id": "xanthomonas_4r3m1"
+    },
+    {
+      "label": "Pseudomonas sp. 4H1-M3",
+      "file_type": "document",
+      "id": "pseudomonas_4h1m3"
+    },
+    {
+      "label": "Rhizobium sp. 4H1-M1",
+      "file_type": "document",
+      "id": "rhizobium_4h1m1"
+    },
+    {
+      "label": "Microbial Bioremediation",
+      "file_type": "document",
+      "id": "microbial_bioremediation"
+    },
+    {
+      "label": "Sugarcane Farm Soils",
+      "file_type": "document",
+      "id": "sugarcane_farm_soils"
+    },
+    {
+      "label": "Multiplex Terminal RFLP (M-TRFLP)",
+      "file_type": "document",
+      "id": "mtrflp_method"
+    },
+    {
+      "label": "Soil Microbial Community",
+      "file_type": "document",
+      "id": "soil_microbial_community"
+    },
+    {
+      "label": "Calluna vulgaris Rhizosphere",
+      "file_type": "document",
+      "id": "calluna_vulgaris_rhizosphere"
+    },
+    {
+      "label": "Brajesh K. Singh",
+      "file_type": "document",
+      "id": "brajesh_singh"
+    },
+    {
+      "label": "Smriti Rayu",
+      "file_type": "document",
+      "id": "smriti_rayu"
+    },
+    {
+      "label": "Uffe N. Nielsen",
+      "file_type": "document",
+      "id": "uffe_nielsen"
+    },
+    {
+      "label": "Frontiers in Microbiology (Journal)",
+      "file_type": "document",
+      "id": "frontiers_microbiology"
+    },
+    {
+      "label": "Applied and Environmental Microbiology (Journal)",
+      "file_type": "document",
+      "id": "aem_journal"
+    }
+  ],
+  "edges": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\assets\\js\\script.js",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_src": "assets_js_script_js",
+      "_tgt": "script_counter",
+      "source": "assets_js_script_js",
+      "target": "script_counter"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\assets\\js\\script.js",
+      "source_location": "L56",
+      "weight": 1.0,
+      "_src": "assets_js_script_js",
+      "_tgt": "script_smoothscroll",
+      "source": "assets_js_script_js",
+      "target": "script_smoothscroll"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\assets\\js\\script.js",
+      "source_location": "L129",
+      "weight": 1.0,
+      "_src": "assets_js_script_js",
+      "_tgt": "script_sliderbackground",
+      "source": "assets_js_script_js",
+      "target": "script_sliderbackground"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_waypoints_min_js",
+      "_tgt": "jquery_waypoints_min_t",
+      "source": "static_plugins_jquery_waypoints_min_js",
+      "target": "jquery_waypoints_min_t"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_waypoints_min_js",
+      "_tgt": "jquery_waypoints_min_e",
+      "source": "static_plugins_jquery_waypoints_min_js",
+      "target": "jquery_waypoints_min_e"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_waypoints_min_js",
+      "_tgt": "jquery_waypoints_min_i",
+      "source": "static_plugins_jquery_waypoints_min_js",
+      "target": "jquery_waypoints_min_i"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "jquery_waypoints_min_t",
+      "_tgt": "jquery_waypoints_min_e",
+      "source": "jquery_waypoints_min_t",
+      "target": "jquery_waypoints_min_e"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "static_plugins_wow_min_js",
+      "_tgt": "wow_min_c",
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_c"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "static_plugins_wow_min_js",
+      "_tgt": "wow_min_d",
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_d"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "static_plugins_wow_min_js",
+      "_tgt": "wow_min_e",
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_e"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "static_plugins_wow_min_js",
+      "_tgt": "wow_min_f",
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_f"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "static_plugins_wow_min_js",
+      "_tgt": "wow_min_g",
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_g"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "static_plugins_wow_min_js",
+      "_tgt": "wow_min_h",
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_h"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "static_plugins_wow_min_js",
+      "_tgt": "wow_min_i",
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_i"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "static_plugins_wow_min_js",
+      "_tgt": "wow_min_j",
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_j"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "static_plugins_wow_min_js",
+      "_tgt": "wow_min_k",
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_k"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "static_plugins_wow_min_js",
+      "_tgt": "wow_min_a",
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_a"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "wow_min_a",
+      "_tgt": "wow_min_c",
+      "source": "wow_min_c",
+      "target": "wow_min_a"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "wow_min_a",
+      "_tgt": "wow_min_e",
+      "source": "wow_min_e",
+      "target": "wow_min_a"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "wow_min_a",
+      "_tgt": "wow_min_g",
+      "source": "wow_min_g",
+      "target": "wow_min_a"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "bootstrap_min_o",
+      "_tgt": "wow_min_g",
+      "source": "wow_min_g",
+      "target": "bootstrap_min_o"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "bootstrap_min_e",
+      "_tgt": "wow_min_g",
+      "source": "wow_min_g",
+      "target": "bootstrap_min_e"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "bootstrap_min_n",
+      "_tgt": "wow_min_g",
+      "source": "wow_min_g",
+      "target": "bootstrap_min_n"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "bootstrap_min_t",
+      "_tgt": "wow_min_g",
+      "source": "wow_min_g",
+      "target": "bootstrap_min_t"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_se",
+      "_tgt": "wow_min_g",
+      "source": "wow_min_g",
+      "target": "jquery_min_se"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ce",
+      "_tgt": "wow_min_g",
+      "source": "wow_min_g",
+      "target": "jquery_min_ce"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ae",
+      "_tgt": "wow_min_k",
+      "source": "wow_min_k",
+      "target": "jquery_min_ae"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_oe",
+      "_tgt": "wow_min_k",
+      "source": "wow_min_k",
+      "target": "jquery_min_oe"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "static_plugins_bootstrap_bootstrap_min_js",
+      "_tgt": "bootstrap_min_i",
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_i"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "static_plugins_bootstrap_bootstrap_min_js",
+      "_tgt": "bootstrap_min_s",
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_s"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "static_plugins_bootstrap_bootstrap_min_js",
+      "_tgt": "bootstrap_min_e",
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_e"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "static_plugins_bootstrap_bootstrap_min_js",
+      "_tgt": "bootstrap_min_l",
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_l"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "static_plugins_bootstrap_bootstrap_min_js",
+      "_tgt": "bootstrap_min_o",
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_o"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "static_plugins_bootstrap_bootstrap_min_js",
+      "_tgt": "bootstrap_min_n",
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_n"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "static_plugins_bootstrap_bootstrap_min_js",
+      "_tgt": "bootstrap_min_r",
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_r"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "static_plugins_bootstrap_bootstrap_min_js",
+      "_tgt": "bootstrap_min_a",
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_a"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "static_plugins_bootstrap_bootstrap_min_js",
+      "_tgt": "bootstrap_min_c",
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_c"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "static_plugins_bootstrap_bootstrap_min_js",
+      "_tgt": "bootstrap_min_we",
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_we"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "static_plugins_bootstrap_bootstrap_min_js",
+      "_tgt": "bootstrap_min_t",
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_t"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "bootstrap_min_s",
+      "_tgt": "bootstrap_min_i",
+      "source": "bootstrap_min_i",
+      "target": "bootstrap_min_s"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "bootstrap_min_we",
+      "_tgt": "bootstrap_min_i",
+      "source": "bootstrap_min_i",
+      "target": "bootstrap_min_we"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "bootstrap_min_l",
+      "_tgt": "bootstrap_min_e",
+      "source": "bootstrap_min_e",
+      "target": "bootstrap_min_l"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "bootstrap_min_we",
+      "_tgt": "bootstrap_min_e",
+      "source": "bootstrap_min_e",
+      "target": "bootstrap_min_we"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "bootstrap_min_e",
+      "_tgt": "bootstrap_min_t",
+      "source": "bootstrap_min_e",
+      "target": "bootstrap_min_t"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_b",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_b"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_w",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_w"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_d",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_d"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_se",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_se"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_ue",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ue"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_le",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_le"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_ce",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ce"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_fe",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_fe"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_pe",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_pe"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_de",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_de"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_he",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_he"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_ge",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ge"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_ve",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ve"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_ye",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ye"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_me",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_me"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_xe",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_xe"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_be",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_be"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_we",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_we"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_te",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_te"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_ee",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ee"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_a",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_a"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_j",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_j"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_p",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_p"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_m",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_m"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_i",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_i"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_l",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_l"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_x",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_x"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_v",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_v"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_y",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_y"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_ke",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ke"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_ne",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ne"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_ae",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ae"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_oe",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_oe"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_re",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_re"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_ie",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ie"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_e",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_e"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_ze",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ze"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_t",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_t"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_et",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_et"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_tt",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_tt"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_nt",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_nt"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_lt",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_lt"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_ct",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ct"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_ft",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ft"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_pt",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_pt"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_dt",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_dt"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_mt",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_mt"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_xt",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_xt"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_bt",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_bt"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_qt",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_qt"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "static_plugins_jquery_jquery_min_js",
+      "_tgt": "jquery_min_zt",
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_zt"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ie",
+      "_tgt": "jquery_min_b",
+      "source": "jquery_min_b",
+      "target": "jquery_min_ie"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_d",
+      "_tgt": "jquery_min_w",
+      "source": "jquery_min_w",
+      "target": "jquery_min_d"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_w",
+      "_tgt": "jquery_min_m",
+      "source": "jquery_min_w",
+      "target": "jquery_min_m"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_we",
+      "_tgt": "jquery_min_w",
+      "source": "jquery_min_w",
+      "target": "jquery_min_we"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_qt",
+      "_tgt": "jquery_min_w",
+      "source": "jquery_min_w",
+      "target": "jquery_min_qt"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_d",
+      "_tgt": "jquery_min_m",
+      "source": "jquery_min_d",
+      "target": "jquery_min_m"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_d",
+      "_tgt": "jquery_min_x",
+      "source": "jquery_min_d",
+      "target": "jquery_min_x"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_se",
+      "_tgt": "jquery_min_t",
+      "source": "jquery_min_se",
+      "target": "jquery_min_t"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_se",
+      "_tgt": "jquery_min_y",
+      "source": "jquery_min_se",
+      "target": "jquery_min_y"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_se",
+      "_tgt": "jquery_min_xe",
+      "source": "jquery_min_se",
+      "target": "jquery_min_xe"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_se",
+      "_tgt": "jquery_min_ye",
+      "source": "jquery_min_se",
+      "target": "jquery_min_ye"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_se",
+      "_tgt": "jquery_min_a",
+      "source": "jquery_min_se",
+      "target": "jquery_min_a"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ce",
+      "_tgt": "jquery_min_se",
+      "source": "jquery_min_se",
+      "target": "jquery_min_ce"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_fe",
+      "_tgt": "jquery_min_se",
+      "source": "jquery_min_se",
+      "target": "jquery_min_fe"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_se",
+      "_tgt": "text_animation_h",
+      "source": "jquery_min_se",
+      "target": "text_animation_h"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ve",
+      "_tgt": "jquery_min_le",
+      "source": "jquery_min_le",
+      "target": "jquery_min_ve"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ce",
+      "_tgt": "jquery_min_le",
+      "source": "jquery_min_le",
+      "target": "jquery_min_ce"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_le",
+      "_tgt": "shuffle_min_s",
+      "source": "jquery_min_le",
+      "target": "shuffle_min_s"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ce",
+      "_tgt": "jquery_min_te",
+      "source": "jquery_min_ce",
+      "target": "jquery_min_te"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ce",
+      "_tgt": "jquery_min_v",
+      "source": "jquery_min_ce",
+      "target": "jquery_min_v"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ce",
+      "_tgt": "jquery_min_y",
+      "source": "jquery_min_ce",
+      "target": "jquery_min_y"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ce",
+      "_tgt": "jquery_min_p",
+      "source": "jquery_min_ce",
+      "target": "jquery_min_p"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ee",
+      "_tgt": "jquery_min_ce",
+      "source": "jquery_min_ce",
+      "target": "jquery_min_ee"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ce",
+      "_tgt": "shuffle_min_e",
+      "source": "jquery_min_ce",
+      "target": "shuffle_min_e"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_e",
+      "_tgt": "jquery_min_fe",
+      "source": "jquery_min_fe",
+      "target": "jquery_min_e"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_tt",
+      "_tgt": "jquery_min_fe",
+      "source": "jquery_min_fe",
+      "target": "jquery_min_tt"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_de",
+      "_tgt": "text_animation_o",
+      "source": "jquery_min_de",
+      "target": "text_animation_o"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ge",
+      "_tgt": "jquery_min_ae",
+      "source": "jquery_min_ge",
+      "target": "jquery_min_ae"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ve",
+      "_tgt": "jquery_min_a",
+      "source": "jquery_min_ve",
+      "target": "jquery_min_a"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_we",
+      "_tgt": "jquery_min_ve",
+      "source": "jquery_min_ve",
+      "target": "jquery_min_we"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ie",
+      "_tgt": "jquery_min_ve",
+      "source": "jquery_min_ve",
+      "target": "jquery_min_ie"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_we",
+      "_tgt": "jquery_min_ye",
+      "source": "jquery_min_ye",
+      "target": "jquery_min_we"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ee",
+      "_tgt": "jquery_min_xe",
+      "source": "jquery_min_xe",
+      "target": "jquery_min_ee"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ee",
+      "_tgt": "jquery_min_be",
+      "source": "jquery_min_be",
+      "target": "jquery_min_ee"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_be",
+      "_tgt": "shuffle_min_s",
+      "source": "jquery_min_be",
+      "target": "shuffle_min_s"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ee",
+      "_tgt": "jquery_min_we",
+      "source": "jquery_min_we",
+      "target": "jquery_min_ee"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_we",
+      "_tgt": "jquery_min_oe",
+      "source": "jquery_min_we",
+      "target": "jquery_min_oe"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ie",
+      "_tgt": "jquery_min_we",
+      "source": "jquery_min_we",
+      "target": "jquery_min_ie"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_te",
+      "_tgt": "shuffle_min_n",
+      "source": "jquery_min_te",
+      "target": "shuffle_min_n"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ee",
+      "_tgt": "jquery_min_p",
+      "source": "jquery_min_ee",
+      "target": "jquery_min_p"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ee",
+      "_tgt": "jquery_min_l",
+      "source": "jquery_min_ee",
+      "target": "jquery_min_l"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_oe",
+      "_tgt": "jquery_min_a",
+      "source": "jquery_min_a",
+      "target": "jquery_min_oe"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_l",
+      "_tgt": "jquery_min_a",
+      "source": "jquery_min_a",
+      "target": "jquery_min_l"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_j",
+      "_tgt": "jquery_min_m",
+      "source": "jquery_min_j",
+      "target": "jquery_min_m"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_l",
+      "_tgt": "jquery_min_m",
+      "source": "jquery_min_m",
+      "target": "jquery_min_l"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ie",
+      "_tgt": "jquery_min_m",
+      "source": "jquery_min_m",
+      "target": "jquery_min_ie"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_dt",
+      "_tgt": "jquery_min_m",
+      "source": "jquery_min_m",
+      "target": "jquery_min_dt"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_bt",
+      "_tgt": "jquery_min_m",
+      "source": "jquery_min_m",
+      "target": "jquery_min_bt"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_qt",
+      "_tgt": "jquery_min_i",
+      "source": "jquery_min_i",
+      "target": "jquery_min_qt"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_t",
+      "_tgt": "jquery_min_l",
+      "source": "jquery_min_l",
+      "target": "jquery_min_t"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_l",
+      "_tgt": "shuffle_min_e",
+      "source": "jquery_min_l",
+      "target": "shuffle_min_e"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_dt",
+      "_tgt": "jquery_min_v",
+      "source": "jquery_min_v",
+      "target": "jquery_min_dt"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_e",
+      "_tgt": "jquery_min_oe",
+      "source": "jquery_min_oe",
+      "target": "jquery_min_e"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_e",
+      "_tgt": "jquery_min_t",
+      "source": "jquery_min_e",
+      "target": "jquery_min_t"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_tt",
+      "_tgt": "jquery_min_e",
+      "source": "jquery_min_e",
+      "target": "jquery_min_tt"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_ze",
+      "_tgt": "shuffle_min_e",
+      "source": "jquery_min_ze",
+      "target": "shuffle_min_e"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_tt",
+      "_tgt": "jquery_min_et",
+      "source": "jquery_min_et",
+      "target": "jquery_min_tt"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "jquery_min_dt",
+      "_tgt": "jquery_min_ct",
+      "source": "jquery_min_ct",
+      "target": "jquery_min_dt"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "static_plugins_owl_carousel_owl_carousel_min_js",
+      "_tgt": "owl_carousel_min_e",
+      "source": "static_plugins_owl_carousel_owl_carousel_min_js",
+      "target": "owl_carousel_min_e"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "static_plugins_owl_carousel_owl_carousel_min_js",
+      "_tgt": "owl_carousel_min_f",
+      "source": "static_plugins_owl_carousel_owl_carousel_min_js",
+      "target": "owl_carousel_min_f"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "owl_carousel_min_f",
+      "_tgt": "owl_carousel_min_e",
+      "source": "owl_carousel_min_e",
+      "target": "owl_carousel_min_f"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "owl_carousel_min_e",
+      "_tgt": "shuffle_min_a",
+      "source": "owl_carousel_min_e",
+      "target": "shuffle_min_a"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_shuffle_shuffle_min_js",
+      "_tgt": "shuffle_min_t",
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_t"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_shuffle_shuffle_min_js",
+      "_tgt": "shuffle_min_e",
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_e"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_shuffle_shuffle_min_js",
+      "_tgt": "shuffle_min_i",
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_i"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_shuffle_shuffle_min_js",
+      "_tgt": "shuffle_min_n",
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_n"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_shuffle_shuffle_min_js",
+      "_tgt": "shuffle_min_s",
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_s"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_shuffle_shuffle_min_js",
+      "_tgt": "shuffle_min_o",
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_o"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_shuffle_shuffle_min_js",
+      "_tgt": "shuffle_min_r",
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_r"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_shuffle_shuffle_min_js",
+      "_tgt": "shuffle_min_l",
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_l"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_shuffle_shuffle_min_js",
+      "_tgt": "shuffle_min_c",
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_c"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_shuffle_shuffle_min_js",
+      "_tgt": "shuffle_min_d",
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_d"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_shuffle_shuffle_min_js",
+      "_tgt": "shuffle_min_z",
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_z"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_shuffle_shuffle_min_js",
+      "_tgt": "shuffle_min_m",
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_m"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_shuffle_shuffle_min_js",
+      "_tgt": "shuffle_min_a",
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_a"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_shuffle_shuffle_min_js",
+      "_tgt": "shuffle_min_f",
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_f"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_shuffle_shuffle_min_js",
+      "_tgt": "shuffle_min_x",
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_x"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "shuffle_min_e",
+      "_tgt": "shuffle_min_t",
+      "source": "shuffle_min_t",
+      "target": "shuffle_min_e"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "shuffle_min_r",
+      "_tgt": "shuffle_min_t",
+      "source": "shuffle_min_t",
+      "target": "shuffle_min_r"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "shuffle_min_i",
+      "_tgt": "shuffle_min_e",
+      "source": "shuffle_min_e",
+      "target": "shuffle_min_i"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "shuffle_min_e",
+      "_tgt": "shuffle_min_d",
+      "source": "shuffle_min_e",
+      "target": "shuffle_min_d"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "shuffle_min_l",
+      "_tgt": "shuffle_min_e",
+      "source": "shuffle_min_e",
+      "target": "shuffle_min_l"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "text_animation_l",
+      "_tgt": "shuffle_min_e",
+      "source": "shuffle_min_e",
+      "target": "text_animation_l"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "shuffle_min_i",
+      "_tgt": "shuffle_min_d",
+      "source": "shuffle_min_i",
+      "target": "shuffle_min_d"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "shuffle_min_r",
+      "_tgt": "shuffle_min_i",
+      "source": "shuffle_min_i",
+      "target": "shuffle_min_r"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "shuffle_min_r",
+      "_tgt": "shuffle_min_n",
+      "source": "shuffle_min_n",
+      "target": "shuffle_min_r"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "text_animation_l",
+      "_tgt": "shuffle_min_s",
+      "source": "shuffle_min_s",
+      "target": "text_animation_l"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "shuffle_min_r",
+      "_tgt": "shuffle_min_o",
+      "source": "shuffle_min_o",
+      "target": "shuffle_min_r"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "shuffle_min_l",
+      "_tgt": "shuffle_min_c",
+      "source": "shuffle_min_l",
+      "target": "shuffle_min_c"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "shuffle_min_m",
+      "_tgt": "shuffle_min_d",
+      "source": "shuffle_min_d",
+      "target": "shuffle_min_m"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_text_animation_text_animation_js",
+      "_tgt": "text_animation_l",
+      "source": "static_plugins_text_animation_text_animation_js",
+      "target": "text_animation_l"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_text_animation_text_animation_js",
+      "_tgt": "text_animation_r",
+      "source": "static_plugins_text_animation_text_animation_js",
+      "target": "text_animation_r"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_text_animation_text_animation_js",
+      "_tgt": "text_animation_o",
+      "source": "static_plugins_text_animation_text_animation_js",
+      "target": "text_animation_o"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_text_animation_text_animation_js",
+      "_tgt": "text_animation_c",
+      "source": "static_plugins_text_animation_text_animation_js",
+      "target": "text_animation_c"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "static_plugins_text_animation_text_animation_js",
+      "_tgt": "text_animation_h",
+      "source": "static_plugins_text_animation_text_animation_js",
+      "target": "text_animation_h"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "text_animation_l",
+      "_tgt": "text_animation_c",
+      "source": "text_animation_l",
+      "target": "text_animation_c"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "text_animation_r",
+      "_tgt": "text_animation_l",
+      "source": "text_animation_l",
+      "target": "text_animation_r"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "text_animation_l",
+      "_tgt": "text_animation_h",
+      "source": "text_animation_l",
+      "target": "text_animation_h"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "text_animation_o",
+      "_tgt": "text_animation_l",
+      "source": "text_animation_l",
+      "target": "text_animation_o"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "text_animation_r",
+      "_tgt": "text_animation_o",
+      "source": "text_animation_r",
+      "target": "text_animation_o"
+    },
+    {
+      "relation": "authors",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "hugo_website",
+      "source": "hugo_website",
+      "target": "loic_nazaries"
+    },
+    {
+      "relation": "uses theme",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "somrat_theme",
+      "source": "hugo_website",
+      "target": "somrat_theme"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "about_page",
+      "source": "hugo_website",
+      "target": "about_page"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "banner_page",
+      "source": "hugo_website",
+      "target": "banner_page"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "service_page",
+      "source": "hugo_website",
+      "target": "service_page"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "contact_page",
+      "source": "hugo_website",
+      "target": "contact_page"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "funfacts_page",
+      "source": "hugo_website",
+      "target": "funfacts_page"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "call_to_action_page",
+      "source": "hugo_website",
+      "target": "call_to_action_page"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "portfolio_alteryx",
+      "source": "hugo_website",
+      "target": "portfolio_alteryx"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "portfolio_dashboard",
+      "source": "hugo_website",
+      "target": "portfolio_dashboard"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "portfolio_database_modelling",
+      "source": "hugo_website",
+      "target": "portfolio_database_modelling"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "portfolio_data_pipeline",
+      "source": "hugo_website",
+      "target": "portfolio_data_pipeline"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "portfolio_deploy_heroku",
+      "source": "hugo_website",
+      "target": "portfolio_deploy_heroku"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "portfolio_eucface",
+      "source": "hugo_website",
+      "target": "portfolio_eucface"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "portfolio_geographical_modelling",
+      "source": "hugo_website",
+      "target": "portfolio_geographical_modelling"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "portfolio_ghg_modelling",
+      "source": "hugo_website",
+      "target": "portfolio_ghg_modelling"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "portfolio_github_repo",
+      "source": "hugo_website",
+      "target": "portfolio_github_repo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "portfolio_google_bi",
+      "source": "hugo_website",
+      "target": "portfolio_google_bi"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "portfolio_google_bigquery_datastudio",
+      "source": "hugo_website",
+      "target": "portfolio_google_bigquery_datastudio"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "portfolio_kpi_modelling",
+      "source": "hugo_website",
+      "target": "portfolio_kpi_modelling"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "portfolio_python_venv",
+      "source": "hugo_website",
+      "target": "portfolio_python_venv"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "hugo_website",
+      "_tgt": "portfolio_python_venv_conda",
+      "source": "hugo_website",
+      "target": "portfolio_python_venv_conda"
+    },
+    {
+      "relation": "profiles",
+      "confidence": "EXTRACTED",
+      "_src": "about_page",
+      "_tgt": "loic_nazaries",
+      "source": "loic_nazaries",
+      "target": "about_page"
+    },
+    {
+      "relation": "introduces",
+      "confidence": "EXTRACTED",
+      "_src": "banner_page",
+      "_tgt": "loic_nazaries",
+      "source": "loic_nazaries",
+      "target": "banner_page"
+    },
+    {
+      "relation": "worked at",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "hawkesbury_institute",
+      "source": "loic_nazaries",
+      "target": "hawkesbury_institute"
+    },
+    {
+      "relation": "worked for",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "bifora",
+      "source": "loic_nazaries",
+      "target": "bifora"
+    },
+    {
+      "relation": "worked for",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "la_piscine",
+      "source": "loic_nazaries",
+      "target": "la_piscine"
+    },
+    {
+      "relation": "worked for",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "grains_rdc",
+      "source": "loic_nazaries",
+      "target": "grains_rdc"
+    },
+    {
+      "relation": "describes",
+      "confidence": "EXTRACTED",
+      "_src": "french_about",
+      "_tgt": "loic_nazaries",
+      "source": "loic_nazaries",
+      "target": "french_about"
+    },
+    {
+      "relation": "introduces",
+      "confidence": "EXTRACTED",
+      "_src": "french_banner",
+      "_tgt": "loic_nazaries",
+      "source": "loic_nazaries",
+      "target": "french_banner"
+    },
+    {
+      "relation": "advertises services of",
+      "confidence": "EXTRACTED",
+      "_src": "french_service",
+      "_tgt": "loic_nazaries",
+      "source": "loic_nazaries",
+      "target": "french_service"
+    },
+    {
+      "relation": "authored",
+      "confidence": "INFERRED",
+      "_src": "loic_nazaries",
+      "_tgt": "tableau_dashboard_en",
+      "source": "loic_nazaries",
+      "target": "tableau_dashboard_en"
+    },
+    {
+      "relation": "authored",
+      "confidence": "INFERRED",
+      "_src": "loic_nazaries",
+      "_tgt": "dashboard_streamlit_fr",
+      "source": "loic_nazaries",
+      "target": "dashboard_streamlit_fr"
+    },
+    {
+      "relation": "authored",
+      "confidence": "INFERRED",
+      "_src": "loic_nazaries",
+      "_tgt": "database_modelling_fr",
+      "source": "loic_nazaries",
+      "target": "database_modelling_fr"
+    },
+    {
+      "relation": "authored",
+      "confidence": "INFERRED",
+      "_src": "loic_nazaries",
+      "_tgt": "data_pipeline_fr",
+      "source": "loic_nazaries",
+      "target": "data_pipeline_fr"
+    },
+    {
+      "relation": "authored",
+      "confidence": "INFERRED",
+      "_src": "loic_nazaries",
+      "_tgt": "ghg_modelling_fr",
+      "source": "loic_nazaries",
+      "target": "ghg_modelling_fr"
+    },
+    {
+      "relation": "authored",
+      "confidence": "INFERRED",
+      "_src": "loic_nazaries",
+      "_tgt": "geographical_modelling_fr",
+      "source": "loic_nazaries",
+      "target": "geographical_modelling_fr"
+    },
+    {
+      "relation": "authored",
+      "confidence": "INFERRED",
+      "_src": "loic_nazaries",
+      "_tgt": "kpi_modelling_fr",
+      "source": "loic_nazaries",
+      "target": "kpi_modelling_fr"
+    },
+    {
+      "relation": "describes",
+      "confidence": "EXTRACTED",
+      "_src": "cv_data_eng",
+      "_tgt": "loic_nazaries",
+      "source": "loic_nazaries",
+      "target": "cv_data_eng"
+    },
+    {
+      "relation": "describes",
+      "confidence": "EXTRACTED",
+      "_src": "cv_data_fr",
+      "_tgt": "loic_nazaries",
+      "source": "loic_nazaries",
+      "target": "cv_data_fr"
+    },
+    {
+      "relation": "authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "nazaries_2005",
+      "source": "loic_nazaries",
+      "target": "nazaries_2005"
+    },
+    {
+      "relation": "authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "nazaries_2011",
+      "source": "loic_nazaries",
+      "target": "nazaries_2011"
+    },
+    {
+      "relation": "co-authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "nazaries_et_al_2010_isme13",
+      "source": "loic_nazaries",
+      "target": "nazaries_et_al_2010_isme13"
+    },
+    {
+      "relation": "co-authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "nazaries_et_al_2011",
+      "source": "loic_nazaries",
+      "target": "nazaries_et_al_2011"
+    },
+    {
+      "relation": "co-authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "nazaries_et_al_2012_isme14",
+      "source": "loic_nazaries",
+      "target": "nazaries_et_al_2012_isme14"
+    },
+    {
+      "relation": "co-authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "nazaries_et_al_2013a",
+      "source": "loic_nazaries",
+      "target": "nazaries_et_al_2013a"
+    },
+    {
+      "relation": "co-authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "nazaries_et_al_2013b",
+      "source": "loic_nazaries",
+      "target": "nazaries_et_al_2013b"
+    },
+    {
+      "relation": "co-authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "nazaries_et_al_2014_isme15",
+      "source": "loic_nazaries",
+      "target": "nazaries_et_al_2014_isme15"
+    },
+    {
+      "relation": "co-authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "nazaries_et_al_2015",
+      "source": "loic_nazaries",
+      "target": "nazaries_et_al_2015"
+    },
+    {
+      "relation": "co-authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "nazaries_et_al_2018",
+      "source": "loic_nazaries",
+      "target": "nazaries_et_al_2018"
+    },
+    {
+      "relation": "co-authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "fang_et_al_2018",
+      "source": "loic_nazaries",
+      "target": "fang_et_al_2018"
+    },
+    {
+      "relation": "co-authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "fang_et_al_2019",
+      "source": "loic_nazaries",
+      "target": "fang_et_al_2019"
+    },
+    {
+      "relation": "co-authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "jeffries_et_al_2018",
+      "source": "loic_nazaries",
+      "target": "jeffries_et_al_2018"
+    },
+    {
+      "relation": "co-authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "jiang_et_al_2020",
+      "source": "loic_nazaries",
+      "target": "jiang_et_al_2020"
+    },
+    {
+      "relation": "co-authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "martins_et_al_2015",
+      "source": "loic_nazaries",
+      "target": "martins_et_al_2015"
+    },
+    {
+      "relation": "co-authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "martins_et_al_2016",
+      "source": "loic_nazaries",
+      "target": "martins_et_al_2016"
+    },
+    {
+      "relation": "co-authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "martins_et_al_2017",
+      "source": "loic_nazaries",
+      "target": "martins_et_al_2017"
+    },
+    {
+      "relation": "co-authored",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "mcnee_et_al_2015",
+      "source": "loic_nazaries",
+      "target": "mcnee_et_al_2015"
+    },
+    {
+      "relation": "co-authors",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "rayu_2017",
+      "source": "loic_nazaries",
+      "target": "rayu_2017"
+    },
+    {
+      "relation": "co-authors",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "singh_2006",
+      "source": "loic_nazaries",
+      "target": "singh_2006"
+    },
+    {
+      "relation": "provides",
+      "confidence": "EXTRACTED",
+      "_src": "somrat_theme",
+      "_tgt": "somrat_archetype_default",
+      "source": "somrat_theme",
+      "target": "somrat_archetype_default"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "_src": "somrat_theme",
+      "_tgt": "example_site_about",
+      "source": "somrat_theme",
+      "target": "example_site_about"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "_src": "somrat_theme",
+      "_tgt": "example_site_banner",
+      "source": "somrat_theme",
+      "target": "example_site_banner"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "_src": "somrat_theme",
+      "_tgt": "example_site_call_to_action",
+      "source": "somrat_theme",
+      "target": "example_site_call_to_action"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "_src": "somrat_theme",
+      "_tgt": "example_site_contact",
+      "source": "somrat_theme",
+      "target": "example_site_contact"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "_src": "somrat_theme",
+      "_tgt": "example_site_funfacts",
+      "source": "somrat_theme",
+      "target": "example_site_funfacts"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "_src": "somrat_theme",
+      "_tgt": "example_site_service",
+      "source": "somrat_theme",
+      "target": "example_site_service"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "_src": "somrat_theme",
+      "_tgt": "example_site_testimonial",
+      "source": "somrat_theme",
+      "target": "example_site_testimonial"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "_src": "somrat_theme",
+      "_tgt": "example_blog_post_design_dev",
+      "source": "somrat_theme",
+      "target": "example_blog_post_design_dev"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "_src": "somrat_theme",
+      "_tgt": "example_blog_post_design_art",
+      "source": "somrat_theme",
+      "target": "example_blog_post_design_art"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "_src": "somrat_theme",
+      "_tgt": "example_blog_post_web_dev",
+      "source": "somrat_theme",
+      "target": "example_blog_post_web_dev"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "_src": "somrat_theme",
+      "_tgt": "example_blog_post_database",
+      "source": "somrat_theme",
+      "target": "example_blog_post_database"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "_src": "somrat_theme",
+      "_tgt": "example_blog_post_design_sketch",
+      "source": "somrat_theme",
+      "target": "example_blog_post_design_sketch"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_alteryx",
+      "_tgt": "alteryx_designer",
+      "source": "portfolio_alteryx",
+      "target": "alteryx_designer"
+    },
+    {
+      "relation": "created for",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_dashboard",
+      "_tgt": "la_piscine",
+      "source": "portfolio_dashboard",
+      "target": "la_piscine"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_dashboard",
+      "_tgt": "python_streamlit",
+      "source": "portfolio_dashboard",
+      "target": "python_streamlit"
+    },
+    {
+      "relation": "deployed on",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_dashboard",
+      "_tgt": "heroku",
+      "source": "portfolio_dashboard",
+      "target": "heroku"
+    },
+    {
+      "relation": "visualises",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_dashboard",
+      "_tgt": "ghg_emissions",
+      "source": "portfolio_dashboard",
+      "target": "ghg_emissions"
+    },
+    {
+      "relation": "created for",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_database_modelling",
+      "_tgt": "la_piscine",
+      "source": "portfolio_database_modelling",
+      "target": "la_piscine"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_database_modelling",
+      "_tgt": "postgresql",
+      "source": "portfolio_database_modelling",
+      "target": "postgresql"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_database_modelling",
+      "_tgt": "sql",
+      "source": "portfolio_database_modelling",
+      "target": "sql"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_database_modelling",
+      "_tgt": "portfolio_eucface",
+      "source": "portfolio_database_modelling",
+      "target": "portfolio_eucface"
+    },
+    {
+      "relation": "models database for",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_database_modelling",
+      "_tgt": "eucface_experiment",
+      "source": "portfolio_database_modelling",
+      "target": "eucface_experiment"
+    },
+    {
+      "relation": "created for",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_data_pipeline",
+      "_tgt": "bifora",
+      "source": "portfolio_data_pipeline",
+      "target": "bifora"
+    },
+    {
+      "relation": "created for",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_deploy_heroku",
+      "_tgt": "la_piscine",
+      "source": "portfolio_deploy_heroku",
+      "target": "la_piscine"
+    },
+    {
+      "relation": "documents deployment on",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_deploy_heroku",
+      "_tgt": "heroku",
+      "source": "portfolio_deploy_heroku",
+      "target": "heroku"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_deploy_heroku",
+      "_tgt": "python_streamlit",
+      "source": "portfolio_deploy_heroku",
+      "target": "python_streamlit"
+    },
+    {
+      "relation": "created for",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_eucface",
+      "_tgt": "hawkesbury_institute",
+      "source": "portfolio_eucface",
+      "target": "hawkesbury_institute"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_ghg_modelling",
+      "_tgt": "portfolio_eucface",
+      "source": "portfolio_eucface",
+      "target": "portfolio_ghg_modelling"
+    },
+    {
+      "relation": "describes",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_eucface",
+      "_tgt": "eucface_experiment",
+      "source": "portfolio_eucface",
+      "target": "eucface_experiment"
+    },
+    {
+      "relation": "investigates",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_eucface",
+      "_tgt": "ghg_emissions",
+      "source": "portfolio_eucface",
+      "target": "ghg_emissions"
+    },
+    {
+      "relation": "created for",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_geographical_modelling",
+      "_tgt": "hawkesbury_institute",
+      "source": "portfolio_geographical_modelling",
+      "target": "hawkesbury_institute"
+    },
+    {
+      "relation": "created for",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_ghg_modelling",
+      "_tgt": "hawkesbury_institute",
+      "source": "portfolio_ghg_modelling",
+      "target": "hawkesbury_institute"
+    },
+    {
+      "relation": "models",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_ghg_modelling",
+      "_tgt": "ghg_emissions",
+      "source": "portfolio_ghg_modelling",
+      "target": "ghg_emissions"
+    },
+    {
+      "relation": "analyses data from",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_ghg_modelling",
+      "_tgt": "eucface_experiment",
+      "source": "portfolio_ghg_modelling",
+      "target": "eucface_experiment"
+    },
+    {
+      "relation": "documents",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_github_repo",
+      "_tgt": "github",
+      "source": "portfolio_github_repo",
+      "target": "github"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_google_bi",
+      "_tgt": "google_bigquery",
+      "source": "portfolio_google_bi",
+      "target": "google_bigquery"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_google_bi",
+      "_tgt": "google_data_studio",
+      "source": "portfolio_google_bi",
+      "target": "google_data_studio"
+    },
+    {
+      "relation": "complements",
+      "confidence": "INFERRED",
+      "_src": "portfolio_google_bi",
+      "_tgt": "portfolio_google_bigquery_datastudio",
+      "source": "portfolio_google_bi",
+      "target": "portfolio_google_bigquery_datastudio"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_google_bigquery_datastudio",
+      "_tgt": "google_bigquery",
+      "source": "portfolio_google_bigquery_datastudio",
+      "target": "google_bigquery"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_google_bigquery_datastudio",
+      "_tgt": "google_data_studio",
+      "source": "portfolio_google_bigquery_datastudio",
+      "target": "google_data_studio"
+    },
+    {
+      "relation": "created for",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_kpi_modelling",
+      "_tgt": "grains_rdc",
+      "source": "portfolio_kpi_modelling",
+      "target": "grains_rdc"
+    },
+    {
+      "relation": "documents",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_python_venv",
+      "_tgt": "python_venv_module",
+      "source": "portfolio_python_venv",
+      "target": "python_venv_module"
+    },
+    {
+      "relation": "extends",
+      "confidence": "INFERRED",
+      "_src": "portfolio_python_venv_conda",
+      "_tgt": "portfolio_python_venv",
+      "source": "portfolio_python_venv",
+      "target": "portfolio_python_venv_conda"
+    },
+    {
+      "relation": "documents",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_python_venv_conda",
+      "_tgt": "conda",
+      "source": "portfolio_python_venv_conda",
+      "target": "conda"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "french_portfolio_section",
+      "_tgt": "portfolio_python_venv_conda",
+      "source": "portfolio_python_venv_conda",
+      "target": "french_portfolio_section"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_python_venv_conda",
+      "_tgt": "gist_venv_conda",
+      "source": "portfolio_python_venv_conda",
+      "target": "gist_venv_conda"
+    },
+    {
+      "relation": "links to",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_python_venv_conda",
+      "_tgt": "github_gist_service",
+      "source": "portfolio_python_venv_conda",
+      "target": "github_gist_service"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_python_venv_conda",
+      "_tgt": "python_technology",
+      "source": "portfolio_python_venv_conda",
+      "target": "python_technology"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_python_venv_conda",
+      "_tgt": "conda_technology",
+      "source": "portfolio_python_venv_conda",
+      "target": "conda_technology"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "alteryx_fr",
+      "_tgt": "alteryx_designer",
+      "source": "alteryx_designer",
+      "target": "alteryx_fr"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "database_modelling_fr",
+      "_tgt": "postgresql",
+      "source": "postgresql",
+      "target": "database_modelling_fr"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "google_bi_fr",
+      "_tgt": "google_bigquery",
+      "source": "google_bigquery",
+      "target": "google_bi_fr"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "google_bigquery_datastudio_fr",
+      "_tgt": "google_bigquery",
+      "source": "google_bigquery",
+      "target": "google_bigquery_datastudio_fr"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "google_bi_fr",
+      "_tgt": "google_data_studio",
+      "source": "google_data_studio",
+      "target": "google_bi_fr"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "google_bigquery_datastudio_fr",
+      "_tgt": "google_data_studio",
+      "source": "google_data_studio",
+      "target": "google_bigquery_datastudio_fr"
+    },
+    {
+      "relation": "conducted at",
+      "confidence": "EXTRACTED",
+      "_src": "eucface_fr",
+      "_tgt": "hawkesbury_institute",
+      "source": "hawkesbury_institute",
+      "target": "eucface_fr"
+    },
+    {
+      "relation": "conducted at",
+      "confidence": "EXTRACTED",
+      "_src": "geographical_modelling_fr",
+      "_tgt": "hawkesbury_institute",
+      "source": "hawkesbury_institute",
+      "target": "geographical_modelling_fr"
+    },
+    {
+      "relation": "conducted at",
+      "confidence": "EXTRACTED",
+      "_src": "ghg_modelling_fr",
+      "_tgt": "hawkesbury_institute",
+      "source": "hawkesbury_institute",
+      "target": "ghg_modelling_fr"
+    },
+    {
+      "relation": "visualizes",
+      "confidence": "EXTRACTED",
+      "_src": "tableau_dashboard_en",
+      "_tgt": "ghg_emissions",
+      "source": "ghg_emissions",
+      "target": "tableau_dashboard_en"
+    },
+    {
+      "relation": "analyzes",
+      "confidence": "EXTRACTED",
+      "_src": "dashboard_streamlit_fr",
+      "_tgt": "ghg_emissions",
+      "source": "ghg_emissions",
+      "target": "dashboard_streamlit_fr"
+    },
+    {
+      "relation": "processes data for",
+      "confidence": "EXTRACTED",
+      "_src": "data_pipeline_fr",
+      "_tgt": "ghg_emissions",
+      "source": "ghg_emissions",
+      "target": "data_pipeline_fr"
+    },
+    {
+      "relation": "studies",
+      "confidence": "EXTRACTED",
+      "_src": "eucface_fr",
+      "_tgt": "ghg_emissions",
+      "source": "ghg_emissions",
+      "target": "eucface_fr"
+    },
+    {
+      "relation": "models",
+      "confidence": "EXTRACTED",
+      "_src": "ghg_modelling_fr",
+      "_tgt": "ghg_emissions",
+      "source": "ghg_emissions",
+      "target": "ghg_modelling_fr"
+    },
+    {
+      "relation": "models data for",
+      "confidence": "EXTRACTED",
+      "_src": "database_modelling_fr",
+      "_tgt": "eucface_experiment",
+      "source": "eucface_experiment",
+      "target": "database_modelling_fr"
+    },
+    {
+      "relation": "describes",
+      "confidence": "EXTRACTED",
+      "_src": "eucface_fr",
+      "_tgt": "eucface_experiment",
+      "source": "eucface_experiment",
+      "target": "eucface_fr"
+    },
+    {
+      "relation": "analyzes data from",
+      "confidence": "EXTRACTED",
+      "_src": "ghg_modelling_fr",
+      "_tgt": "eucface_experiment",
+      "source": "eucface_experiment",
+      "target": "ghg_modelling_fr"
+    },
+    {
+      "relation": "indexes",
+      "confidence": "INFERRED",
+      "_src": "portfolio_index_en",
+      "_tgt": "tableau_dashboard_en",
+      "source": "portfolio_index_en",
+      "target": "tableau_dashboard_en"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "tableau_dashboard_en",
+      "_tgt": "tableau_software",
+      "source": "tableau_dashboard_en",
+      "target": "tableau_software"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "dashboard_streamlit_fr",
+      "_tgt": "streamlit_library",
+      "source": "dashboard_streamlit_fr",
+      "target": "streamlit_library"
+    },
+    {
+      "relation": "deploys on",
+      "confidence": "EXTRACTED",
+      "_src": "dashboard_streamlit_fr",
+      "_tgt": "heroku_platform",
+      "source": "dashboard_streamlit_fr",
+      "target": "heroku_platform"
+    },
+    {
+      "relation": "built for",
+      "confidence": "EXTRACTED",
+      "_src": "dashboard_streamlit_fr",
+      "_tgt": "la_piscine_client",
+      "source": "dashboard_streamlit_fr",
+      "target": "la_piscine_client"
+    },
+    {
+      "relation": "documented by",
+      "confidence": "INFERRED",
+      "_src": "dashboard_streamlit_fr",
+      "_tgt": "deploy_heroku_fr",
+      "source": "dashboard_streamlit_fr",
+      "target": "deploy_heroku_fr"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "_src": "database_modelling_fr",
+      "_tgt": "eucface_fr",
+      "source": "database_modelling_fr",
+      "target": "eucface_fr"
+    },
+    {
+      "relation": "built for",
+      "confidence": "EXTRACTED",
+      "_src": "database_modelling_fr",
+      "_tgt": "la_piscine_client",
+      "source": "database_modelling_fr",
+      "target": "la_piscine_client"
+    },
+    {
+      "relation": "complements",
+      "confidence": "INFERRED",
+      "_src": "database_modelling_fr",
+      "_tgt": "data_pipeline_fr",
+      "source": "database_modelling_fr",
+      "target": "data_pipeline_fr"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "data_pipeline_fr",
+      "_tgt": "python_language",
+      "source": "data_pipeline_fr",
+      "target": "python_language"
+    },
+    {
+      "relation": "built for",
+      "confidence": "EXTRACTED",
+      "_src": "data_pipeline_fr",
+      "_tgt": "bifora_client",
+      "source": "data_pipeline_fr",
+      "target": "bifora_client"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "deploy_heroku_fr",
+      "_tgt": "heroku_platform",
+      "source": "deploy_heroku_fr",
+      "target": "heroku_platform"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "deploy_heroku_fr",
+      "_tgt": "streamlit_library",
+      "source": "deploy_heroku_fr",
+      "target": "streamlit_library"
+    },
+    {
+      "relation": "built for",
+      "confidence": "EXTRACTED",
+      "_src": "deploy_heroku_fr",
+      "_tgt": "la_piscine_client",
+      "source": "deploy_heroku_fr",
+      "target": "la_piscine_client"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "_src": "ghg_modelling_fr",
+      "_tgt": "eucface_fr",
+      "source": "eucface_fr",
+      "target": "ghg_modelling_fr"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "github_repo_fr",
+      "_tgt": "github_platform",
+      "source": "github_repo_fr",
+      "target": "github_platform"
+    },
+    {
+      "relation": "extends",
+      "confidence": "INFERRED",
+      "_src": "google_bi_fr",
+      "_tgt": "google_bigquery_datastudio_fr",
+      "source": "google_bi_fr",
+      "target": "google_bigquery_datastudio_fr"
+    },
+    {
+      "relation": "built for",
+      "confidence": "EXTRACTED",
+      "_src": "kpi_modelling_fr",
+      "_tgt": "grains_research_corp",
+      "source": "kpi_modelling_fr",
+      "target": "grains_research_corp"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "python_virtual_environment_fr",
+      "_tgt": "python_language",
+      "source": "python_virtual_environment_fr",
+      "target": "python_language"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_tableau_dashboard",
+      "_tgt": "tableau_software",
+      "source": "tableau_software",
+      "target": "portfolio_tableau_dashboard"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "french_portfolio_section",
+      "_tgt": "portfolio_tableau_dashboard",
+      "source": "french_portfolio_section",
+      "target": "portfolio_tableau_dashboard"
+    },
+    {
+      "relation": "visualizes",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_tableau_dashboard",
+      "_tgt": "ghg_emissions_research",
+      "source": "portfolio_tableau_dashboard",
+      "target": "ghg_emissions_research"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "gist_venv_conda",
+      "_tgt": "python_technology",
+      "source": "gist_venv_conda",
+      "target": "python_technology"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "gist_venv_conda",
+      "_tgt": "conda_technology",
+      "source": "gist_venv_conda",
+      "target": "conda_technology"
+    },
+    {
+      "relation": "published on",
+      "confidence": "EXTRACTED",
+      "_src": "gist_venv_conda",
+      "_tgt": "github_gist_service",
+      "source": "gist_venv_conda",
+      "target": "github_gist_service"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "gist_venv_python",
+      "_tgt": "python_technology",
+      "source": "gist_venv_python",
+      "target": "python_technology"
+    },
+    {
+      "relation": "published on",
+      "confidence": "INFERRED",
+      "_src": "gist_venv_python",
+      "_tgt": "github_gist_service",
+      "source": "gist_venv_python",
+      "target": "github_gist_service"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "gist_etl_bigquery_datastudio",
+      "_tgt": "bigquery_datastudio",
+      "source": "gist_etl_bigquery_datastudio",
+      "target": "bigquery_datastudio"
+    },
+    {
+      "relation": "published on",
+      "confidence": "INFERRED",
+      "_src": "gist_etl_bigquery_datastudio",
+      "_tgt": "github_gist_service",
+      "source": "gist_etl_bigquery_datastudio",
+      "target": "github_gist_service"
+    },
+    {
+      "relation": "models",
+      "confidence": "EXTRACTED",
+      "_src": "rdbms_uml_diagram",
+      "_tgt": "ghg_emissions_research",
+      "source": "rdbms_uml_diagram",
+      "target": "ghg_emissions_research"
+    },
+    {
+      "relation": "references",
+      "confidence": "INFERRED",
+      "_src": "rdbms_uml_diagram",
+      "_tgt": "bigquery_datastudio",
+      "source": "rdbms_uml_diagram",
+      "target": "bigquery_datastudio"
+    },
+    {
+      "relation": "documents",
+      "confidence": "INFERRED",
+      "_src": "scientific_publications_doc",
+      "_tgt": "ghg_emissions_research",
+      "source": "scientific_publications_doc",
+      "target": "ghg_emissions_research"
+    },
+    {
+      "relation": "renders",
+      "confidence": "INFERRED",
+      "_src": "default_single_layout",
+      "_tgt": "blog_post_6",
+      "source": "blog_post_6",
+      "target": "default_single_layout"
+    },
+    {
+      "relation": "lists",
+      "confidence": "INFERRED",
+      "_src": "blog_index",
+      "_tgt": "blog_post_6",
+      "source": "blog_post_6",
+      "target": "blog_index"
+    },
+    {
+      "relation": "renders",
+      "confidence": "INFERRED",
+      "_src": "default_list_layout",
+      "_tgt": "blog_index",
+      "source": "blog_index",
+      "target": "default_list_layout"
+    },
+    {
+      "relation": "renders",
+      "confidence": "INFERRED",
+      "_src": "portfolio_single_layout",
+      "_tgt": "portfolio_project_1",
+      "source": "portfolio_project_1",
+      "target": "portfolio_single_layout"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_index",
+      "_tgt": "portfolio_project_1",
+      "source": "portfolio_project_1",
+      "target": "portfolio_index"
+    },
+    {
+      "relation": "renders",
+      "confidence": "INFERRED",
+      "_src": "portfolio_single_layout",
+      "_tgt": "portfolio_project_2",
+      "source": "portfolio_project_2",
+      "target": "portfolio_single_layout"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_index",
+      "_tgt": "portfolio_project_2",
+      "source": "portfolio_project_2",
+      "target": "portfolio_index"
+    },
+    {
+      "relation": "renders",
+      "confidence": "INFERRED",
+      "_src": "portfolio_single_layout",
+      "_tgt": "portfolio_project_3",
+      "source": "portfolio_project_3",
+      "target": "portfolio_single_layout"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_index",
+      "_tgt": "portfolio_project_3",
+      "source": "portfolio_project_3",
+      "target": "portfolio_index"
+    },
+    {
+      "relation": "renders",
+      "confidence": "INFERRED",
+      "_src": "portfolio_single_layout",
+      "_tgt": "portfolio_project_4",
+      "source": "portfolio_project_4",
+      "target": "portfolio_single_layout"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_index",
+      "_tgt": "portfolio_project_4",
+      "source": "portfolio_project_4",
+      "target": "portfolio_index"
+    },
+    {
+      "relation": "renders",
+      "confidence": "INFERRED",
+      "_src": "portfolio_single_layout",
+      "_tgt": "portfolio_project_5",
+      "source": "portfolio_project_5",
+      "target": "portfolio_single_layout"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_index",
+      "_tgt": "portfolio_project_5",
+      "source": "portfolio_project_5",
+      "target": "portfolio_index"
+    },
+    {
+      "relation": "renders",
+      "confidence": "INFERRED",
+      "_src": "portfolio_single_layout",
+      "_tgt": "portfolio_project_6",
+      "source": "portfolio_project_6",
+      "target": "portfolio_single_layout"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_index",
+      "_tgt": "portfolio_project_6",
+      "source": "portfolio_project_6",
+      "target": "portfolio_index"
+    },
+    {
+      "relation": "renders",
+      "confidence": "INFERRED",
+      "_src": "portfolio_list_layout",
+      "_tgt": "portfolio_index",
+      "source": "portfolio_index",
+      "target": "portfolio_list_layout"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "portfolio_index",
+      "_tgt": "scientific_publications",
+      "source": "portfolio_index",
+      "target": "scientific_publications"
+    },
+    {
+      "relation": "renders",
+      "confidence": "INFERRED",
+      "_src": "portfolio_single_layout",
+      "_tgt": "scientific_publications",
+      "source": "scientific_publications",
+      "target": "portfolio_single_layout"
+    },
+    {
+      "relation": "includes partial",
+      "confidence": "EXTRACTED",
+      "_src": "baseof_layout",
+      "_tgt": "partial_head",
+      "source": "baseof_layout",
+      "target": "partial_head"
+    },
+    {
+      "relation": "includes partial",
+      "confidence": "EXTRACTED",
+      "_src": "baseof_layout",
+      "_tgt": "partial_preloader",
+      "source": "baseof_layout",
+      "target": "partial_preloader"
+    },
+    {
+      "relation": "includes partial",
+      "confidence": "EXTRACTED",
+      "_src": "baseof_layout",
+      "_tgt": "partial_header",
+      "source": "baseof_layout",
+      "target": "partial_header"
+    },
+    {
+      "relation": "includes partial",
+      "confidence": "EXTRACTED",
+      "_src": "baseof_layout",
+      "_tgt": "partial_footer",
+      "source": "baseof_layout",
+      "target": "partial_footer"
+    },
+    {
+      "relation": "includes partial",
+      "confidence": "EXTRACTED",
+      "_src": "baseof_layout",
+      "_tgt": "partial_script",
+      "source": "baseof_layout",
+      "target": "partial_script"
+    },
+    {
+      "relation": "extends",
+      "confidence": "INFERRED",
+      "_src": "layout_index",
+      "_tgt": "baseof_layout",
+      "source": "baseof_layout",
+      "target": "layout_index"
+    },
+    {
+      "relation": "extends",
+      "confidence": "INFERRED",
+      "_src": "portfolio_list_layout",
+      "_tgt": "baseof_layout",
+      "source": "baseof_layout",
+      "target": "portfolio_list_layout"
+    },
+    {
+      "relation": "extends",
+      "confidence": "INFERRED",
+      "_src": "portfolio_single_layout",
+      "_tgt": "baseof_layout",
+      "source": "baseof_layout",
+      "target": "portfolio_single_layout"
+    },
+    {
+      "relation": "extends",
+      "confidence": "INFERRED",
+      "_src": "default_list_layout",
+      "_tgt": "baseof_layout",
+      "source": "baseof_layout",
+      "target": "default_list_layout"
+    },
+    {
+      "relation": "extends",
+      "confidence": "INFERRED",
+      "_src": "default_single_layout",
+      "_tgt": "baseof_layout",
+      "source": "baseof_layout",
+      "target": "default_single_layout"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "fang_et_al_2018",
+      "source": "scientific_publications_page_fr",
+      "target": "fang_et_al_2018"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "fang_et_al_2019",
+      "source": "scientific_publications_page_fr",
+      "target": "fang_et_al_2019"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "jeffries_et_al_2018",
+      "source": "scientific_publications_page_fr",
+      "target": "jeffries_et_al_2018"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "jiang_et_al_2020",
+      "source": "scientific_publications_page_fr",
+      "target": "jiang_et_al_2020"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "martins_et_al_2015",
+      "source": "scientific_publications_page_fr",
+      "target": "martins_et_al_2015"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "martins_et_al_2016",
+      "source": "scientific_publications_page_fr",
+      "target": "martins_et_al_2016"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "martins_et_al_2017",
+      "source": "scientific_publications_page_fr",
+      "target": "martins_et_al_2017"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "mcnee_et_al_2015",
+      "source": "scientific_publications_page_fr",
+      "target": "mcnee_et_al_2015"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "nazaries_2005",
+      "source": "scientific_publications_page_fr",
+      "target": "nazaries_2005"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "nazaries_2011",
+      "source": "scientific_publications_page_fr",
+      "target": "nazaries_2011"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "nazaries_et_al_2010_isme13",
+      "source": "scientific_publications_page_fr",
+      "target": "nazaries_et_al_2010_isme13"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "nazaries_et_al_2011",
+      "source": "scientific_publications_page_fr",
+      "target": "nazaries_et_al_2011"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "nazaries_et_al_2012_isme14",
+      "source": "scientific_publications_page_fr",
+      "target": "nazaries_et_al_2012_isme14"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "nazaries_et_al_2013a",
+      "source": "scientific_publications_page_fr",
+      "target": "nazaries_et_al_2013a"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "nazaries_et_al_2013b",
+      "source": "scientific_publications_page_fr",
+      "target": "nazaries_et_al_2013b"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "nazaries_et_al_2014_isme15",
+      "source": "scientific_publications_page_fr",
+      "target": "nazaries_et_al_2014_isme15"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "nazaries_et_al_2015",
+      "source": "scientific_publications_page_fr",
+      "target": "nazaries_et_al_2015"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "_src": "scientific_publications_page_fr",
+      "_tgt": "nazaries_et_al_2018",
+      "source": "scientific_publications_page_fr",
+      "target": "nazaries_et_al_2018"
+    },
+    {
+      "relation": "preceded",
+      "confidence": "INFERRED",
+      "_src": "fang_et_al_2018",
+      "_tgt": "fang_et_al_2019",
+      "source": "fang_et_al_2018",
+      "target": "fang_et_al_2019"
+    },
+    {
+      "relation": "corrects",
+      "confidence": "EXTRACTED",
+      "_src": "martins_et_al_2016",
+      "_tgt": "martins_et_al_2015",
+      "source": "martins_et_al_2015",
+      "target": "martins_et_al_2016"
+    },
+    {
+      "relation": "preceded",
+      "confidence": "INFERRED",
+      "_src": "martins_et_al_2015",
+      "_tgt": "martins_et_al_2017",
+      "source": "martins_et_al_2015",
+      "target": "martins_et_al_2017"
+    },
+    {
+      "relation": "preceded_research_for",
+      "confidence": "INFERRED",
+      "_src": "nazaries_2005",
+      "_tgt": "nazaries_et_al_2011",
+      "source": "nazaries_2005",
+      "target": "nazaries_et_al_2011"
+    },
+    {
+      "relation": "contributed_to",
+      "confidence": "INFERRED",
+      "_src": "nazaries_et_al_2011",
+      "_tgt": "nazaries_2011",
+      "source": "nazaries_2011",
+      "target": "nazaries_et_al_2011"
+    },
+    {
+      "relation": "preceded_research_for",
+      "confidence": "INFERRED",
+      "_src": "nazaries_2011",
+      "_tgt": "nazaries_et_al_2013a",
+      "source": "nazaries_2011",
+      "target": "nazaries_et_al_2013a"
+    },
+    {
+      "relation": "preceded_research_for",
+      "confidence": "INFERRED",
+      "_src": "nazaries_2011",
+      "_tgt": "nazaries_et_al_2013b",
+      "source": "nazaries_2011",
+      "target": "nazaries_et_al_2013b"
+    },
+    {
+      "relation": "preceded",
+      "confidence": "INFERRED",
+      "_src": "nazaries_et_al_2010_isme13",
+      "_tgt": "nazaries_et_al_2011",
+      "source": "nazaries_et_al_2010_isme13",
+      "target": "nazaries_et_al_2011"
+    },
+    {
+      "relation": "preceded",
+      "confidence": "INFERRED",
+      "_src": "nazaries_et_al_2012_isme14",
+      "_tgt": "nazaries_et_al_2013a",
+      "source": "nazaries_et_al_2012_isme14",
+      "target": "nazaries_et_al_2013a"
+    },
+    {
+      "relation": "reviews_field_of",
+      "confidence": "INFERRED",
+      "_src": "nazaries_et_al_2013b",
+      "_tgt": "nazaries_et_al_2013a",
+      "source": "nazaries_et_al_2013a",
+      "target": "nazaries_et_al_2013b"
+    },
+    {
+      "relation": "preceded",
+      "confidence": "INFERRED",
+      "_src": "nazaries_et_al_2014_isme15",
+      "_tgt": "nazaries_et_al_2015",
+      "source": "nazaries_et_al_2014_isme15",
+      "target": "nazaries_et_al_2015"
+    },
+    {
+      "relation": "investigates degradation of",
+      "confidence": "EXTRACTED",
+      "_src": "rayu_2017",
+      "_tgt": "chlorpyrifos",
+      "source": "rayu_2017",
+      "target": "chlorpyrifos"
+    },
+    {
+      "relation": "investigates degradation of",
+      "confidence": "EXTRACTED",
+      "_src": "rayu_2017",
+      "_tgt": "tcp",
+      "source": "rayu_2017",
+      "target": "tcp"
+    },
+    {
+      "relation": "isolates and characterizes",
+      "confidence": "EXTRACTED",
+      "_src": "rayu_2017",
+      "_tgt": "xanthomonas_4r3m1",
+      "source": "rayu_2017",
+      "target": "xanthomonas_4r3m1"
+    },
+    {
+      "relation": "isolates and characterizes",
+      "confidence": "EXTRACTED",
+      "_src": "rayu_2017",
+      "_tgt": "pseudomonas_4h1m3",
+      "source": "rayu_2017",
+      "target": "pseudomonas_4h1m3"
+    },
+    {
+      "relation": "isolates and characterizes",
+      "confidence": "EXTRACTED",
+      "_src": "rayu_2017",
+      "_tgt": "rhizobium_4h1m1",
+      "source": "rayu_2017",
+      "target": "rhizobium_4h1m1"
+    },
+    {
+      "relation": "applies approach of",
+      "confidence": "EXTRACTED",
+      "_src": "rayu_2017",
+      "_tgt": "microbial_bioremediation",
+      "source": "rayu_2017",
+      "target": "microbial_bioremediation"
+    },
+    {
+      "relation": "samples organisms from",
+      "confidence": "EXTRACTED",
+      "_src": "rayu_2017",
+      "_tgt": "sugarcane_farm_soils",
+      "source": "rayu_2017",
+      "target": "sugarcane_farm_soils"
+    },
+    {
+      "relation": "published in",
+      "confidence": "EXTRACTED",
+      "_src": "rayu_2017",
+      "_tgt": "frontiers_microbiology",
+      "source": "rayu_2017",
+      "target": "frontiers_microbiology"
+    },
+    {
+      "relation": "co-authors",
+      "confidence": "EXTRACTED",
+      "_src": "brajesh_singh",
+      "_tgt": "rayu_2017",
+      "source": "rayu_2017",
+      "target": "brajesh_singh"
+    },
+    {
+      "relation": "leads authorship of",
+      "confidence": "EXTRACTED",
+      "_src": "smriti_rayu",
+      "_tgt": "rayu_2017",
+      "source": "rayu_2017",
+      "target": "smriti_rayu"
+    },
+    {
+      "relation": "co-authors",
+      "confidence": "EXTRACTED",
+      "_src": "uffe_nielsen",
+      "_tgt": "rayu_2017",
+      "source": "rayu_2017",
+      "target": "uffe_nielsen"
+    },
+    {
+      "relation": "shares domain and authors with",
+      "confidence": "INFERRED",
+      "_src": "rayu_2017",
+      "_tgt": "singh_2006",
+      "source": "rayu_2017",
+      "target": "singh_2006"
+    },
+    {
+      "relation": "develops and validates",
+      "confidence": "EXTRACTED",
+      "_src": "singh_2006",
+      "_tgt": "mtrflp_method",
+      "source": "singh_2006",
+      "target": "mtrflp_method"
+    },
+    {
+      "relation": "analyzes diversity of",
+      "confidence": "EXTRACTED",
+      "_src": "singh_2006",
+      "_tgt": "soil_microbial_community",
+      "source": "singh_2006",
+      "target": "soil_microbial_community"
+    },
+    {
+      "relation": "applies method to",
+      "confidence": "EXTRACTED",
+      "_src": "singh_2006",
+      "_tgt": "calluna_vulgaris_rhizosphere",
+      "source": "singh_2006",
+      "target": "calluna_vulgaris_rhizosphere"
+    },
+    {
+      "relation": "published in",
+      "confidence": "EXTRACTED",
+      "_src": "singh_2006",
+      "_tgt": "aem_journal",
+      "source": "singh_2006",
+      "target": "aem_journal"
+    },
+    {
+      "relation": "leads authorship of",
+      "confidence": "EXTRACTED",
+      "_src": "brajesh_singh",
+      "_tgt": "singh_2006",
+      "source": "singh_2006",
+      "target": "brajesh_singh"
+    },
+    {
+      "relation": "degrades to",
+      "confidence": "EXTRACTED",
+      "_src": "chlorpyrifos",
+      "_tgt": "tcp",
+      "source": "chlorpyrifos",
+      "target": "tcp"
+    },
+    {
+      "relation": "degrades",
+      "confidence": "EXTRACTED",
+      "_src": "xanthomonas_4r3m1",
+      "_tgt": "chlorpyrifos",
+      "source": "chlorpyrifos",
+      "target": "xanthomonas_4r3m1"
+    },
+    {
+      "relation": "degrades",
+      "confidence": "EXTRACTED",
+      "_src": "pseudomonas_4h1m3",
+      "_tgt": "chlorpyrifos",
+      "source": "chlorpyrifos",
+      "target": "pseudomonas_4h1m3"
+    },
+    {
+      "relation": "degrades",
+      "confidence": "EXTRACTED",
+      "_src": "rhizobium_4h1m1",
+      "_tgt": "chlorpyrifos",
+      "source": "chlorpyrifos",
+      "target": "rhizobium_4h1m1"
+    },
+    {
+      "relation": "remediates",
+      "confidence": "INFERRED",
+      "_src": "microbial_bioremediation",
+      "_tgt": "chlorpyrifos",
+      "source": "chlorpyrifos",
+      "target": "microbial_bioremediation"
+    },
+    {
+      "relation": "degrades",
+      "confidence": "EXTRACTED",
+      "_src": "xanthomonas_4r3m1",
+      "_tgt": "tcp",
+      "source": "tcp",
+      "target": "xanthomonas_4r3m1"
+    },
+    {
+      "relation": "degrades",
+      "confidence": "EXTRACTED",
+      "_src": "pseudomonas_4h1m3",
+      "_tgt": "tcp",
+      "source": "tcp",
+      "target": "pseudomonas_4h1m3"
+    },
+    {
+      "relation": "remediates",
+      "confidence": "INFERRED",
+      "_src": "microbial_bioremediation",
+      "_tgt": "tcp",
+      "source": "tcp",
+      "target": "microbial_bioremediation"
+    },
+    {
+      "relation": "characterizes diversity of",
+      "confidence": "EXTRACTED",
+      "_src": "mtrflp_method",
+      "_tgt": "soil_microbial_community",
+      "source": "mtrflp_method",
+      "target": "soil_microbial_community"
+    }
+  ]
+}

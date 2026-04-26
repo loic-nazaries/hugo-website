@@ -1,0 +1,3067 @@
+{
+  "nodes": [
+    {
+      "id": "assets_js_script_js",
+      "label": "script.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\assets\\js\\script.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "script_counter",
+      "label": "counter()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\assets\\js\\script.js",
+      "source_location": "L18"
+    },
+    {
+      "id": "script_smoothscroll",
+      "label": "smoothScroll()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\assets\\js\\script.js",
+      "source_location": "L56"
+    },
+    {
+      "id": "script_sliderbackground",
+      "label": "SliderBackground()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\assets\\js\\script.js",
+      "source_location": "L129"
+    },
+    {
+      "id": "static_plugins_jquery_waypoints_min_js",
+      "label": "jquery.waypoints.min.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "jquery_waypoints_min_t",
+      "label": "t()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7"
+    },
+    {
+      "id": "jquery_waypoints_min_e",
+      "label": "e()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7"
+    },
+    {
+      "id": "jquery_waypoints_min_i",
+      "label": "i()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7"
+    },
+    {
+      "id": "static_plugins_wow_min_js",
+      "label": "wow.min.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "wow_min_c",
+      "label": "c()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3"
+    },
+    {
+      "id": "wow_min_d",
+      "label": "d()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3"
+    },
+    {
+      "id": "wow_min_e",
+      "label": "e()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3"
+    },
+    {
+      "id": "wow_min_f",
+      "label": "f()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3"
+    },
+    {
+      "id": "wow_min_g",
+      "label": "g()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3"
+    },
+    {
+      "id": "wow_min_h",
+      "label": "h()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3"
+    },
+    {
+      "id": "wow_min_i",
+      "label": "i()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3"
+    },
+    {
+      "id": "wow_min_j",
+      "label": "j()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3"
+    },
+    {
+      "id": "wow_min_k",
+      "label": "k()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3"
+    },
+    {
+      "id": "wow_min_a",
+      "label": "a()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3"
+    },
+    {
+      "id": "static_plugins_bootstrap_bootstrap_min_js",
+      "label": "bootstrap.min.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "bootstrap_min_i",
+      "label": "i()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "bootstrap_min_s",
+      "label": "s()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "bootstrap_min_e",
+      "label": "e()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "bootstrap_min_l",
+      "label": "l()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "bootstrap_min_o",
+      "label": "o()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "bootstrap_min_n",
+      "label": "n()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "bootstrap_min_r",
+      "label": "r()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "bootstrap_min_a",
+      "label": "a()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "bootstrap_min_c",
+      "label": "c()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "bootstrap_min_we",
+      "label": "we()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "bootstrap_min_t",
+      "label": "t()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "static_plugins_jquery_jquery_min_js",
+      "label": "jquery.min.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "jquery_min_b",
+      "label": "b()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_w",
+      "label": "w()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_d",
+      "label": "d()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_se",
+      "label": "se()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_ue",
+      "label": "ue()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_le",
+      "label": "le()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_ce",
+      "label": "ce()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_fe",
+      "label": "fe()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_pe",
+      "label": "pe()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_de",
+      "label": "de()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_he",
+      "label": "he()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_ge",
+      "label": "ge()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_ve",
+      "label": "ve()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_ye",
+      "label": "ye()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_me",
+      "label": "me()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_xe",
+      "label": "xe()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_be",
+      "label": "be()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_we",
+      "label": "we()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_te",
+      "label": "Te()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_ee",
+      "label": "Ee()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_a",
+      "label": "A()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_j",
+      "label": "j()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_p",
+      "label": "P()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_m",
+      "label": "M()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_i",
+      "label": "I()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_l",
+      "label": "l()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_x",
+      "label": "X()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_v",
+      "label": "V()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_y",
+      "label": "Y()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_ke",
+      "label": "ke()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_ne",
+      "label": "Ne()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_ae",
+      "label": "Ae()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_oe",
+      "label": "Oe()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_re",
+      "label": "Re()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_ie",
+      "label": "Ie()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_e",
+      "label": "_e()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_ze",
+      "label": "ze()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_t",
+      "label": "t()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_et",
+      "label": "et()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_tt",
+      "label": "tt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_nt",
+      "label": "nt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_lt",
+      "label": "lt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_ct",
+      "label": "ct()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_ft",
+      "label": "ft()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_pt",
+      "label": "pt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_dt",
+      "label": "dt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_mt",
+      "label": "mt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_xt",
+      "label": "xt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_bt",
+      "label": "bt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_qt",
+      "label": "qt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "jquery_min_zt",
+      "label": "zt()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2"
+    },
+    {
+      "id": "static_plugins_magnific_popup_jquery_magnific_popup_min_js",
+      "label": "jquery.magnific-popup.min.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\magnific-popup\\jquery.magnific-popup.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "static_plugins_owl_carousel_owl_carousel_min_js",
+      "label": "owl.carousel.min.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "owl_carousel_min_e",
+      "label": "e()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "owl_carousel_min_f",
+      "label": "f()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "source_location": "L7"
+    },
+    {
+      "id": "static_plugins_shuffle_shuffle_min_js",
+      "label": "shuffle.min.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "shuffle_min_t",
+      "label": "t()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "shuffle_min_e",
+      "label": "e()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "shuffle_min_i",
+      "label": "i()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "shuffle_min_n",
+      "label": "n()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "shuffle_min_s",
+      "label": "s()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "shuffle_min_o",
+      "label": "o()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "shuffle_min_r",
+      "label": "r()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "shuffle_min_l",
+      "label": "l()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "shuffle_min_c",
+      "label": "c()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "shuffle_min_d",
+      "label": "d()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "shuffle_min_z",
+      "label": "z()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "shuffle_min_m",
+      "label": "M()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "shuffle_min_a",
+      "label": "A()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "shuffle_min_f",
+      "label": "F()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "shuffle_min_x",
+      "label": "x()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "static_plugins_text_animation_text_animation_js",
+      "label": "text-animation.js",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "text_animation_l",
+      "label": "l()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "text_animation_r",
+      "label": "r()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "text_animation_o",
+      "label": "o()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "text_animation_c",
+      "label": "c()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "text_animation_h",
+      "label": "h()",
+      "file_type": "code",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1"
+    }
+  ],
+  "edges": [
+    {
+      "source": "assets_js_script_js",
+      "target": "script_counter",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\assets\\js\\script.js",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "assets_js_script_js",
+      "target": "script_smoothscroll",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\assets\\js\\script.js",
+      "source_location": "L56",
+      "weight": 1.0
+    },
+    {
+      "source": "assets_js_script_js",
+      "target": "script_sliderbackground",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\assets\\js\\script.js",
+      "source_location": "L129",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_waypoints_min_js",
+      "target": "jquery_waypoints_min_t",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_waypoints_min_js",
+      "target": "jquery_waypoints_min_t",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_waypoints_min_js",
+      "target": "jquery_waypoints_min_e",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_waypoints_min_js",
+      "target": "jquery_waypoints_min_t",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_waypoints_min_js",
+      "target": "jquery_waypoints_min_t",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_waypoints_min_js",
+      "target": "jquery_waypoints_min_t",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_waypoints_min_js",
+      "target": "jquery_waypoints_min_e",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_waypoints_min_js",
+      "target": "jquery_waypoints_min_i",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_waypoints_min_js",
+      "target": "jquery_waypoints_min_t",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_waypoints_min_js",
+      "target": "jquery_waypoints_min_t",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_waypoints_min_t",
+      "target": "jquery_waypoints_min_e",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_c",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_d",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_e",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_f",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_g",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_h",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_i",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_j",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_k",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_a",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_a",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_a",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_wow_min_js",
+      "target": "wow_min_a",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "wow_min_a",
+      "target": "wow_min_c",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "wow_min_a",
+      "target": "wow_min_e",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "wow_min_a",
+      "target": "wow_min_g",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\wow.min.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_i",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_s",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_e",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_l",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_o",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_i",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_n",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_r",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_a",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_c",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_o",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_o",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_we",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_i",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_e",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_i",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_n",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_i",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_i",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_i",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_bootstrap_bootstrap_min_js",
+      "target": "bootstrap_min_t",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "bootstrap_min_s",
+      "target": "bootstrap_min_i",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "bootstrap_min_l",
+      "target": "bootstrap_min_e",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "bootstrap_min_we",
+      "target": "bootstrap_min_e",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "bootstrap_min_we",
+      "target": "bootstrap_min_i",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "bootstrap_min_e",
+      "target": "bootstrap_min_t",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_b",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_w",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_d",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_se",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ue",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_le",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ce",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_fe",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_pe",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_de",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_he",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ge",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ve",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ye",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_me",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_xe",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_be",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_we",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_te",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ce",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ee",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_a",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_j",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_p",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_m",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_i",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_w",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_l",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_b",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_x",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_v",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_y",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ee",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_le",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_fe",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ve",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ye",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_we",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ke",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_se",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ne",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ae",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_de",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_oe",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_pe",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_re",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_me",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ie",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_we",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_e",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ze",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_e",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_t",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ge",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ze",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_et",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_tt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_nt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_lt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ct",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_ft",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_pt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_dt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_mt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_xt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_bt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_qt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_bt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_t",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_zt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_jquery_jquery_min_js",
+      "target": "jquery_min_l",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_d",
+      "target": "jquery_min_w",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_d",
+      "target": "jquery_min_m",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_d",
+      "target": "jquery_min_x",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_se",
+      "target": "jquery_min_t",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_se",
+      "target": "jquery_min_y",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_se",
+      "target": "jquery_min_xe",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_se",
+      "target": "jquery_min_ye",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_se",
+      "target": "jquery_min_a",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ge",
+      "target": "jquery_min_ae",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ve",
+      "target": "jquery_min_le",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ve",
+      "target": "jquery_min_a",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ce",
+      "target": "jquery_min_le",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ce",
+      "target": "jquery_min_se",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ce",
+      "target": "jquery_min_te",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ce",
+      "target": "jquery_min_v",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ce",
+      "target": "jquery_min_y",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ce",
+      "target": "jquery_min_p",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ee",
+      "target": "jquery_min_be",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ee",
+      "target": "jquery_min_p",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ee",
+      "target": "jquery_min_l",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ee",
+      "target": "jquery_min_we",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ee",
+      "target": "jquery_min_ce",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ee",
+      "target": "jquery_min_xe",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_j",
+      "target": "jquery_min_m",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_w",
+      "target": "jquery_min_m",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_l",
+      "target": "jquery_min_m",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_l",
+      "target": "jquery_min_t",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_fe",
+      "target": "jquery_min_se",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_we",
+      "target": "jquery_min_w",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_we",
+      "target": "jquery_min_oe",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_we",
+      "target": "jquery_min_ve",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_we",
+      "target": "jquery_min_ye",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_oe",
+      "target": "jquery_min_a",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ie",
+      "target": "jquery_min_m",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ie",
+      "target": "jquery_min_we",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ie",
+      "target": "jquery_min_ve",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ie",
+      "target": "jquery_min_b",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_e",
+      "target": "jquery_min_fe",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_e",
+      "target": "jquery_min_oe",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_e",
+      "target": "jquery_min_t",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_tt",
+      "target": "jquery_min_fe",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_tt",
+      "target": "jquery_min_e",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_tt",
+      "target": "jquery_min_et",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_dt",
+      "target": "jquery_min_ct",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_dt",
+      "target": "jquery_min_v",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_dt",
+      "target": "jquery_min_m",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_qt",
+      "target": "jquery_min_i",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_qt",
+      "target": "jquery_min_w",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_bt",
+      "target": "jquery_min_m",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_t",
+      "target": "jquery_min_l",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_l",
+      "target": "jquery_min_a",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_owl_carousel_owl_carousel_min_js",
+      "target": "owl_carousel_min_e",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_owl_carousel_owl_carousel_min_js",
+      "target": "owl_carousel_min_e",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_owl_carousel_owl_carousel_min_js",
+      "target": "owl_carousel_min_f",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "owl_carousel_min_f",
+      "target": "owl_carousel_min_e",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_t",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_e",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_i",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_n",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_s",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_o",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_r",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_s",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_l",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_c",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_d",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_e",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_e",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_e",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_i",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_s",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_c",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_l",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_d",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_z",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_m",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_a",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_f",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_x",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_r",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_s",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_o",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_n",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_shuffle_shuffle_min_js",
+      "target": "shuffle_min_r",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "shuffle_min_i",
+      "target": "shuffle_min_e",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "shuffle_min_e",
+      "target": "shuffle_min_t",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "shuffle_min_e",
+      "target": "shuffle_min_d",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "shuffle_min_i",
+      "target": "shuffle_min_d",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "shuffle_min_l",
+      "target": "shuffle_min_c",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "shuffle_min_l",
+      "target": "shuffle_min_e",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "shuffle_min_m",
+      "target": "shuffle_min_d",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "shuffle_min_r",
+      "target": "shuffle_min_t",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "shuffle_min_r",
+      "target": "shuffle_min_o",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "shuffle_min_r",
+      "target": "shuffle_min_n",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "shuffle_min_r",
+      "target": "shuffle_min_i",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_text_animation_text_animation_js",
+      "target": "text_animation_l",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_text_animation_text_animation_js",
+      "target": "text_animation_r",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_text_animation_text_animation_js",
+      "target": "text_animation_o",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_text_animation_text_animation_js",
+      "target": "text_animation_c",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "static_plugins_text_animation_text_animation_js",
+      "target": "text_animation_h",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "text_animation_l",
+      "target": "text_animation_c",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "text_animation_l",
+      "target": "text_animation_r",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "text_animation_l",
+      "target": "text_animation_h",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "text_animation_l",
+      "target": "text_animation_o",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "text_animation_r",
+      "target": "text_animation_o",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "text_animation_r",
+      "target": "text_animation_l",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "text_animation_o",
+      "target": "text_animation_l",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "bootstrap_min_o",
+      "target": "wow_min_g",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "bootstrap_min_e",
+      "target": "wow_min_g",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "bootstrap_min_n",
+      "target": "wow_min_g",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "bootstrap_min_t",
+      "target": "wow_min_g",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_se",
+      "target": "text_animation_h",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_se",
+      "target": "wow_min_g",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ce",
+      "target": "shuffle_min_e",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_be",
+      "target": "shuffle_min_s",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_te",
+      "target": "shuffle_min_n",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ce",
+      "target": "wow_min_g",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_l",
+      "target": "shuffle_min_e",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_le",
+      "target": "shuffle_min_s",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ae",
+      "target": "wow_min_k",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_de",
+      "target": "text_animation_o",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_oe",
+      "target": "wow_min_k",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "jquery_min_ze",
+      "target": "shuffle_min_e",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "owl_carousel_min_e",
+      "target": "shuffle_min_a",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "text_animation_l",
+      "target": "shuffle_min_e",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "text_animation_l",
+      "target": "shuffle_min_s",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\data_projects\\hugo-website\\themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
+      "source_location": "L1",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
