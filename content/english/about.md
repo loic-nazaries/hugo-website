@@ -1,7 +1,6 @@
 ---
 title : "KNOW MORE <br> ABOUT ME"
-# image : "images/backgrounds/profile_picture.jpg"
-# button
+
 button:
   enable : true
   label : "DOWNLOAD MY CV"
@@ -12,80 +11,125 @@ experience:
   enable : true
   title : "EXPERIENCE"
   experience_list:
-    # experience item loop
+
+    - name : "Data Consultant"
+      company : "SOFTEAM (Bordeaux, France)"
+      duration : "| *10/2025 to 05/2026*"
+      content : "**Web scraping** of e-commerce metadata across multiple currencies <br>
+      → Geo-location handling, cookie pop-up & pagination management <br>
+      → **Streamlit** web app for scraping pipeline management <br>
+      → **LLM integration** for AI-assisted scraping performance <br>
+      → Codebase refactoring & project documentation"
+
+    - name : "Data & BI Analyst | Data Scientist"
+      company : "EPSYL – ALCEN Group (Bordeaux, France)"
+      duration : "| *05/2022 to 09/2025*"
+      content : "**Image analysis** for defect detection & prediction (**Machine Learning**) on a production line <br>
+      → **PoD** (Probability of Detection) studies — system sensitivity <br>
+      → Application of **frequentist and Bayesian inferential statistical methods** — trend extraction from complex systems <br>
+      → User guides & recipe book documentation <br>
+      **ETL** (Talend) for client data ingestion <br>
+      **Streamlit** web application — integration with the France Travail API to assist the HR department with candidate selection"
+
     - name : "Data Analyst Freelance"
       company : "BIFORA (Bordeaux, France)"
-      duration : "| *07/2020 to now*"
-      content : "Construction of a **data analysis pipeline** to reduce the data life cycle from several days to several hours <br>
-      Design of a POC (Proof of Concept) <br>
-      ***Data Mining*** (data integration & cleansing) <br>
-      ***Data Visualisation*** (interactive dashboard) <br>
-      **RDBMS** Modelling"
+      duration : "| *01/2021 to 06/2021*"
+      content : "**Green House Gas temporal modelling pipeline** — reduced data lifecycle from days to hours <br>
+      → Data integration from heterogeneous sources (CSV, TXT, spreadsheets) <br>
+      → Data cleaning & **Data Mining** <br>
+      → Interactive **dashboard** deployed on Heroku <br>
+      → Relational Database Management System **RDBMS** design (UML / Merise)"
 
-    # experience item loop
-    - name : "Data Analyst Freelance"
-      company : "Global Center for Land-Based Innovations - Western Sydney University (Sydney, Australia) - *full remote*"
-      duration : "| *09/2019 to 06/2020*"
-      content : "***Feature Engineering*** for modelling KPIs (Key Performance Indicators) <br>
-      Comparaison & validation of **statistical models** <br>
-      Maintenance of **data integrity** <br>
-      **Reporting** to stakeholders"
-      
-    # experience item loop
     - name : "Business Intelligence Analyst"
-      company : "IMC (Mérignac, Bordeaux)"
+      company : "Items Media Concept – IMC (Mérignac, Bordeaux)"
       duration : "| *06/2019 to 08/2019*"
-      content : "**Data integration** <br>
-      Creation of **dimensions** before production deployment <br>
-      **Data migration** (ODS – Datamart) <br>
-      **SQL queries** for the R&D teams"
+      content : "**ETL** integration (Talend) & creation of dimensions <br>
+      **Data migration** (ODS → Datamart) <br>
+      **SQL queries** for data preparation & R&D teams"
 
-    # experience item loop
     - name : "Statistical Research Analyst"
-      company : "Hawkesbury Institute for the Environment - Western Sydney University (Sydney, Australia)"
-      duration : "| *10/2011 to 07/2019*"
-      content : "Project Monitoring: <br>
-      - Project Budgeting <br>
-      - Monthly Reporting to clients & stakeholders <br>
-      Applied **Machine Learning** <br>
-      **A/B Testing** <br>
-      Geographical & temporal modelling <br>
-      Design of a POC & registration of a **commercial patent**"
+      company : "Hawkesbury Institute for the Environment – Western Sydney University (Sydney, Australia)"
+      duration : "| *10/2011 to 05/2018*"
+      content : "**Project management** <br>
+      → Mission budgeting <br>
+      → Collaborator training <br>
+      → Monthly reporting to clients and funding bodies <br>
+      **Data analysis** <br>
+      → **A/B Testing** — assessing climate change effects on greenhouse gas (GHG) emissions <br>
+      → Geographical & temporal GHG modelling <br>
+      → **KPI modelling** for wheat harvest quality assessment <br>
+      → **Feature Engineering** & model comparison by **AIC** <br>
+      Scientific publications & presentations at national and international conferences <br>
+      Monthly seminar organisation <br>
+      International collaborations (Imperial College London, University of Minnesota) <br>
+      Registration of a **commercial patent** (MT-RFLP molecular method)"
 
+  link :
+    enable : true
+    label : "Explore My Academic Journey"
+    url : "/en/blog/from-bordeaux-to-scotland/"
+
+############################### Teaching ###############################
 teaching:
   enable : true
   title : "TEACHING"
   experience_list:
-    # experience item loop
-    - name : "BI Trainer"
+
+    - name : "Data Visualisation Lecturer"
       company : "ISEG (Bordeaux, France)"
-      duration : "| *07/2020 to now*"
-      content : "Tableau Software"
+      duration : "| *10/2025 to 12/2025*"
+      content : "**Tableau Software**: descriptive statistics, data types & quality, chart types, storytelling, interactive dashboard design <br>
+      Business reporting best practices <br>
+      Exam preparation & student assessment"
+
+    - name : "BI Lecturer"
+      company : "IA School (Bordeaux, France)"
+      duration : "| *04/2024 to 05/2024*"
+      content : "**Tableau Software**: calculated fields, level-of-detail expressions, data connections & blending <br>
+      **R Shiny**: reactive programming, UI layouts, server-side logic, deployment on Shinyapps.io"
+
+    - name : "Data Analysis & BI Lecturer"
+      company : "ISEG (Bordeaux, France)"
+      duration : "| *10/2022 to 01/2023*"
+      content : "**Tableau Software**: descriptive statistics, data types & quality, chart types, storytelling, interactive dashboard design <br>
+      Business reporting best practices <br>
+      Exam preparation & student assessment"
+
+    - name : "Biostatistics Lecturer"
+      company : "Diderot Education (Bordeaux, France)"
+      duration : "| *09/2021 to 05/2022*"
+      content : "**BTS 1 & 2**: statistics fundamentals, distributions, graphical representations <br>
+      **Bachelor 1, 2 & 3**: ANOVA, linear regression, hypothesis testing, data transformations <br>
+      **MSc 1 & 2**: experimental design, multivariate analysis <br>
+      **R software** training <br>
+      Programs: nature management & protection · nutrition & human dietetics"
 
 ############################### Skills #################################
 skill:
   enable : true
   title : "SKILLS"
   skill_list:
-    # skill item loop
-    - name : "Data Mining"
+
+    - name : "Data Mining / EDA"
       percentage : "98%"
-      
-    # skill item loop
-    - name : "Machine Learning"
+
+    - name : "Data Visualisation"
+      percentage : "98%"
+
+    - name : "Python Programming"
       percentage : "85%"
-      
-    # skill item loop
+
     - name : "Database Management"
       percentage : "70%"
-      
-    # skill item loop
-    - name : "Data Visualisation"
-      percentage : "96%"
 
-    # skill item loop
+    - name : "Biostatistics"
+      percentage : "85%"
+
+    - name : "Machine Learning"
+      percentage : "85%"
+
     - name : "Web Development"
-      percentage : "78%"
+      percentage : "75%"
 
 # custom style
 custom_class: "" 
