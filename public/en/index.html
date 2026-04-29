@@ -237,36 +237,39 @@
         
       </ul>
       
-      <select id="select-language" onchange="location = this.value;">
-        
-        
-        
-        
-        
-        
-        
-        
-        <option id="fr" value="https://loic-nazaries.github.io/website/fr/">Français</option>
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <option id="en" value="https://loic-nazaries.github.io/website/en/" selected>English
-        </option>
-        
-        
-        
-        
-      </select>
+      <div class="language-switcher">
+        <span class="lang-icon" aria-hidden="true">🌐</span>
+        <select id="select-language" onchange="location = this.value;" aria-label="Select language">
+          
+          
+          
+          
+          
+          
+          
+          
+          <option id="fr" value="https://loic-nazaries.github.io/website/fr/">Français</option>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <option id="en" value="https://loic-nazaries.github.io/website/en/" selected>English
+          </option>
+          
+          
+          
+          
+        </select>
+      </div>
       
       
 
@@ -316,36 +319,39 @@
               
             </ul>
             
-            <select class="ml-4" id="select-language" onchange="location = this.value;">
-              
-              
-              
-              
-              
-              
-              
-              
-              <option id="fr" value="https://loic-nazaries.github.io/website/fr/">Français</option>
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              <option id="en" value="https://loic-nazaries.github.io/website/en/" selected>English
-              </option>
-              
-              
-              
-              
-            </select>
+            <div class="language-switcher">
+              <span class="lang-icon" aria-hidden="true">🌐</span>
+              <select id="select-language" onchange="location = this.value;" aria-label="Select language">
+                
+                
+                
+                
+                
+                
+                
+                
+                <option id="fr" value="https://loic-nazaries.github.io/website/fr/">Français</option>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <option id="en" value="https://loic-nazaries.github.io/website/en/" selected>English
+                </option>
+                
+                
+                
+                
+              </select>
+            </div>
             
             <ul class="mobile-menu-icons list-inline">
               
@@ -434,7 +440,7 @@
 <p><a href="https://www.linkedin.com/in/loic-nazaries" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white"> </a>
 <a href="https://github.com/loic-nazaries" target="_blank" > <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white"> </a>
 <a href="https://gist.github.com/loic-nazaries" target="_blank" > <img alt="GitHub" src="https://img.shields.io/badge/-GitHub_Gist-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white"> </a></p>
-<img alt="Visitors Badge" src="https://visitor-badge.glitch.me/badge?page_id=loic-nazaries.github-pages-website" />
+<!-- <img alt="Visitors Badge" src="https://visitor-badge.glitch.me/badge?page_id=loic-nazaries.github-pages-website" /> -->
 <!-- definitions -->
 <hr>
 </div>
@@ -457,59 +463,82 @@
           
           <li>
             <div class="single-experience">
-              <h4>Data Analyst Freelance</h4>
-               <span>BIFORA (Bordeaux, France)</span> 
-               <span>| <em>07/2020 to now</em></span> 
-               <p>Construction of a <strong>data analysis pipeline</strong> to reduce the data life cycle from several days to several hours <br>
-Design of a POC (Proof of Concept) <br>
-<em><strong>Data Mining</strong></em> (data integration &amp; cleansing) <br>
-<em><strong>Data Visualisation</strong></em> (interactive dashboard) <br>
-<strong>RDBMS</strong> Modelling</p> 
+              <h4>Data Consultant</h4>
+               <span>SOFTEAM (Bordeaux, France)</span> 
+               <span>| <em>10/2025 to 05/2026</em></span> 
+               <p><strong>Web scraping</strong> of e-commerce metadata across multiple currencies <br>
+→ Geo-location handling, cookie pop-up &amp; pagination management <br>
+→ <strong>Streamlit</strong> web app for scraping pipeline management <br>
+→ <strong>LLM integration</strong> for AI-assisted scraping performance <br>
+→ Codebase refactoring &amp; project documentation</p> 
+            </div>
+          </li>
+          
+          <li>
+            <div class="single-experience">
+              <h4>Data &amp; BI Analyst | Data Scientist</h4>
+               <span>EPSYL – ALCEN Group (Bordeaux, France)</span> 
+               <span>| <em>05/2022 to 09/2025</em></span> 
+               <p><strong>Image analysis</strong> for defect detection &amp; prediction (<strong>Machine Learning</strong>) on a production line <br>
+→ <strong>PoD</strong> (Probability of Detection) studies — system sensitivity <br>
+→ Application of <strong>frequentist and Bayesian inferential statistical methods</strong> — trend extraction from complex systems <br>
+→ User guides &amp; recipe book documentation <br>
+<strong>ETL</strong> (Talend) for client data ingestion <br>
+<strong>Streamlit</strong> web application — integration with the France Travail API to assist the HR department with candidate selection</p> 
             </div>
           </li>
           
           <li>
             <div class="single-experience">
               <h4>Data Analyst Freelance</h4>
-               <span>Global Center for Land-Based Innovations - Western Sydney University (Sydney, Australia) - <em>full remote</em></span> 
-               <span>| <em>09/2019 to 06/2020</em></span> 
-               <p><em><strong>Feature Engineering</strong></em> for modelling KPIs (Key Performance Indicators) <br>
-Comparaison &amp; validation of <strong>statistical models</strong> <br>
-Maintenance of <strong>data integrity</strong> <br>
-<strong>Reporting</strong> to stakeholders</p> 
+               <span>BIFORA (Bordeaux, France)</span> 
+               <span>| <em>01/2021 to 06/2021</em></span> 
+               <p><strong>Green House Gas temporal modelling pipeline</strong> — reduced data lifecycle from days to hours <br>
+→ Data integration from heterogeneous sources (CSV, TXT, spreadsheets) <br>
+→ Data cleaning &amp; <strong>Data Mining</strong> <br>
+→ Interactive <strong>dashboard</strong> deployed on Heroku <br>
+→ Relational Database Management System <strong>RDBMS</strong> design (UML / Merise)</p> 
             </div>
           </li>
           
           <li>
             <div class="single-experience">
               <h4>Business Intelligence Analyst</h4>
-               <span>IMC (Mérignac, Bordeaux)</span> 
+               <span>Items Media Concept – IMC (Mérignac, Bordeaux)</span> 
                <span>| <em>06/2019 to 08/2019</em></span> 
-               <p><strong>Data integration</strong> <br>
-Creation of <strong>dimensions</strong> before production deployment <br>
-<strong>Data migration</strong> (ODS – Datamart) <br>
-<strong>SQL queries</strong> for the R&amp;D teams</p> 
+               <p><strong>ETL</strong> integration (Talend) &amp; creation of dimensions <br>
+<strong>Data migration</strong> (ODS → Datamart) <br>
+<strong>SQL queries</strong> for data preparation &amp; R&amp;D teams</p> 
             </div>
           </li>
           
           <li>
             <div class="single-experience">
               <h4>Statistical Research Analyst</h4>
-               <span>Hawkesbury Institute for the Environment - Western Sydney University (Sydney, Australia)</span> 
-               <span>| <em>10/2011 to 07/2019</em></span> 
-               <p><p>Project Monitoring: <br></p>
-<ul>
-<li>Project Budgeting <br></li>
-<li>Monthly Reporting to clients &amp; stakeholders <br>
-Applied <strong>Machine Learning</strong> <br>
-<strong>A/B Testing</strong> <br>
-Geographical &amp; temporal modelling <br>
-Design of a POC &amp; registration of a <strong>commercial patent</strong></li>
-</ul></p> 
+               <span>Hawkesbury Institute for the Environment – Western Sydney University (Sydney, Australia)</span> 
+               <span>| <em>10/2011 to 05/2018</em></span> 
+               <p><strong>Project management</strong> <br>
+→ Mission budgeting <br>
+→ Collaborator training <br>
+→ Monthly reporting to clients and funding bodies <br>
+<strong>Data analysis</strong> <br>
+→ <strong>A/B Testing</strong> — assessing climate change effects on greenhouse gas (GHG) emissions <br>
+→ Geographical &amp; temporal GHG modelling <br>
+→ <strong>KPI modelling</strong> for wheat harvest quality assessment <br>
+→ <strong>Feature Engineering</strong> &amp; model comparison by <strong>AIC</strong> <br>
+Scientific publications &amp; presentations at national and international conferences <br>
+Monthly seminar organisation <br>
+International collaborations (Imperial College London, University of Minnesota) <br>
+Registration of a <strong>commercial patent</strong> (MT-RFLP molecular method)</p> 
             </div>
           </li>
           
         </ul>
+        
+        <p class="mt-3">
+          <a href="https://loic-nazaries.github.io/website/en/blog/from-bordeaux-to-scotland/" class="download-cv hvr-icon-hang">Explore My Academic Journey &nbsp; &nbsp; &nbsp;</a>
+        </p>
+        
       </div>
       
       
@@ -522,10 +551,46 @@ Design of a POC &amp; registration of a <strong>commercial patent</strong></li>
           
           <li>
             <div class="single-experience">
-              <h4>BI Trainer</h4>
+              <h4>Data Visualisation Lecturer</h4>
                <span>ISEG (Bordeaux, France)</span> 
-               <span>| <em>07/2020 to now</em></span> 
-               <p>Tableau Software</p> 
+               <span>| <em>10/2025 to 12/2025</em></span> 
+               <p><strong>Tableau Software</strong>: descriptive statistics, data types &amp; quality, chart types, storytelling, interactive dashboard design <br>
+Business reporting best practices <br>
+Exam preparation &amp; student assessment</p> 
+            </div>
+          </li>
+          
+          <li>
+            <div class="single-experience">
+              <h4>BI Lecturer</h4>
+               <span>IA School (Bordeaux, France)</span> 
+               <span>| <em>04/2024 to 05/2024</em></span> 
+               <p><strong>Tableau Software</strong>: calculated fields, level-of-detail expressions, data connections &amp; blending <br>
+<strong>R Shiny</strong>: reactive programming, UI layouts, server-side logic, deployment on Shinyapps.io</p> 
+            </div>
+          </li>
+          
+          <li>
+            <div class="single-experience">
+              <h4>Data Analysis &amp; BI Lecturer</h4>
+               <span>ISEG (Bordeaux, France)</span> 
+               <span>| <em>10/2022 to 01/2023</em></span> 
+               <p><strong>Tableau Software</strong>: descriptive statistics, data types &amp; quality, chart types, storytelling, interactive dashboard design <br>
+Business reporting best practices <br>
+Exam preparation &amp; student assessment</p> 
+            </div>
+          </li>
+          
+          <li>
+            <div class="single-experience">
+              <h4>Biostatistics Lecturer</h4>
+               <span>Diderot Education (Bordeaux, France)</span> 
+               <span>| <em>09/2021 to 05/2022</em></span> 
+               <p><strong>BTS 1 &amp; 2</strong>: statistics fundamentals, distributions, graphical representations <br>
+<strong>Bachelor 1, 2 &amp; 3</strong>: ANOVA, linear regression, hypothesis testing, data transformations <br>
+<strong>MSc 1 &amp; 2</strong>: experimental design, multivariate analysis <br>
+<strong>R software</strong> training <br>
+Programs: nature management &amp; protection · nutrition &amp; human dietetics</p> 
             </div>
           </li>
           
@@ -543,7 +608,7 @@ Design of a POC &amp; registration of a <strong>commercial patent</strong></li>
         <div class="skill-progress-bar">
           
           <div class="clearfix">
-            <span class="skillbar-title">Data Mining</span>
+            <span class="skillbar-title">Data Mining / EDA</span>
             <span class="skill-bar-percent">98%</span>
             <div class="skillbar" data-percent="98%">
               <div class="skillbar-bar"></div>
@@ -551,7 +616,15 @@ Design of a POC &amp; registration of a <strong>commercial patent</strong></li>
           </div>
           
           <div class="clearfix">
-            <span class="skillbar-title">Machine Learning</span>
+            <span class="skillbar-title">Data Visualisation</span>
+            <span class="skill-bar-percent">98%</span>
+            <div class="skillbar" data-percent="98%">
+              <div class="skillbar-bar"></div>
+            </div>
+          </div>
+          
+          <div class="clearfix">
+            <span class="skillbar-title">Python Programming</span>
             <span class="skill-bar-percent">85%</span>
             <div class="skillbar" data-percent="85%">
               <div class="skillbar-bar"></div>
@@ -567,17 +640,25 @@ Design of a POC &amp; registration of a <strong>commercial patent</strong></li>
           </div>
           
           <div class="clearfix">
-            <span class="skillbar-title">Data Visualisation</span>
-            <span class="skill-bar-percent">96%</span>
-            <div class="skillbar" data-percent="96%">
+            <span class="skillbar-title">Biostatistics</span>
+            <span class="skill-bar-percent">85%</span>
+            <div class="skillbar" data-percent="85%">
+              <div class="skillbar-bar"></div>
+            </div>
+          </div>
+          
+          <div class="clearfix">
+            <span class="skillbar-title">Machine Learning</span>
+            <span class="skill-bar-percent">85%</span>
+            <div class="skillbar" data-percent="85%">
               <div class="skillbar-bar"></div>
             </div>
           </div>
           
           <div class="clearfix">
             <span class="skillbar-title">Web Development</span>
-            <span class="skill-bar-percent">78%</span>
-            <div class="skillbar" data-percent="78%">
+            <span class="skill-bar-percent">75%</span>
+            <div class="skillbar" data-percent="75%">
               <div class="skillbar-bar"></div>
             </div>
           </div>
@@ -1109,6 +1190,7 @@ Design of a POC &amp; registration of a <strong>commercial patent</strong></li>
   <div class="container">
     <div class="row">
       <div class="testimonials-container col-lg-8 offset-lg-2">
+        
         <h1 class="wow fadeInUp" data-wow-duration="1.5s">TESTIMONIALS</h1>
         <div class="owl-carousel owl-theme wow fadeInUp" data-wow-duration="1.5s">
           
@@ -1140,6 +1222,7 @@ Design of a POC &amp; registration of a <strong>commercial patent</strong></li>
           </div>
           
         </div>
+        
         
         <div class="testimonial-cta wow fadeInUp" data-wow-duration="1.5s">
           <p>Enjoyed working with me? I&#39;d love to hear your feedback — send me a message and I&#39;ll add approved submissions to this page.</p>
