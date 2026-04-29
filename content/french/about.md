@@ -204,7 +204,7 @@ D'autres sont à venir !
 <a href="https://github.com/loic-nazaries" target="_blank" > <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white"> </a>
 <a href="https://gist.github.com/loic-nazaries" target="_blank" > <img alt="GitHub" src="https://img.shields.io/badge/-GitHub_Gist-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white"> </a>
 
-<img alt="Visitors Badge" src="https://visitor-badge.glitch.me/badge?page_id=loic-nazaries.github-pages-website" />
+<!-- <img alt="Visitors Badge" src="https://visitor-badge.glitch.me/badge?page_id=loic-nazaries.github-pages-website" /> -->
 
 <!-- definitions -->
 [Metro Map]: /images/portfolio/MetroMap_Data_Analyst.png "Metro Map Data Science"
