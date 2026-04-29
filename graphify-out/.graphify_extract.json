@@ -770,7 +770,7 @@
     },
     {
       "id": "loic_nazaries",
-      "label": "Lo\u00efc Nazaries",
+      "label": "Loïc Nazaries",
       "file_type": "document"
     },
     {
@@ -935,7 +935,7 @@
     },
     {
       "id": "la_piscine",
-      "label": "La Piscine",
+      "label": "La Piscine Centre de Formation",
       "file_type": "document"
     },
     {
@@ -960,7 +960,7 @@
     },
     {
       "id": "loic_nazaries",
-      "label": "Lo\u00efc Nazaries",
+      "label": "Loïc Nazaries",
       "file_type": "document"
     },
     {
@@ -1400,7 +1400,7 @@
     },
     {
       "id": "loic_nazaries",
-      "label": "Lo\u00efc Nazaries",
+      "label": "Loïc Nazaries",
       "file_type": "document"
     },
     {
@@ -1575,7 +1575,7 @@
     },
     {
       "id": "loic_nazaries",
-      "label": "Lo\u00efc Nazaries",
+      "label": "Loïc Nazaries",
       "file_type": "document"
     },
     {
@@ -1596,6 +1596,252 @@
     {
       "id": "aem_journal",
       "label": "Applied and Environmental Microbiology (Journal)",
+      "file_type": "document"
+    },
+    {
+      "id": "linkedin_profile",
+      "label": "LinkedIn Profile – Loïc Nazaries",
+      "file_type": "document",
+      "url": "https://www.linkedin.com/in/loic-nazaries/"
+    },
+    {
+      "id": "softeam",
+      "label": "SOFTEAM",
+      "file_type": "document"
+    },
+    {
+      "id": "role_softeam_consultant",
+      "label": "Consultant Données – SOFTEAM (Oct 2025–present)",
+      "file_type": "document"
+    },
+    {
+      "id": "epsyl_alcen",
+      "label": "EPSYL – ALCEN Group",
+      "file_type": "document"
+    },
+    {
+      "id": "role_epsyl_datascientist",
+      "label": "Data Scientist – EPSYL-ALCEN Group (Oct 2022–Sep 2025)",
+      "file_type": "document"
+    },
+    {
+      "id": "role_epsyl_bi_analyst",
+      "label": "Data & BI Analyst – EPSYL-ALCEN Group (May–Oct 2022)",
+      "file_type": "document"
+    },
+    {
+      "id": "ia_school",
+      "label": "IA School Bordeaux",
+      "file_type": "document"
+    },
+    {
+      "id": "role_iaschool_trainer",
+      "label": "Chargé de cours BI – IA School (Apr–May 2024)",
+      "file_type": "document"
+    },
+    {
+      "id": "iseg",
+      "label": "ISEG Bordeaux",
+      "file_type": "document"
+    },
+    {
+      "id": "role_iseg_trainer",
+      "label": "Chargé de cours Data Analyse & BI – ISEG (Oct 2022–Jan 2023)",
+      "file_type": "document"
+    },
+    {
+      "id": "diderot_education",
+      "label": "Diderot Education",
+      "file_type": "document"
+    },
+    {
+      "id": "role_diderot_trainer",
+      "label": "Chargé de cours Biostatistiques – Diderot Education (Sep 2021–May 2022)",
+      "file_type": "document"
+    },
+    {
+      "id": "role_bifora_analyst",
+      "label": "Data Analyst – BIFORA (Jan–Jun 2021)",
+      "file_type": "document"
+    },
+    {
+      "id": "wsu_global_centre",
+      "label": "WSU Global Centre for Land-Based Innovations",
+      "file_type": "document"
+    },
+    {
+      "id": "role_wsu_globalcentre",
+      "label": "Data Analyst – WSU Global Centre for Land-Based Innovations (Sep 2019–Jan 2020)",
+      "file_type": "document"
+    },
+    {
+      "id": "items_media_concept",
+      "label": "Items Media Concept (IMC)",
+      "file_type": "document"
+    },
+    {
+      "id": "role_imc_bi_analyst",
+      "label": "Business Intelligence Analyst – Items Media Concept (Jun–Aug 2019)",
+      "file_type": "document"
+    },
+    {
+      "id": "james_hutton_institute",
+      "label": "The James Hutton Institute / BioSS",
+      "file_type": "document"
+    },
+    {
+      "id": "role_hutton_biostatistician",
+      "label": "Biostatisticien / Data Analyst Junior – James Hutton Institute (Jul 2007–Apr 2011)",
+      "file_type": "document"
+    },
+    {
+      "id": "role_hutton_microbiologist",
+      "label": "Microbiologiste Moléculaire – James Hutton Institute (Apr–Sep 2005)",
+      "file_type": "document"
+    },
+    {
+      "id": "rowett_research_institute",
+      "label": "Rowett Research Institute",
+      "file_type": "document"
+    },
+    {
+      "id": "role_rowett_ra",
+      "label": "Assistant de Recherche – Rowett Research Institute (2002–2004)",
+      "file_type": "document"
+    },
+    {
+      "id": "university_of_warwick",
+      "label": "University of Warwick",
+      "file_type": "document"
+    },
+    {
+      "id": "phd_warwick",
+      "label": "PhD Biostatistiques & Analyses de Données – University of Warwick (2007–2011)",
+      "file_type": "document"
+    },
+    {
+      "id": "university_of_aberdeen",
+      "label": "University of Aberdeen",
+      "file_type": "document"
+    },
+    {
+      "id": "phd_aberdeen",
+      "label": "PhD Microbiologie Environnementale & Biostatistiques – University of Aberdeen (2007–2011)",
+      "file_type": "document"
+    },
+    {
+      "id": "training_la_piscine",
+      "label": "Formation Développeur Python / Data Analyst – La Piscine (Jan–Nov 2020)",
+      "file_type": "document"
+    },
+    {
+      "id": "robert_gordon_university",
+      "label": "Robert Gordon University",
+      "file_type": "document"
+    },
+    {
+      "id": "msc_robert_gordon",
+      "label": "MSc Sciences des Analyses Instrumentales – Robert Gordon University (2004–2005)",
+      "file_type": "document"
+    },
+    {
+      "id": "bsc_robert_gordon",
+      "label": "Licence Sciences Biologiques – Robert Gordon University (2002–2004)",
+      "file_type": "document"
+    },
+    {
+      "id": "cert_sas_essentials",
+      "label": "Certification SAS Programming | Essentials",
+      "file_type": "document"
+    },
+    {
+      "id": "cert_tableau_desktop",
+      "label": "Certification Tableau Desktop",
+      "file_type": "document"
+    },
+    {
+      "id": "cert_sas_data_manip",
+      "label": "Certification SAS Programming | Data Manipulation Techniques",
+      "file_type": "document"
+    },
+    {
+      "id": "cert_reviewing",
+      "label": "Certificate of Reviewing",
+      "file_type": "document"
+    },
+    {
+      "id": "patent_mt_rflp",
+      "label": "Patent: Multiplex Terminal-Restriction Fragment Length Polymorphism (MT-RFLP)",
+      "file_type": "paper"
+    },
+    {
+      "id": "skill_python",
+      "label": "Python Programming",
+      "file_type": "document"
+    },
+    {
+      "id": "skill_web_scraping",
+      "label": "Web Scraping",
+      "file_type": "document"
+    },
+    {
+      "id": "skill_sas",
+      "label": "SAS Programming",
+      "file_type": "document"
+    },
+    {
+      "id": "skill_tableau",
+      "label": "Tableau Software",
+      "file_type": "document"
+    },
+    {
+      "id": "skill_streamlit",
+      "label": "Streamlit",
+      "file_type": "document"
+    },
+    {
+      "id": "skill_talend",
+      "label": "Talend ETL",
+      "file_type": "document"
+    },
+    {
+      "id": "skill_biostatistics",
+      "label": "Biostatistics",
+      "file_type": "document"
+    },
+    {
+      "id": "skill_machine_learning",
+      "label": "Machine Learning",
+      "file_type": "document"
+    },
+    {
+      "id": "skill_r_shiny",
+      "label": "R Shiny",
+      "file_type": "document"
+    },
+    {
+      "id": "lang_english",
+      "label": "English (Native / Bilingual)",
+      "file_type": "document"
+    },
+    {
+      "id": "lang_french",
+      "label": "French (Native / Bilingual)",
+      "file_type": "document"
+    },
+    {
+      "id": "award_phd_grant",
+      "label": "PhD Grant",
+      "file_type": "document"
+    },
+    {
+      "id": "award_macaulay_trust",
+      "label": "Macaulay Development Trust Award",
+      "file_type": "document"
+    },
+    {
+      "id": "award_conference_fund",
+      "label": "Conference Travel and Training Fund",
       "file_type": "document"
     }
   ],
@@ -5347,6 +5593,790 @@
       "target": "singh_2006",
       "relation": "shares domain and authors with",
       "confidence": "INFERRED"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "loic_nazaries",
+      "relation": "belongs to",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "loic_nazaries"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "linkedin_profile",
+      "relation": "listed on",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "linkedin_profile"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "role_softeam_consultant",
+      "relation": "lists experience",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "role_softeam_consultant"
+    },
+    {
+      "source": "role_softeam_consultant",
+      "target": "softeam",
+      "relation": "at",
+      "confidence": "EXTRACTED",
+      "_src": "role_softeam_consultant",
+      "_tgt": "softeam"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "softeam",
+      "relation": "currently works at",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "softeam"
+    },
+    {
+      "source": "softeam",
+      "target": "skill_web_scraping",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "_src": "softeam",
+      "_tgt": "skill_web_scraping"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "role_epsyl_datascientist",
+      "relation": "lists experience",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "role_epsyl_datascientist"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "role_epsyl_bi_analyst",
+      "relation": "lists experience",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "role_epsyl_bi_analyst"
+    },
+    {
+      "source": "role_epsyl_datascientist",
+      "target": "epsyl_alcen",
+      "relation": "at",
+      "confidence": "EXTRACTED",
+      "_src": "role_epsyl_datascientist",
+      "_tgt": "epsyl_alcen"
+    },
+    {
+      "source": "role_epsyl_bi_analyst",
+      "target": "epsyl_alcen",
+      "relation": "at",
+      "confidence": "EXTRACTED",
+      "_src": "role_epsyl_bi_analyst",
+      "_tgt": "epsyl_alcen"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "epsyl_alcen",
+      "relation": "worked at",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "epsyl_alcen"
+    },
+    {
+      "source": "role_epsyl_datascientist",
+      "target": "skill_machine_learning",
+      "relation": "applied",
+      "confidence": "EXTRACTED",
+      "_src": "role_epsyl_datascientist",
+      "_tgt": "skill_machine_learning"
+    },
+    {
+      "source": "role_epsyl_bi_analyst",
+      "target": "skill_talend",
+      "relation": "used",
+      "confidence": "EXTRACTED",
+      "_src": "role_epsyl_bi_analyst",
+      "_tgt": "skill_talend"
+    },
+    {
+      "source": "role_epsyl_bi_analyst",
+      "target": "skill_streamlit",
+      "relation": "used",
+      "confidence": "EXTRACTED",
+      "_src": "role_epsyl_bi_analyst",
+      "_tgt": "skill_streamlit"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "role_iaschool_trainer",
+      "relation": "lists experience",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "role_iaschool_trainer"
+    },
+    {
+      "source": "role_iaschool_trainer",
+      "target": "ia_school",
+      "relation": "at",
+      "confidence": "EXTRACTED",
+      "_src": "role_iaschool_trainer",
+      "_tgt": "ia_school"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "ia_school",
+      "relation": "taught at",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "ia_school"
+    },
+    {
+      "source": "role_iaschool_trainer",
+      "target": "skill_tableau",
+      "relation": "taught",
+      "confidence": "EXTRACTED",
+      "_src": "role_iaschool_trainer",
+      "_tgt": "skill_tableau"
+    },
+    {
+      "source": "role_iaschool_trainer",
+      "target": "skill_r_shiny",
+      "relation": "taught",
+      "confidence": "EXTRACTED",
+      "_src": "role_iaschool_trainer",
+      "_tgt": "skill_r_shiny"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "role_iseg_trainer",
+      "relation": "lists experience",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "role_iseg_trainer"
+    },
+    {
+      "source": "role_iseg_trainer",
+      "target": "iseg",
+      "relation": "at",
+      "confidence": "EXTRACTED",
+      "_src": "role_iseg_trainer",
+      "_tgt": "iseg"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "iseg",
+      "relation": "taught at",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "iseg"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "role_diderot_trainer",
+      "relation": "lists experience",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "role_diderot_trainer"
+    },
+    {
+      "source": "role_diderot_trainer",
+      "target": "diderot_education",
+      "relation": "at",
+      "confidence": "EXTRACTED",
+      "_src": "role_diderot_trainer",
+      "_tgt": "diderot_education"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "diderot_education",
+      "relation": "taught at",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "diderot_education"
+    },
+    {
+      "source": "role_diderot_trainer",
+      "target": "skill_biostatistics",
+      "relation": "taught",
+      "confidence": "EXTRACTED",
+      "_src": "role_diderot_trainer",
+      "_tgt": "skill_biostatistics"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "role_bifora_analyst",
+      "relation": "lists experience",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "role_bifora_analyst"
+    },
+    {
+      "source": "role_bifora_analyst",
+      "target": "bifora",
+      "relation": "at",
+      "confidence": "EXTRACTED",
+      "_src": "role_bifora_analyst",
+      "_tgt": "bifora"
+    },
+    {
+      "source": "role_bifora_analyst",
+      "target": "skill_python",
+      "relation": "used",
+      "confidence": "EXTRACTED",
+      "_src": "role_bifora_analyst",
+      "_tgt": "skill_python"
+    },
+    {
+      "source": "role_bifora_analyst",
+      "target": "skill_streamlit",
+      "relation": "used",
+      "confidence": "EXTRACTED",
+      "_src": "role_bifora_analyst",
+      "_tgt": "skill_streamlit"
+    },
+    {
+      "source": "role_bifora_analyst",
+      "target": "skill_talend",
+      "relation": "used",
+      "confidence": "EXTRACTED",
+      "_src": "role_bifora_analyst",
+      "_tgt": "skill_talend"
+    },
+    {
+      "source": "role_bifora_analyst",
+      "target": "skill_tableau",
+      "relation": "used",
+      "confidence": "EXTRACTED",
+      "_src": "role_bifora_analyst",
+      "_tgt": "skill_tableau"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "role_wsu_globalcentre",
+      "relation": "lists experience",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "role_wsu_globalcentre"
+    },
+    {
+      "source": "role_wsu_globalcentre",
+      "target": "wsu_global_centre",
+      "relation": "at",
+      "confidence": "EXTRACTED",
+      "_src": "role_wsu_globalcentre",
+      "_tgt": "wsu_global_centre"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "wsu_global_centre",
+      "relation": "worked at",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "wsu_global_centre"
+    },
+    {
+      "source": "role_wsu_globalcentre",
+      "target": "skill_sas",
+      "relation": "used",
+      "confidence": "EXTRACTED",
+      "_src": "role_wsu_globalcentre",
+      "_tgt": "skill_sas"
+    },
+    {
+      "source": "role_wsu_globalcentre",
+      "target": "skill_tableau",
+      "relation": "used",
+      "confidence": "EXTRACTED",
+      "_src": "role_wsu_globalcentre",
+      "_tgt": "skill_tableau"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "role_imc_bi_analyst",
+      "relation": "lists experience",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "role_imc_bi_analyst"
+    },
+    {
+      "source": "role_imc_bi_analyst",
+      "target": "items_media_concept",
+      "relation": "at",
+      "confidence": "EXTRACTED",
+      "_src": "role_imc_bi_analyst",
+      "_tgt": "items_media_concept"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "items_media_concept",
+      "relation": "worked at",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "items_media_concept"
+    },
+    {
+      "source": "role_imc_bi_analyst",
+      "target": "skill_talend",
+      "relation": "used",
+      "confidence": "EXTRACTED",
+      "_src": "role_imc_bi_analyst",
+      "_tgt": "skill_talend"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "role_hutton_biostatistician",
+      "relation": "lists experience",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "role_hutton_biostatistician"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "role_hutton_microbiologist",
+      "relation": "lists experience",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "role_hutton_microbiologist"
+    },
+    {
+      "source": "role_hutton_biostatistician",
+      "target": "james_hutton_institute",
+      "relation": "at",
+      "confidence": "EXTRACTED",
+      "_src": "role_hutton_biostatistician",
+      "_tgt": "james_hutton_institute"
+    },
+    {
+      "source": "role_hutton_microbiologist",
+      "target": "james_hutton_institute",
+      "relation": "at",
+      "confidence": "EXTRACTED",
+      "_src": "role_hutton_microbiologist",
+      "_tgt": "james_hutton_institute"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "james_hutton_institute",
+      "relation": "worked at",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "james_hutton_institute"
+    },
+    {
+      "source": "role_hutton_microbiologist",
+      "target": "patent_mt_rflp",
+      "relation": "resulted in",
+      "confidence": "EXTRACTED",
+      "_src": "role_hutton_microbiologist",
+      "_tgt": "patent_mt_rflp"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "role_rowett_ra",
+      "relation": "lists experience",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "role_rowett_ra"
+    },
+    {
+      "source": "role_rowett_ra",
+      "target": "rowett_research_institute",
+      "relation": "at",
+      "confidence": "EXTRACTED",
+      "_src": "role_rowett_ra",
+      "_tgt": "rowett_research_institute"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "rowett_research_institute",
+      "relation": "worked at",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "rowett_research_institute"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "phd_warwick",
+      "relation": "lists education",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "phd_warwick"
+    },
+    {
+      "source": "phd_warwick",
+      "target": "university_of_warwick",
+      "relation": "awarded by",
+      "confidence": "EXTRACTED",
+      "_src": "phd_warwick",
+      "_tgt": "university_of_warwick"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "university_of_warwick",
+      "relation": "studied at",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "university_of_warwick"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "phd_warwick",
+      "relation": "holds degree",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "phd_warwick"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "phd_aberdeen",
+      "relation": "lists education",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "phd_aberdeen"
+    },
+    {
+      "source": "phd_aberdeen",
+      "target": "university_of_aberdeen",
+      "relation": "awarded by",
+      "confidence": "EXTRACTED",
+      "_src": "phd_aberdeen",
+      "_tgt": "university_of_aberdeen"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "university_of_aberdeen",
+      "relation": "studied at",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "university_of_aberdeen"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "training_la_piscine",
+      "relation": "lists education",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "training_la_piscine"
+    },
+    {
+      "source": "training_la_piscine",
+      "target": "la_piscine",
+      "relation": "at",
+      "confidence": "EXTRACTED",
+      "_src": "training_la_piscine",
+      "_tgt": "la_piscine"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "la_piscine",
+      "relation": "trained at",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "la_piscine"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "msc_robert_gordon",
+      "relation": "lists education",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "msc_robert_gordon"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "bsc_robert_gordon",
+      "relation": "lists education",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "bsc_robert_gordon"
+    },
+    {
+      "source": "msc_robert_gordon",
+      "target": "robert_gordon_university",
+      "relation": "awarded by",
+      "confidence": "EXTRACTED",
+      "_src": "msc_robert_gordon",
+      "_tgt": "robert_gordon_university"
+    },
+    {
+      "source": "bsc_robert_gordon",
+      "target": "robert_gordon_university",
+      "relation": "awarded by",
+      "confidence": "EXTRACTED",
+      "_src": "bsc_robert_gordon",
+      "_tgt": "robert_gordon_university"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "robert_gordon_university",
+      "relation": "studied at",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "robert_gordon_university"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "cert_sas_essentials",
+      "relation": "lists certification",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "cert_sas_essentials"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "cert_tableau_desktop",
+      "relation": "lists certification",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "cert_tableau_desktop"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "cert_sas_data_manip",
+      "relation": "lists certification",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "cert_sas_data_manip"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "cert_reviewing",
+      "relation": "lists certification",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "cert_reviewing"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "cert_sas_essentials",
+      "relation": "holds",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "cert_sas_essentials"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "cert_tableau_desktop",
+      "relation": "holds",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "cert_tableau_desktop"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "cert_sas_data_manip",
+      "relation": "holds",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "cert_sas_data_manip"
+    },
+    {
+      "source": "cert_sas_essentials",
+      "target": "skill_sas",
+      "relation": "validates",
+      "confidence": "EXTRACTED",
+      "_src": "cert_sas_essentials",
+      "_tgt": "skill_sas"
+    },
+    {
+      "source": "cert_sas_data_manip",
+      "target": "skill_sas",
+      "relation": "validates",
+      "confidence": "EXTRACTED",
+      "_src": "cert_sas_data_manip",
+      "_tgt": "skill_sas"
+    },
+    {
+      "source": "cert_tableau_desktop",
+      "target": "skill_tableau",
+      "relation": "validates",
+      "confidence": "EXTRACTED",
+      "_src": "cert_tableau_desktop",
+      "_tgt": "skill_tableau"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "patent_mt_rflp",
+      "relation": "invented",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "patent_mt_rflp"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "patent_mt_rflp",
+      "relation": "lists patent",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "patent_mt_rflp"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "skill_python",
+      "relation": "lists skill",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "skill_python"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "skill_web_scraping",
+      "relation": "lists skill",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "skill_web_scraping"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "skill_machine_learning",
+      "relation": "lists skill",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "skill_machine_learning"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "skill_biostatistics",
+      "relation": "lists skill",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "skill_biostatistics"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "skill_tableau",
+      "relation": "lists skill",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "skill_tableau"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "skill_sas",
+      "relation": "lists skill",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "skill_sas"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "skill_streamlit",
+      "relation": "lists skill",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "skill_streamlit"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "lang_english",
+      "relation": "lists language",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "lang_english"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "lang_french",
+      "relation": "lists language",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "lang_french"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "lang_english",
+      "relation": "speaks",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "lang_english"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "lang_french",
+      "relation": "speaks",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "lang_french"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "award_phd_grant",
+      "relation": "lists award",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "award_phd_grant"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "award_macaulay_trust",
+      "relation": "lists award",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "award_macaulay_trust"
+    },
+    {
+      "source": "linkedin_profile",
+      "target": "award_conference_fund",
+      "relation": "lists award",
+      "confidence": "EXTRACTED",
+      "_src": "linkedin_profile",
+      "_tgt": "award_conference_fund"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "award_phd_grant",
+      "relation": "received",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "award_phd_grant"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "award_macaulay_trust",
+      "relation": "received",
+      "confidence": "EXTRACTED",
+      "_src": "loic_nazaries",
+      "_tgt": "award_macaulay_trust"
+    },
+    {
+      "source": "phd_aberdeen",
+      "target": "nazaries_2011",
+      "relation": "published as",
+      "confidence": "EXTRACTED",
+      "_src": "phd_aberdeen",
+      "_tgt": "nazaries_2011"
+    },
+    {
+      "source": "phd_warwick",
+      "target": "nazaries_2011",
+      "relation": "published as",
+      "confidence": "EXTRACTED",
+      "_src": "phd_warwick",
+      "_tgt": "nazaries_2011"
+    },
+    {
+      "source": "role_hutton_biostatistician",
+      "target": "nazaries_et_al_2011",
+      "relation": "produced",
+      "confidence": "EXTRACTED",
+      "_src": "role_hutton_biostatistician",
+      "_tgt": "nazaries_et_al_2011"
+    },
+    {
+      "source": "role_hutton_biostatistician",
+      "target": "nazaries_et_al_2013a",
+      "relation": "produced",
+      "confidence": "EXTRACTED",
+      "_src": "role_hutton_biostatistician",
+      "_tgt": "nazaries_et_al_2013a"
+    },
+    {
+      "source": "role_hutton_microbiologist",
+      "target": "nazaries_2005",
+      "relation": "produced",
+      "confidence": "EXTRACTED",
+      "_src": "role_hutton_microbiologist",
+      "_tgt": "nazaries_2005"
     }
   ],
   "hyperedges": [
@@ -5483,7 +6513,7 @@
     },
     {
       "id": "nazaries_authored_works",
-      "label": "Works Authored or Co-authored by Lo\u00efc Nazaries",
+      "label": "Works Authored or Co-authored by Loïc Nazaries",
       "members": [
         "nazaries_2005",
         "nazaries_2011",
@@ -5508,7 +6538,7 @@
     },
     {
       "id": "shared_authorship_singh_nazaries",
-      "label": "Shared authorship: Brajesh K. Singh & Lo\u00efc Nazaries",
+      "label": "Shared authorship: Brajesh K. Singh & Loïc Nazaries",
       "members": [
         "brajesh_singh",
         "loic_nazaries",

@@ -1,12 +1,12 @@
-# Graph Report - .  (2026-04-25)
+# Graph Report - .  (2026-04-27)
 
 ## Corpus Check
 - 231 files · ~2,474,816 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 263 nodes · 437 edges · 18 communities detected
-- Extraction: 85% EXTRACTED · 15% INFERRED · 0% AMBIGUOUS · INFERRED: 65 edges (avg confidence: 0.59)
+- 312 nodes · 533 edges · 18 communities detected
+- Extraction: 88% EXTRACTED · 12% INFERRED · 0% AMBIGUOUS · INFERRED: 65 edges (avg confidence: 0.59)
 - Token cost: 0 input · 0 output
 
 ## Community Hubs (Navigation)
@@ -72,15 +72,15 @@
 
 ### Community 0 - "Community 0"
 Cohesion: 0.0
-Nodes (37): A(), Ae(), b(), be(), bt(), ce(), ct(), d() (+29 more)
+Nodes (76): Conference Travel and Training Fund, Macaulay Development Trust Award, PhD Grant, BIFORA, Licence Sciences Biologiques – Robert Gordon University (2002–2004), Certificate of Reviewing, Certification SAS Programming | Data Manipulation Techniques, Certification SAS Programming | Essentials (+68 more)
 
 ### Community 1 - "Community 1"
 Cohesion: 0.0
-Nodes (27): About Page, Alteryx Designer, Alteryx Workflow, Banner / Home Page, BIFORA, Call-to-Action Page, Contact Page, Guarantees Page (+19 more)
+Nodes (37): A(), Ae(), b(), be(), bt(), ce(), ct(), d() (+29 more)
 
 ### Community 2 - "Community 2"
 Cohesion: 0.0
-Nodes (27): CV Nazaries - Data Consultant (EN), CV Nazaries - Data Consultant (FR), Fang et al. 2018 - Carbon Priming Microbial Mechanisms, Fang et al. 2019 - Carbon Priming Biochar Vertisol, About Page (French), Banner Page (French), Services Page (French), Grains Research and Development Corporation (+19 more)
+Nodes (43): About Page, Alteryx Designer, Alteryx Workflow, Banner / Home Page, BIFORA, Call-to-Action Page, Contact Page, Interactive Dashboard - GHG Estimation Portal (+35 more)
 
 ### Community 3 - "Community 3"
 Cohesion: 0.0
@@ -88,31 +88,31 @@ Nodes (12): e(), i(), l(), n(), o(), s(), t(), we() (+4 more)
 
 ### Community 4 - "Community 4"
 Cohesion: 0.0
-Nodes (22): BIFORA, Interactive Dashboard - GHG Estimation Portal, Data Pipeline, Database Modelling (RDBMS), Deploy Web App with Heroku, EucFACE Experiment, EucFACE Site Presentation, Geographical Modelling (+14 more)
+Nodes (21): Base Layout Template (baseof.html), Blog Section Index, Blog Post: Simple Blog Post, Default List Layout, Default Single Layout, Homepage Layout (index.html), Footer Partial, Head Partial (head.html) (+13 more)
 
 ### Community 5 - "Community 5"
 Cohesion: 0.0
-Nodes (21): Base Layout Template (baseof.html), Blog Section Index, Blog Post: Simple Blog Post, Default List Layout, Default Single Layout, Homepage Layout (index.html), Footer Partial, Head Partial (head.html) (+13 more)
+Nodes (14): ze(), e(), f(), A(), c(), d(), e(), i() (+6 more)
 
 ### Community 6 - "Community 6"
 Cohesion: 0.0
-Nodes (14): ze(), e(), f(), A(), c(), d(), e(), i() (+6 more)
+Nodes (19): BigQuery & Data Studio, Conda, Conda, French Portfolio Section, GHG Emissions Research, Script: ETL with BigQuery and Data Studio, Script: Create Virtual Environment with Conda, Script: Create Virtual Environment with Python (+11 more)
 
 ### Community 7 - "Community 7"
 Cohesion: 0.0
-Nodes (19): BigQuery & Data Studio, Conda, Conda, French Portfolio Section, GHG Emissions Research, Script: ETL with BigQuery and Data Studio, Script: Create Virtual Environment with Conda, Script: Create Virtual Environment with Python (+11 more)
+Nodes (17): Applied and Environmental Microbiology (Journal), Brajesh K. Singh, Calluna vulgaris Rhizosphere, Chlorpyrifos (Organophosphate Pesticide), Frontiers in Microbiology (Journal), Microbial Bioremediation, Multiplex Terminal RFLP (M-TRFLP), Pseudomonas sp. 4H1-M3 (+9 more)
 
 ### Community 8 - "Community 8"
 Cohesion: 0.0
-Nodes (17): Applied and Environmental Microbiology (Journal), Brajesh K. Singh, Calluna vulgaris Rhizosphere, Chlorpyrifos (Organophosphate Pesticide), Frontiers in Microbiology (Journal), Microbial Bioremediation, Multiplex Terminal RFLP (M-TRFLP), Pseudomonas sp. 4H1-M3 (+9 more)
+Nodes (14): Example Blog Post: Database & Access, Example Blog Post: Design & Art, Example Blog Post: Design & Development, Example Blog Post: Design & Sketch, Example Blog Post: Web Development, Example Site: About Section, Example Site: Banner Section, Example Site: Call-to-Action Section (+6 more)
 
 ### Community 9 - "Community 9"
 Cohesion: 0.0
-Nodes (14): Example Blog Post: Database & Access, Example Blog Post: Design & Art, Example Blog Post: Design & Development, Example Blog Post: Design & Sketch, Example Blog Post: Web Development, Example Site: About Section, Example Site: Banner Section, Example Site: Call-to-Action Section (+6 more)
+Nodes (6): de(), c(), h(), l(), o(), r()
 
 ### Community 10 - "Community 10"
 Cohesion: 0.0
-Nodes (6): de(), c(), h(), l(), o(), r()
+Nodes (6): Google Business Intelligence, Google BigQuery, Google BigQuery and Data Studio, Google Data Studio, Google Business Intelligence Portfolio Item, Google BigQuery & Data Studio Portfolio Item
 
 ### Community 12 - "Community 12"
 Cohesion: 0.0

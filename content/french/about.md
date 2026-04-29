@@ -1,8 +1,6 @@
 ---
 title : "À MON SUJET"
-# image : "/images/backgrounds/profile_picture_300px.jpg"
 
-# button
 button:
   enable : true
   label : "TÉLÉCHARGER MON CV"
@@ -13,81 +11,125 @@ experience:
   enable : true
   title : "EXPÉRIENCES"
   experience_list:
-    # experience item loop
+
+    - name : "Data Consultant"
+      company : "SOFTEAM (Bordeaux, France)"
+      duration : " | *10/2025 à 05/2026*"
+      content : "**Web scraping** de métadonnées e-commerce (multiples devises) <br>
+      → Gestion de la géo-localisation, pop-up cookies & pagination <br>
+      → Application web **Streamlit** pour la gestion du scraping <br>
+      → Intégration d'un **LLM** pour améliorer les performances par IA <br>
+      → Refonte de la codebase & documentation du projet"
+
+    - name : "Data & BI Analyst | Data Scientist"
+      company : "EPSYL – ALCEN Group (Bordeaux, France)"
+      duration : " | *05/2022 à 09/2025*"
+      content : "**Analyse d'images** pour la détection & prédiction de défauts (**Machine Learning**) sur ligne de production <br>
+      → Études de **POD** (Probabilité de Détection) — sensibilité du système <br>
+      → Application de **méthodes statistiques fréquentistes et inférentielles bayésiennes** — extraction de tendances pour mieux comprendre un système complexe <br>
+      → Rédaction de guides utilisateurs & cahiers de recettes <br>
+      **ETL** (Talend) pour l'ingestion de données client <br>
+      Création d'une application web **Streamlit** — interaction avec l'API de France Travail pour assister le département RH avec la sélection de candidats"
+
     - name : "Data Analyst Freelance"
       company : "BIFORA (Bordeaux, France)"
-      duration : "| *07/2020 à aujourd’hui*"
-      content : "Construction d'un **pipeline** d'analyse de données pour réduire le cycle de vie des données de plusieurs jours à plusieurs heures <br>
-      Réalisation d'un POC (*Proof of Concept*) <br>
-      ***Data Mining*** (intégration & nettoyage des données) <br>
-      ***Data Visualisation*** (*dashboard* interactif) <br>
-      Modélisation d'un **SGBDR**"
-      
-    # experience item loop
-    - name : "Data Analyst Freelance"
-      company : "Global Center for Land-Based Innovations - Western Sydney University (Sydney, Australie) - *full remote*"
-      duration : "| *09/2019 à 06/2020*"
-      content : "***Feature Engineering*** pour la modélisation de KPI (indices de performance) <br/>
-      Comparaison & validation de **modèles statistiques** <br>
-      Maintien de l'**intégrité des données** <br>
-      **Reporting** auprès des *stakeholders*"
-      
-    # experience item loop
-    - name : "Business Intelligence Analyst"
-      company : "IMC (Mérignac, Bordeaux)"
-      duration : "| *06/2019 à 08/2019*"
-      content : "**Intégration des données** <br>
-      Création de **dimensions** avant leur mise en production <br>
-      **Migration des données** (ODS – Datamart) <br>
-      Formulation de **requêtes SQL** pour les équipes R&D"
+      duration : " | *01/2021 à 06/2021*"
+      content : "**Pipeline de modélisation temporelle des émissions de gaz à effet de serre** — cycle de vie des données réduit de plusieurs jours à quelques heures <br>
+      → Intégration de sources hétérogènes (CSV, TXT, tableurs) <br>
+      → Nettoyage de données & **Data Mining** <br>
+      → **Dashboard** interactif déployé sur Heroku <br>
+      → Modélisation d'un système de gestion d'une base de données relationnelle **SGBDR** (UML / Merise)"
 
-    # experience item loop
-    - name : "Chargé d’études statistiques"
-      company : "Hawkesbury Institute for the Environment - Western Sydney University (Sydney, Australie)"
-      duration : "| *10/2011 à 07/2019*"
-      content : "**Pilotage** de projets: <br>
-      - Budgétisation des missions <br>
-      - Reporting mensuel auprès des clients & *stakeholders* <br>
-      Application de méthodes de *Machine Learning* <br>
-      **A/B Testing** <br>
-      Modélisation géographique et temporelle <br>
-      Réalisation d'un POC & dépôt d'un **brevet commercial**"
+    - name : "Business Intelligence Analyst"
+      company : "Items Media Concept – IMC (Mérignac, Bordeaux)"
+      duration : " | *06/2019 à 08/2019*"
+      content : "Intégration **ETL** (Talend) & création de dimensions <br>
+      **Migration des données** (ODS → Datamart) <br>
+      **Requêtes SQL** pour la préparation de données & équipes R&D"
+
+    - name : "Chargé d'études statistiques | Data Scientist"
+      company : "Hawkesbury Institute for the Environment – Western Sydney University (Sydney, Australie)"
+      duration : " | *10/2011 à 05/2018*"
+      content : "**Pilotage de projets** <br>
+      → Budgétisation des missions <br>
+      → Formation des collaborateurs <br>
+      → Reporting mensuel auprès des clients et organismes de financement <br>
+      **Analyses de données** <br>
+      → **A/B Testing** — évaluation des effets du changement climatique sur les émissions de gaz à effet de serre (GES) <br>
+      → Modélisation géographique & temporelle des GES <br>
+      → **Modélisation de KPI** pour évaluer la qualité des récoltes de blé <br>
+      → **Feature Engineering** & comparaison de modèles par **AIC** <br>
+      Publications d'articles scientifiques & présentations à des conférences nationales et internationales <br>
+      Organisation de séminaires mensuels <br>
+      Collaborations internationales (Imperial College London, Université du Minnesota) <br>
+      Dépôt d'un **brevet commercial** (méthode moléculaire MT-RFLP)"
+
+  link :
+    enable : true
+    label : "Explorez mon parcours académique"
+    url : "/fr/blog/de-bordeaux-en-ecosse/"
 
 ############################### Teaching ###############################
 teaching:
   enable : true
   title : "ENSEIGNEMENT"
   experience_list:
-    # experience item loop
-    - name : "Formateur BI"
+
+    - name : "Chargé de cours Data Visualisation"
       company : "ISEG (Bordeaux, France)"
-      duration : "| *07/2020 à aujourd'hui*"
-      content : "Tableau Software"
+      duration : " | *10/2025 à 12/2025*"
+      content : "**Tableau Software** : statistiques descriptives, types & qualité des données, types de graphiques, storytelling, conception de dashboards interactifs <br>
+      Bonnes pratiques de reporting métier <br>
+      Préparation des sujets d’examens et évaluation des étudiants"
+
+    - name : "Chargé de cours BI"
+      company : "IA School (Bordeaux, France)"
+      duration : " | *04/2024 à 05/2024*"
+      content : "**Tableau Software** : champs calculés, expressions de niveau de détail, connexions & fusion de données <br>
+      **R Shiny** : programmation réactive, interfaces utilisateur, déploiement sur Shinyapps.io"
+
+    - name : "Chargé de cours Data Analyse & BI"
+      company : "ISEG (Bordeaux, France)"
+      duration : " | *10/2022 à 01/2023*"
+      content : "**Tableau Software** : statistiques descriptives, types & qualité des données, types de graphiques, storytelling, conception de dashboards interactifs <br>
+      Bonnes pratiques de reporting métier <br>
+      Préparation des sujets d’examens et évaluation des étudiants"
+
+    - name : "Chargé de cours en Biostatistiques"
+      company : "Diderot Education (Bordeaux, France)"
+      duration : " | *09/2021 à 05/2022*"
+      content : "**BTS 1 & 2** : fondamentaux des statistiques, distributions, représentations graphiques <br>
+      **Bachelor 1, 2 & 3** : ANOVA, régression linéaire, tests d'hypothèse, transformations de données <br>
+      **MSc 1 & 2** : plans d'expérience, analyse multivarié <br>
+      Formation au **logiciel R** <br>
+      Programmes : gestion & protection de la nature · diététique & nutrition humaine"
 
 ############################### Skills #################################
 skill:
   enable : true
   title : "COMPÉTENCES"
   skill_list:
-    # skill item loop
-    - name : "Extraction de données"
+
+    - name : "Exploration de données"
       percentage : "98%"
-      
-    # skill item loop
+
+    - name : "Visualisation de données"
+      percentage : "98%"
+
+    - name : "Programmation Python"
+      percentage : "85%"
+
+    - name : "Gestion de base de données"
+      percentage : "70%"
+
+    - name : "Biostatistiques"
+      percentage : "85%"
+
     - name : "Machine Learning"
       percentage : "85%"
-      
-    # skill item loop
-    - name : "Gestion de base de données"
-      percentage : "90%"
-      
-    # skill item loop
-    - name : "Visualisation de données"
-      percentage : "96%"
 
-    # skill item loop
     - name : "Développement web"
-      percentage : "78%"
+      percentage : "75%"
 
 # custom style
 custom_class: "" 
@@ -162,7 +204,7 @@ D'autres sont à venir !
 <a href="https://github.com/loic-nazaries" target="_blank" > <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white"> </a>
 <a href="https://gist.github.com/loic-nazaries" target="_blank" > <img alt="GitHub" src="https://img.shields.io/badge/-GitHub_Gist-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white"> </a>
 
-<img alt="Visitors Badge" src="https://visitor-badge.glitch.me/badge?page_id=loic-nazaries.github-pages-website" />
+<!-- <img alt="Visitors Badge" src="https://visitor-badge.glitch.me/badge?page_id=loic-nazaries.github-pages-website" /> -->
 
 <!-- definitions -->
 [Metro Map]: /images/portfolio/MetroMap_Data_Analyst.png "Metro Map Data Science"

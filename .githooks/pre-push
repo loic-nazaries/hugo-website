@@ -4,6 +4,10 @@
 
 echo ">>> Running hugo build before push..."
 
+# Always delete public/ first to guarantee a clean production build
+# (hugo server may have written localhost URLs there during development)
+rm -rf public/
+
 if ! hugo; then
   echo "ERROR: hugo build failed. Push aborted." >&2
   exit 1

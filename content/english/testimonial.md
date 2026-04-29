@@ -1,5 +1,6 @@
 ---
 title: "TESTIMONIALS"
+enable: true
 testimonial_slider:
 
 - name: "Dr. Jane Smith"

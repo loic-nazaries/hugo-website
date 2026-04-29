@@ -1,0 +1,326 @@
+   
+Coordonnées
+Bordeaux
++33(0)6 24 80 83 15 (Mobile)
+loicnazaries@yahoo.fr
+www.linkedin.com/in/loic-nazaries
+(LinkedIn)
+Principales compétences
+Python (langage de programmation)
+Applications web
+Implémentation de méthodes
+Languages
+English (Native or Bilingual)
+French (Native or Bilingual)
+Certifications
+Certificate of Reviewing
+SAS Programming | Essentials
+Tableau Desktop
+SAS Programming | Data
+Manipulation Techniques
+Honors-Awards
+University waver fee
+Tuition fees
+PhD grant
+Macaulay Development Trust
+Conference Travel and Training
+Fund
+Publications
+Two-way interactions between
+organophosphorous (OP)
+compounds ans soil microbial
+communities
+Impact of Warming and Reduced
+Precipitation in a Temperate-
+Boreal Ecotonal Forest in Northern
+Minnesota
+Multiplex T-RFLP, a novel method
+to study rhizosphere-microbial
+interactions (MSc thesis)
+Loïc Nazaries
+Data Scientist, BI Analyst, Conférencier, Formateur
+France
+Résumé
+Je suis un spécialiste de la donnée avec plus de 10 ans
+d’expérience dans le domaine des biostatistiques, de l’exploration
+des données et du Machine Learning. Le cycle de vie entier de la
+Data me passionne, depuis la modélisation d’une base de données
+à son utilisation dans le domaine de la Business Intelligence en
+passant par la création de supports visuels simples et impactant
+de type Dashboard. Partisan de l’apprentissage par la pratique,
+je consulte fréquemment les sites spécialisés pour découvrir de
+nouvelles technologies et les appliquer plus tard dans mes projets.
+Doué d’une vraie appétence pour l'analyse de données, j’aime
+manier des bases de données et en distiller des informations utiles.
+Leurs extraction & bonne interprétation a le potentiel d’apporter une
+forte valeur ajoutée pour valoriser une aide à la prise de décision
+plus rapide et plus intelligente.
+Expérience
+SOFTEAM
+Consultant données
+octobre 2025 - Present (7 mois)
+Бордо
+Web scraping:
+- collection et organisation de metadata depuis plusieurs sites de e-commerce
+(multiples devises)
+- gestion de la géo-localisation et des pop-up de cookies
+- gestion de différents types de pagination (scroll infini, click voir plus)
+- mise en place d'une appli web pour la gestion du scraping
+- création de la documentation du projet
+- refonte de la codebase existante pour optimiser le processus de scraping
+- intégration de l'utilisation d'un LLM pour améliorer les performances de
+scraping par IA
+EPSYL - ALCEN Group
+  Page 1 of 8
+   
+Potential for summer active grasses
+to minimise gaseous soil N losses
+Temperature-induced loss of soil
+carbon is modulated by microbial
+metabolic rates
+Patents
+Multiplex Terminal-Restriction
+Fragment Length Polymorphism
+3 ans 5 mois
+Data Scientist
+octobre 2022 - septembre 2025 (3 ans)
+Bordeaux, Nouvelle-Aquitaine, France
+- Analyse d’images pour la détection & prédiction (Machine Learning) de
+défauts sur une ligne de production
+- Études de POD (Probabilité de détection) de défaut (présence et taille)
+- Application de méthodes statistiques fréquentistes et inférentielles
+bayésiennes pour extraire des tendances et mieux comprendre un système
+complexe
+- Rédaction des guides utilisateurs et cahiers de recettes
+Data & BI Analyst
+mai 2022 - octobre 2022 (6 mois)
+Bordeaux, Nouvelle-Aquitaine, France
+- Intégration de données & création de dimensions par un processus d’ETL
+(Talend)
+- Création d'application web avec Streamlit (librairie Python)
+IA School
+Chargé de cours en Business Intelligence
+avril 2024 - mai 2024 (2 mois)
+Bordeaux, Nouvelle-Aquitaine, France
+Formation à l'utilisation de Tableau pour la création de tableaux de bord.
+Formation à la creation d'application web avec R Shiny.
+ISEG
+Chargé de cours en Data Analyse & Business Intelligence
+octobre 2022 - janvier 2023 (4 mois)
+Bordeaux, Nouvelle-Aquitaine, France
+Diderot Education
+Chargé de cours en biostatistics
+septembre 2021 - mai 2022 (9 mois)
+Bordeaux, Nouvelle-Aquitaine, France
+Enseignant en biostatistiques:
+- BTSa Gestion et Protection de la Nature (GPN): BTS (1 &2)
+- École de la Gestion et Protection de la Nature (EGVN): Bachelor (1, 2 & 3)
+- École de Diététique et Nutrition Humaine (EDNH): Master of Science (1 & 2)
+BIFORA
+  Page 2 of 8
+   
+Data Analyst
+janvier 2021 - juin 2021 (6 mois)
+Bordeaux, Nouvelle-Aquitaine, France
+Thème
+Modélisation temporelle des émissions des gaz à effet de serre.
+Missions
+- Construction d’un pipeline qui réduit le cycle de vie des données de plusieurs
+jours à plusieurs heures.
+- Intégration des données à partir de sources hétérogènes (enregistreurs
+automatiques, mesures manuelles, fichiers au formats variés – .csv, .txt,
+tableur, etc.).
+- Data Mining : Préparation des données pour les étapes d’analyses
+statistiques et de modélisation (Machine Learning) :
++ Typage des variables.
++ Nettoyage des données par diverses méthodes d'imputation (null, moyenne,
+médiane).
++ Transformation des données.
++ Modélisation temporelle (ARIMA).
+- Création de supports visuels (graphes et tables).
+- Réalisation d'un Dashboard interactif entièrement réglable par l’utilisateur.
+- Déploiement d'une solution informatique de type web sur Heroku.com.
+- Modélisation d'un système de gestion d'une base de données relationnelle
+(SGBDR).
+Environnement technique
+- Langages de programmation : Python / SAS.
+- Librairies Python : Streamlit (appli web) / Numpy-Pandas (analyse de
+données) / Seaborn-Plotly (Data Visualisation) / Statsmodels-Pingouin-
+ScikitLearn (Machine Learning) / Click (interface utilisateur).
+- Intégration et requêtes de données : PostgreSQL / Google BigQuery.
+- Suivi de projet : Conda (gestion de librairies et d'environnements virtuels) /
+Git (contrôle de version) / Markdown (préparation de rapports).
+- Visualisation de données (Data Viz): Tableau / Google Data Studio / Jupyter
+Lab.
+- Outils d'ETL: Alteryx Designer / Snowflake.
+- Conception logiciel et modélisation de SGBDR : UML / méthodes Merise.
+  Page 3 of 8
+   
+Western Sydney University - Global Centre for Land-Based
+Innovations
+Data Analyst
+septembre 2019 - janvier 2020 (5 mois)
+En remote depuis Bordeaux, Nouvelle-Aquitaine, France
+Thème
+Modélisation du cycle des nutriments dans le sol.
+Missions
+- Recherche et développement de nouvelles approches analytiques
+(réalisation d’un POC).
+- Reporting pour les stakeholders (rédaction de rapports trimestriels).
+- Maintenir à jour les données et metadata et les rendre disponible auprès des
+collaborateurs à la fois internes et externes.
+- Data Mining et modélisation d'un indicateur clé de performance (ou KPI) qui
+permet de quantifier la qualité des récoltes de blé.
+- Application de Feature Engineering pour détecter les variables qui impactent
+le plus la variation des KPIs.
+- Comparaison et validation de la qualité des modèles en appliquant le critère
+d'information d'Akaike (ou AIC).
+- Formation des collaborateurs et des acteurs locaux.
+Environnement technique
+- Langages de développement : SAS 9.4 / SQL
+- Intégration et requêtes de données : PostgreSQL 12 & pgAdmin 4.
+- Logiciels statistiques : GenStat 17 / Minitab 16 / PRIMER6.
+- Logiciel SAM (modélisation des KPI).
+- Statistiques fréquentistes et bayésiennes.
+- Visualisation de données (Data Viz) : Tableau 2019.
+- Suite Microsoft Office 2019 : Word (rapports de mission) / Excel (agrégation
+des données et analyses descriptives) / PowerPoint (visualisation des
+analyses de données).
+Financement
+Projet financé par des organismes publiques du gouvernement australien et
+associations privées du secteur primaire :
+- Department of Primary Industry (DPI)
+- Grains Research & Development Corporation (GRDC)
+Items Media Concept
+  Page 4 of 8
+   
+Business Intelligence Analyst
+juin 2019 - août 2019 (3 mois)
+Mérignac (Bordeaux, Nouvelle-Aquitaine, France)
+Missions
+- Traitement des données et maintien d’une base de données relationnelle.
+- Consolidation du système d'information en homogénéisant le processus
+d'ETL (Extract Transform Load).
+- Intégration des données et création de dimensions avant leurs mises en
+production.
+- Migration des données (ODS – Datamart).
+- Formulation de requêtes SQL pour la préparation de données, l'alimentation
+de dimensions ou encore la création de tables.
+Environnement technique
+- Langages de développement : Python / SQL.
+- SGBDR : PostgreSQL.
+- Système d’ ETL : Talend.
+- Travail en mode agile de type Scrum avec des sprints toutes les deux
+semaines.
+Western Sydney University - Hawkesbury Institute for the
+Environment
+Chargé d’études statistiques - Unité Recherche et Développement
+octobre 2011 - mai 2019 (7 ans 8 mois)
+Richmond (New South Wales), Australie
+Missions
+- Pilotage de projets :
++ Budgétisation des missions.
++ Formation des collaborateurs.
++ Reporting mensuel auprès des clients et organismes de financement.
+- Mise en place de Datamart pour les business units.
+- Production et agrégation de données.
+- Application de méthodes de Machine Learning :
++ Identification des marqueurs permettant la modélisation des gaz à effet de
+serre (GAS).
++ Modélisation géographique (Kriging) des émetteurs de GAS.
++ Modélisation prédictive et temporelle.
++ Standardisation des données.
++ Mesures et indices d’erreur (Error Metrics).
+  Page 5 of 8
+   
+- Restitution des résultats sous forme de dashboards statiques.
+- A/B Testing pour répondre aux problématiques métiers face au changement
+climatique :
++ Analyser les effets de l’augmentation du CO2 dans l’atmosphère.
++ L’augmentation de la température de l'air a-t-elle un effet sur les émissions
+des GAS ?
++ Les GAS sont-ils affectés par les variations saisonnières et inhabituelles des
+pluies ?
+- Publication de livres et d’articles de journaux de statistiques appliquées.
+- Organisation de séminaires mensuels et de conférences annuelles (JAMS).
+- Collaborations et coordinations locales et internationales :
++ Imperial London College (Angleterre).
++ University of Minnesota (USA).
++ Department of Primary Industry (gouvernement australien).
+Environnement technique
+- Statistiques exploratoires et descriptives multivariées.
+- Machine Learning:
++ Supervised Learning :
+* Linear & Non-Linear Regressions.
+* Random Forest (arbres décisionnels).
++ Unsupervised Learning :
+* Clustering (classification de données par arbres de hiérarchisation).
+* Feature Engineering / Dimensionality Reduction (Principal Component
+Analysis ; Canonical Analysis).
+- Logiciels statistiques: GenStat 17 / Minitab 16 / PRIMER 6.
+- Logiciel SAM (modélisation algorithmique).
+- Suite Microsoft Office 2016: Word (rapports de mission) / Excel (agrégation
+des données et analyses descriptives) / PowerPoint (visualisation des
+analyses de données)
+The James Hutton Institute - Biomathematics and Statistics Scotland
+(BioSS)
+Biostatisticien / Data Analyst Junior
+juillet 2007 - avril 2011 (3 ans 10 mois)
+Aberdeen, Écosse
+  Page 6 of 8
+   
+Theme
+Effet de la déforestation et reforestation sur les émissions de méthane (CH4)
+dans l'atmosphère.
+Missions
+- Organisation des campagnes de collectes d’échantillons.
+- Préparation des protocoles d’analyse.
+- Communication avec les acteurs locaux.
+- Revue littéraire.
+- Coordination des analyses de laboratoire.
+- Analyses biostatistiques.
+- Écriture des rapports de mission.
+Environnement technique
+- Similaire à l’expérience précédente.
+The James Hutton Institute
+Microbiologiste moléculaire
+avril 2005 - septembre 2005 (6 mois)
+Aberdeen, Écosse
+Il s'agissait de mon projet de stage Master.
+J'ai optimisé une méthode moléculaire pour l'identification simultané de
+plusieurs microbes du soil. Cette méthode s'appelle Multiple Terminal-
+Restriction Fragment Length Polymorphism (MT-RFLP).
+Suite à cette optimisation un brevet commercial a été déposé.
+Rowett Research Institute
+Assitant de recherche de laboratoire
+2002 - 2004 (2 ans)
+Aberdeen, Écosse
+Durant mes études de 1er cycle (DEUG/licence), j'ai travaillé à mi-temps sur
+plusieurs sujets de recherche tels que:
+- effets d'une déficience de fer durant le développement musculaire (ex. alité
+après une maladie ou lors d'un age avancé)
+- améliorer l'atrophie musculaire suivant un stress (ex. accident)
+- régulation de la matrice des métalloproteinases  impliquées dans le cadre de
+l'athérosclérose
+Cela a nécessité un nombre de techniques telles que:
+- histologie (cryomicrotomie, histochemistrie, immunocytochemistrie)
+  Page 7 of 8
+   
+- dissection de muscle et analyse de fibre (identification de fibre); analyse
+d'images
+- test de proteine, extraction d'RNA, RT-PCR
+- Western-Blotting
+Formation
+University of Warwick
+Doctorat, Biostatistiques & Analyses de données · (juillet 2007 - avril 2011)
+La Piscine, centre de formation
+Développeur Python, spécialisation Data Analyst avec intelligence
+décisionnelle  · (janvier 2020 - novembre 2020)
+University of Aberdeen
+Doctor of Philosofy - PhD, Microbiologie de l'Environnement &
+Biostatistiques · (2007 - 2011)
+Robert Gordon University
+Master of Science - MS, Science des analyses instrumentales · (2004 - 2005)
+Robert Gordon University
+Licence, Sciences Biologiques option Sciences bio-médicales · (2002 - 2004)
+  Page 8 of 8
