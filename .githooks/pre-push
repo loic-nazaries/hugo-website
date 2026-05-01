@@ -1,25 +1,12 @@
 #!/bin/sh
-# pre-push hook: rebuild public/ with hugo before every push.
-# If hugo produces changes, they are committed automatically.
+# pre-push hook: verify the hugo build succeeds before pushing.
+# public/ is built by CI (GitHub Actions) and is not committed to git.
 
-echo ">>> Running hugo build before push..."
+echo ">>> Verifying hugo build --gc --minify before push..."
 
-# Always delete public/ first to guarantee a clean production build
-# (hugo server may have written localhost URLs there during development)
-rm -rf public/
-
-if ! hugo; then
-  echo "ERROR: hugo build failed. Push aborted." >&2
+if ! hugo --gc --minify; then
+  echo "ERROR: hugo build --gc --minify failed. Push aborted." >&2
   exit 1
 fi
 
-# Stage any changes inside public/
-git add public/
-
-# If there are staged changes, commit them
-if ! git diff --cached --quiet; then
-  git commit -m "chore: rebuild public/ [pre-push]"
-  echo ">>> public/ rebuilt and committed."
-else
-  echo ">>> public/ is already up to date."
-fi
+echo ">>> Hugo build succeeded."

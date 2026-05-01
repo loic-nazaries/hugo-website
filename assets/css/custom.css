@@ -1,0 +1,63 @@
+/* ── Language switcher ───────────────────────────────────────────── */
+.language-switcher {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-left: 16px;
+}
+
+.lang-icon {
+  font-size: 18px;
+  line-height: 1;
+  margin-right: 6px;
+  pointer-events: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.select-language {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  border-radius: 4px;
+  color: inherit;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 3px 6px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.select-language:hover,
+.select-language:focus {
+  border-color: rgba(255, 255, 255, 0.9);
+  outline: none;
+}
+
+/* Dark (scrolled) menu state */
+.menu-normal .select-language {
+  border-color: rgba(0, 0, 0, 0.35);
+  color: #333;
+}
+
+.menu-normal .select-language option {
+  color: #333;
+}
+/* ─────────────────────────────────────────────────────────────────── */
+
+.testimonial-cta {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.testimonial-cta p {
+  color: #6f6f6f;
+  font-size: 22px;
+  margin-bottom: 20px;
+}

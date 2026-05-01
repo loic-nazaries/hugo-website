@@ -1,9 +1,16 @@
+# Hugo build output — built by CI (GitHub Actions), not committed to git
+public/
+
 # VS Code folder
 .vscode/
 
 .venv/
 .mypy_cache/
 __pycache__/
+
+# graphify: machine-specific python path (not portable)
+graphify-out/.graphify_python
+graphify-out/.linkedin_profile.txt
 
 # blog content
 # content/english/blog

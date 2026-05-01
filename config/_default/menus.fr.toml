@@ -1,6 +1,6 @@
 [[main]]
 name = "Accueil"
-url = "/github-pages-website"
+url = "fr/"
 weight = 10
 [[main]]
 name = "À propos de moi"
@@ -25,7 +25,7 @@ weight = 50
 [[main]]
 name = "Blog"
 url = "blog"
-weight = 50
+weight = 55
 [[main]]
 name = "Me contacter"
 pre = "fr/#"
