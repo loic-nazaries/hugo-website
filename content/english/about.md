@@ -193,7 +193,7 @@ More to come!
 &nbsp;<img alt="Streamlit" height="26" src="/images/icons/streamlit.png" />&nbsp;
 &nbsp;<img alt="Hugo" height="30" src="/images/icons/hugo.jpg" />&nbsp;
 &nbsp;<img alt="Markdown" height="26" src="https://cdn.worldvectorlogo.com/logos/markdown.svg" />&nbsp;
-&nbsp;<img alt="YAML" width="30" src="images/icons/yaml.jpg" />&nbsp;
+&nbsp;<img alt="YAML" width="30" src="/images/icons/yaml.jpg" />&nbsp;
 &nbsp;<img alt="Microsoft Office" height="26" src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" />
 
 <!-- Python libs: sqlite 3..33.0 / seaborn 0.11.1 / scipy 1.5.2 / pandas 1.1.5 / numpy 1.19.4 / matplotlib 3.3.2 / click 7.1.2 / pickle / jupyterlab-git -->
