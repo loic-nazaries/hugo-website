@@ -3,11 +3,7 @@
 <!-- Start Header -->
 {{ with .GetPage "banner" }}
 <style>
-  {
-      {
-      .Params.custom_css | safeCSS
-    }
-  }
+  {{ .Params.custom_css | safeCSS }}
 </style>
 <section class="header {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="home">
   <div class="logo">
@@ -109,7 +105,7 @@
       {{- if .IsTranslated }}
       <div class="language-switcher">
         <span class="lang-icon" aria-hidden="true">🌐</span>
-        <select id="select-language" onchange="location = this.value;" aria-label="Select language">
+        <select class="select-language" onchange="location = this.value;" aria-label="Select language">
           {{ $siteLanguages := site.Languages}}
           {{ $pageLang := .Page.Lang}}
           {{ range .Page.AllTranslations }}
@@ -157,7 +153,7 @@
             {{- if .IsTranslated }}
             <div class="language-switcher">
               <span class="lang-icon" aria-hidden="true">🌐</span>
-              <select id="select-language" onchange="location = this.value;" aria-label="Select language">
+              <select class="select-language" onchange="location = this.value;" aria-label="Select language">
                 {{ $siteLanguages := site.Languages}}
                 {{ $pageLang := .Page.Lang}}
                 {{ range .Page.AllTranslations }}
@@ -193,11 +189,7 @@
 <!-- Start About Me -->
 {{ with .GetPage "about" }}
 <style>
-  {
-      {
-      .Params.custom_css | safeCSS
-    }
-  }
+  {{ .Params.custom_css | safeCSS }}
 </style>
 <section class="about-me {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="about">
   <div class="container">
@@ -295,11 +287,7 @@
 <!-- Start Services -->
 {{ with .GetPage "service" }}
 <style>
-  {
-      {
-      .Params.custom_css | safeCSS
-    }
-  }
+  {{ .Params.custom_css | safeCSS }}
 </style>
 <section class="services {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="service">
   <div class="container">
@@ -331,11 +319,7 @@
 <!-- call to action -->
 {{ with .GetPage "call-to-action" }}
 <style>
-  {
-      {
-      .Params.custom_css | safeCSS
-    }
-  }
+  {{ .Params.custom_css | safeCSS }}
 </style>
 <section id="cta" class="need-service overlay section-sm wow fadeInUp {{.Params.custom_class}}"
   {{.Params.custom_attributes | safeHTMLAttr}} data-wow-duration="1.5s"
@@ -356,11 +340,7 @@
 <!-- Start Portfolio -->
 {{ with .GetPage "portfolio"}}
 <style>
-  {
-      {
-      .Params.custom_css | safeCSS
-    }
-  }
+  {{ .Params.custom_css | safeCSS }}
 </style>
 <section class="portfolio {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="portfolio">
   <div class="container-fluid text-center">
@@ -421,11 +401,7 @@
 <!-- Start Testimonials -->
 {{ with .GetPage "testimonial"}}
 <style>
-  {
-      {
-      .Params.custom_css | safeCSS
-    }
-  }
+  {{ .Params.custom_css | safeCSS }}
 </style>
 <section class="testimonials {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="testimonial">
   <div class="container">
@@ -462,11 +438,7 @@
 <!-- funfacts -->
 {{ with .GetPage "funfacts"}}
 <style>
-  {
-      {
-      .Params.custom_css | safeCSS
-    }
-  }
+  {{ .Params.custom_css | safeCSS }}
 </style>
 <section class="wow fadeInUp section-sm {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}}
   data-wow-duration="1.5s">
@@ -495,11 +467,7 @@
 <!-- Start Contact -->
 {{ with .GetPage "contact"}}
 <style>
-  {
-      {
-      .Params.custom_css | safeCSS
-    }
-  }
+  {{ .Params.custom_css | safeCSS }}
 </style>
 <section class="contact {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}}
   style="background-image: url('{{.Params.bg_image | absURL}}');" id="contact">
