@@ -3,5 +3,4 @@
   command = "hugo --gc --minify"
   
 [build.environment]
-  HUGO_VERSION = "0.70.0"
-  HUGO_BASEURL = "/"
+  HUGO_VERSION = "0.160.1"
