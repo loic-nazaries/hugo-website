@@ -12,10 +12,9 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 theme = "somrat"
 
-[author]
-  author = "Loïc Nazaries, PhD"
-
 [params]
+  author = "Loïc Nazaries, PhD"
+  description = "Loïc Nazaries, PhD — Data Scientist & Analyst. Portfolio of data science, machine learning, and analytics projects."
   subtitle = "Portfolio Website"
   favicon = "images/favicon.png"
   logo_dark = "images/logo-dark.png"

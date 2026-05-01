@@ -1,3 +1,6 @@
+# Hugo build output — built by CI (GitHub Actions), not committed to git
+public/
+
 # VS Code folder
 .vscode/
 
