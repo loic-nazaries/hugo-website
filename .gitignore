@@ -10,6 +10,7 @@ __pycache__/
 
 # graphify: machine-specific python path (not portable)
 graphify-out/.graphify_python
+graphify-out/.linkedin_profile.txt
 
 # blog content
 # content/english/blog
