@@ -16,10 +16,14 @@ fi
 # Stage any changes inside public/
 git add public/
 
-# If there are staged changes, commit them
+# If there are staged changes, commit them and push the new commit immediately.
+# Note: git has already determined what to push before this hook runs, so a
+# new commit created here would NOT be included in the current push unless we
+# push it explicitly. --no-verify skips the hook to avoid infinite recursion.
 if ! git diff --cached --quiet; then
   git commit -m "chore: rebuild public/ [pre-push]"
-  echo ">>> public/ rebuilt and committed."
+  echo ">>> public/ rebuilt and committed. Pushing rebuild commit..."
+  git push --no-verify
 else
   echo ">>> public/ is already up to date."
 fi
