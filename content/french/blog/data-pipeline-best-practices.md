@@ -1,7 +1,7 @@
 ---
 title: "Bonnes pratiques pour un pipeline de données : de la donnée brute à l'analyse"
 date: 2026-04-26T10:00:00+01:00
-image: "images/portfolio/data_pipeline.png"
+image: "images/headers/pipeline.jpg"
 tags: ["data engineering", "python", "ETL", "BigQuery"]
 description: "Principes clés pour construire des pipelines de données fiables et maintenables — extraction, transformation, chargement et outils pour les rendre reproductibles."
 draft: false
