@@ -75,7 +75,7 @@ Si nous pouvons cartographier la distribution des plantes et des animaux, pourqu
 
 ## 6. Solutions appliquées : dégradation des pesticides et biochar (2017–2018)
 
-Mes recherches, par le bias d'un de mes étudiants doctorant, ont également porté sur des impacts humains plus immédiats, comme la contamination chimique. Les pesticides organophosphorés comme le **Chlorpyrifos (CP)** sont largement utilisés mais toxiques. La lacune : **nous ne savions pas quelles bactéries du sol spécifiques pouvaient dégrader à la fois le CP et son métabolite toxique, le TCP**.
+Mes recherches, par le biais d'un de mes étudiants doctorant, ont également porté sur des impacts humains plus immédiats, comme la contamination chimique. Les pesticides organophosphorés comme le **Chlorpyrifos (CP)** sont largement utilisés mais toxiques. La lacune : **nous ne savions pas quelles bactéries du sol spécifiques pouvaient dégrader à la fois le CP et son métabolite toxique, le TCP**.
 
 En 2017, mon équipe a isolé de nouvelles souches de *Xanthomonas*, *Pseudomonas* et *Rhizobium* capables de métaboliser efficacement ces toxines comme seule source de carbone et d'azote. C'était le premier rapport de telle polyvalence dans ces genres, offrant un outil puissant pour la **bioremédiation** des sols agricoles contaminés.
 
