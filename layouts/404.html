@@ -2,7 +2,7 @@
 <section class="page-404" style="background-image: url('{{ site.Params.page404.background_image | absURL }}'); background-size: cover; background-position: center; min-height: 100vh; display: flex; align-items: center; justify-content: center; text-align: center;">
   <div class="container">
     <h1>{{ site.Params.page404.text | default "OOPS, PAGE NOT FOUND!" }}</h1>
-    <a href="{{ site.BaseURL }}" class="btn btn-primary hvr-sweep-to-right mt-4">
+    <a href="{{ print .Lang "/" | absURL }}" class="btn btn-primary hvr-sweep-to-right mt-4">
       {{ site.Params.page404.button_text | default "BACK HOME" }}
     </a>
   </div>

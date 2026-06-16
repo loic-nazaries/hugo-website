@@ -28,7 +28,7 @@ Ces deux années aiguisent mes réflexes pour l'ensemble du cycle de vie de la d
 
 ## Le doctorat : Aberdeen et Warwick
 
-<p style="text-align:center"><img src="/images/logos/the-university-of-warwick_logo.gif" alt="University de Warwick" height="60"></p>
+<p style="text-align:center"><img src="/images/logos/the-university-of-warwick_logo.gif" alt="University of Warwick" height="60"></p>
 
 En 2007, je débute une **inscription en cotutelle** à l'**Université d'Aberdeen** et à l'**Université de Warwick**, sous la direction de Brajesh K. Singh. Ma thèse — *Land-Use Changes and Methanotrophic Community Structure and Function* — examine comment la conversion de prairies en forêts modifie les communautés bactériennes responsables de la consommation du méthane atmosphérique.
 

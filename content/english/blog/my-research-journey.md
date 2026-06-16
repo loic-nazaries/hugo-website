@@ -42,7 +42,7 @@ My PhD thesis (2011) and associated publications focused on two key regions: New
 
 ## 3. Climate Warming and the Respiration Response (2012–2015)
 
-As my focus expanded, I began investigating soil respiration (Rs)—the process by which soil microbes release $CO_2$ back into the atmosphere. Global warming was predicted to increase Rs, but the underlying mechanisms were debated: **Was the increase due to a change in microbial community structure, substrate availability, or simple metabolic acceleration?**.
+As my focus expanded, I began investigating soil respiration (Rs)—the process by which soil microbes release $CO_2$ back into the atmosphere. Global warming was predicted to increase Rs, but the underlying mechanisms were debated: **Was the increase due to a change in microbial community structure, substrate availability, or simple metabolic acceleration?**
 
 **Findings in Scottish Landscapes:**
 Our research across different land uses (moorland, birch woodland, grassland, and pine forest) showed that **Rs response to land-use change is microbially explained, but its response to climate warming is not**. Instead, the short-term response to warming is primarily driven by **increased metabolic activity** and substrate availability (how much "food" like glucose or lignin is accessible) rather than a wholesale shift in the microbial community. This was a critical insight for climate modellers: we need to account for both substrate depletion and metabolic rates when predicting future $CO_2$ feedbacks.
@@ -75,7 +75,7 @@ Using 697 soil samples and 62 climo-edaphic properties, I employed hybrid geosta
 
 ## 6. Applied Solutions: Pesticide Degradation and Biochar (2017–2018)
 
-My research, through the work of one of my PhD student, has also touched on more immediate human impacts, such as chemical contamination. Organophosphorus pesticides like **Chlorpyrifos (CP)** are widely used but toxic. The gap: **We didn't know which specific soil bacteria could degrade both CP and its toxic metabolite, TCP**.
+My research, through the work of one of my PhD students, has also touched on more immediate human impacts, such as chemical contamination. Organophosphorus pesticides like **Chlorpyrifos (CP)** are widely used but toxic. The gap: **We didn't know which specific soil bacteria could degrade both CP and its toxic metabolite, TCP**.
 
 In 2017, my team isolated novel strains of *Xanthomonas*, *Pseudomonas*, and *Rhizobium* that could effectively metabolise these toxins as their sole source of carbon and nitrogen. This was the first report of such versatility in these genera, offering a powerful tool for **bioremediation** of contaminated farm soils.
 
