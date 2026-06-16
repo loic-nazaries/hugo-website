@@ -1,5 +1,6 @@
 ﻿---
 title: "From Lab Bench to Data Desk: A Research Scientist's Journey into Data"
+weight: 3
 date: 2026-04-26T09:00:00+01:00
 image: "images/portfolio/Completed_EucFace_Rings.jpg"
 tags: ["research", "science", "microbiology", "data science", "career"]
@@ -11,7 +12,7 @@ Not every data consultant starts in a spreadsheet. Some start in a field, pushin
 
 ## A Decade in Soil Microbiology
 
-My scientific career began in earnest with a thesis on **Multiplex Terminal RFLP (M-TRFLP)** — a molecular fingerprinting method for characterising soil microbial communities with high resolution. That early work, co-authored with Brajesh K. Singh and published in *Applied and Environmental Microbiology*, laid the methodological groundwork for years of subsequent research.
+My scientific career began in earnest with a MSc thesis on **Multiplex Terminal RFLP (M-TRFLP)** — a molecular fingerprinting method for characterising soil microbial communities with high resolution. That early work, co-authored with Brajesh K. Singh and published in *Applied and Environmental Microbiology*, laid the methodological groundwork for years of subsequent research.
 
 Brajesh Singh became my PhD supervisor at the **Hawkesbury Institute for the Environment** (Western Sydney University), where I completed my doctoral thesis in 2011: *Land-use Changes and Methanotrophic Community Structure and Function*. The central question was how converting grassland to forest — afforestation — alters the communities of bacteria responsible for consuming methane, one of the most potent greenhouse gases in the atmosphere.
 
@@ -21,11 +22,11 @@ That question turned out to be surprisingly rich. It pulled together molecular e
 
 ### Methane-Oxidising Bacteria and Land-use Change
 
-Methanotrophs — bacteria that consume atmospheric methane — are a small but ecologically significant group. Understanding what controls their abundance and diversity is directly relevant to global greenhouse gas budgets. Between 2010 and 2018, my collaborators and I published a series of studies tracing how these communities respond to afforestation in New Zealand, to soil warming, and to shifts in rainfall regimes.
+Methanotrophs — bacteria that consume atmospheric methane — are a small but ecologically significant group. Understanding what controls their abundance and diversity is directly relevant to global greenhouse gas (GHG) budgets. Between 2010 and 2018, my collaborators and I published a series of studies tracing how these communities respond to afforestation in New Zealand, to soil warming, and to shifts in rainfall regimes.
 
 Key publications include:
 
-- *Nazaries et al. (2011)* — Methanotrophic communities under afforestation, published in **ISME Journal**
+- *Nazaries et al. (2011)* — Methanotrophic communities under afforestation
 - *Nazaries et al. (2013a)* — Microbial regulation of biogeochemical cycles and methane flux
 - *Nazaries et al. (2013b)* — A review: methane microbes and Earth system models
 - *Nazaries et al. (2015)* — Microbial community shifts and soil respiration under land-use change
@@ -33,11 +34,11 @@ Key publications include:
 
 ### Greenhouse Gas Emissions Under Climate Stress
 
-In parallel, a series of collaborative studies examined how GHG fluxes change under warming and reduced rainfall in dryland forests. The Martins et al. series (2015, 2016, 2017) used field manipulations in Portugal to quantify CO2, CH4, and N2O responses to drought — work that directly informed the interactive GHG estimation tools developed later as a data consultant.
+In parallel, a series of collaborative studies examined how GHG fluxes change under warming and reduced rainfall in dryland forests. The Martins et al. series (2015, 2016, 2017) used field manipulations in Australia and the USA to quantify CO₂, CH₄, and N₂O responses to drought — work that directly informed the interactive GHG estimation tools developed later as a data consultant.
 
 ### Carbon Priming and the EucFACE Experiment
 
-At the EucFACE site — a Free Air CO2 Enrichment experiment in a mature eucalyptus woodland west of Sydney — we investigated how elevated atmospheric CO2 alters the fate of carbon in soil. The Fang et al. (2018, 2019) papers explored microbial mechanisms of carbon priming in biochar-amended soils, and Jiang et al. (2020) traced the broader fate of carbon inputs across the ecosystem.
+At the EucFACE site — a Free Air CO₂ Enrichment experiment in a mature eucalyptus woodland west of Sydney — we investigated how elevated atmospheric CO₂ alters the fate of carbon in soil. The Fang et al. (2018, 2019) papers explored microbial mechanisms of carbon priming in biochar-amended soils, and Jiang et al. (2020) traced the broader fate of carbon inputs across the ecosystem.
 
 ### Bioremediation: Pesticide-Degrading Bacteria
 
@@ -60,10 +61,10 @@ Recurring scientific collaborators included **Brajesh K. Singh** (PhD supervisor
 
 By the late 2010s, something had shifted. The datasets generated by environmental research were growing faster than the tools available to interpret them. More time was being spent on data pipelines, statistical modelling, and visualisation than at the bench. That observation crystallised into a deliberate career decision.
 
-The skills that make for rigorous science — designing experiments, questioning assumptions, communicating uncertainty — transfer cleanly to data work. What changed was the domain: from soil carbon stocks to business KPIs, from gas flux time series to ETL pipelines, from R and lab notebooks to Python, SQL, Tableau, and cloud platforms.
+The skills that make for rigorous science — designing experiments, questioning assumptions, communicating uncertainty — transfer cleanly to data work. What changed was the domain: from soil carbon stocks to business KPIs, from gas flux time series to ETL pipelines, from Excel and lab notebooks to Python, SQL, and Tableau.
 
 The archive of 19 publications and two doctoral theses remains. So does the instinct to ask: *what does the data actually say?*
 
 ---
 
-*For a full list of publications, see the [Scientific Publications](/en/portfolio/scientific-publications) section.*
+*For a full list of publications, see the [Scientific Publications](/en/portfolio/scientific_publications) section.*

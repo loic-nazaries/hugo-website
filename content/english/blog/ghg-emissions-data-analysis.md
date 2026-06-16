@@ -1,5 +1,6 @@
 ---
 title: "Analysing Greenhouse Gas Emissions: From Field Data to Insights"
+weight: 4
 date: 2026-04-26T11:00:00+01:00
 image: "images/portfolio/pmoA-33_T-RF_map.jpg"
 tags: ["data science", "environment", "GHG", "modelling", "Python"]

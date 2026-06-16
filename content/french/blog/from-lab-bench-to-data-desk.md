@@ -1,5 +1,6 @@
 ﻿---
 title: "Du laboratoire au bureau : le parcours d'un chercheur vers la data"
+weight: 3
 date: 2026-04-26T09:00:00+01:00
 image: "images/portfolio/Completed_EucFace_Rings.jpg"
 tags: ["recherche", "science", "microbiologie", "data science", "carrière"]
@@ -11,9 +12,9 @@ Tout consultant en données ne commence pas devant un tableur. Certains commence
 
 ## Une décennie en microbiologie des sols
 
-Ma carrière scientifique a véritablement débuté avec une thèse sur le **Multiplex Terminal RFLP (M-TRFLP)** — une méthode d'empreinte moléculaire permettant de caractériser les communautés microbiennes du sol avec une haute résolution. Ce premier travail, co-écrit avec Brajesh K. Singh et publié dans *Applied and Environmental Microbiology*, a posé les bases méthodologiques de nombreuses années de recherche.
+Ma carrière scientifique a véritablement débuté avec une thèse de MSc sur le **Multiplex Terminal RFLP (M-TRFLP)** — une méthode d'empreinte moléculaire permettant de caractériser les communautés microbiennes du sol avec une haute résolution. Ce premier travail, co-écrit avec Brajesh K. Singh et publié dans *Applied and Environmental Microbiology*, a posé les bases méthodologiques de nombreuses années de recherche.
 
-Brajesh Singh est devenu mon directeur de thèse à l'**Hawkesbury Institute for the Environment** (Université de Western Sydney), où j'ai soutenu ma thèse de doctorat en 2011 : *Changements d'utilisation des terres et structure et fonctionnement des communautés méthanotrophes*. La question centrale était de savoir comment la conversion de prairies en forêts — le boisement — modifie les communautés de bactéries responsables de la consommation du méthane, l'un des gaz à effet de serre les plus puissants de l'atmosphère.
+Brajesh Singh est devenu mon directeur de thèse doctorale à l'**Hawkesbury Institute for the Environment** (Université de Western Sydney), où j'ai soutenu ma thèse de doctorat en 2011 : *Changements d'utilisation des terres et structure et fonctionnement des communautés méthanotrophes*. La question centrale était de savoir comment la conversion de prairies en forêts — le boisement — modifie les communautés de bactéries responsables de la consommation du méthane, l'un des gaz à effet de serre les plus puissants de l'atmosphère.
 
 Cette question s'est révélée d'une richesse inattendue. Elle a mobilisé l'écologie moléculaire, les mesures de flux gazeux, la modélisation statistique et le travail de terrain en Nouvelle-Zélande et en Australie. Elle a aussi produit un corpus de publications évaluées par les pairs qui allait bien au-delà de la thèse elle-même.
 
@@ -21,23 +22,23 @@ Cette question s'est révélée d'une richesse inattendue. Elle a mobilisé l'é
 
 ### Bactéries méthanotrophes et changements d'utilisation des terres
 
-Les méthanotrophes — des bactéries qui consomment le méthane atmosphérique — constituent un groupe restreint mais écologiquement important. Comprendre ce qui contrôle leur abondance et leur diversité est directement pertinent pour les bilans mondiaux de gaz à effet de serre. Entre 2010 et 2018, mes collaborateurs et moi avons publié une série d'études retraçant comment ces communautés répondent au boisement en Nouvelle-Zélande, au réchauffement des sols et aux changements de régimes pluviométriques.
+Les méthanotrophes — des bactéries qui consomment le méthane atmosphérique — constituent un groupe restreint mais écologiquement important. Comprendre ce qui contrôle leur abondance et leur diversité est directement pertinent pour les bilans mondiaux de gaz à effet de serre (GES). Entre 2010 et 2018, mes collaborateurs et moi avons publié une série d'études retraçant comment ces communautés répondent au boisement en Nouvelle-Zélande, au réchauffement des sols et aux changements de régimes pluviométriques.
 
 Publications clés :
 
-- *Nazaries et al. (2011)* — Communautés méthanotrophes sous boisement, publié dans **ISME Journal**
-- *Nazaries et al. (2013a)* — Régulation microbienne des cycles biogéochimiques et flux de méthane
-- *Nazaries et al. (2013b)* — Revue : microbes méthanotrophes et modèles du système Terre
-- *Nazaries et al. (2015)* — Changements des communautés microbiennes et respiration du sol sous différentes utilisations des terres
-- *Nazaries et al. (2018)* — Distribution géographique des méthanotrophes : une enquête nationale
+- *Nazaries et al. (2011)* — Methanotrophic communities under afforestation
+- *Nazaries et al. (2013a)* — Microbial regulation of biogeochemical cycles and methane flux
+- *Nazaries et al. (2013b)* — A review: methane microbes and Earth system models
+- *Nazaries et al. (2015)* — Microbial community shifts and soil respiration under land-use change
+- *Nazaries et al. (2018)* — Methanotroph geographical distribution: a national survey
 
 ### Émissions de GES sous stress climatique
 
-En parallèle, une série d'études collaboratives a examiné comment les flux de GES évoluent sous l'effet du réchauffement et de la réduction des précipitations dans les forêts sèches. La série Martins et al. (2015, 2016, 2017) a utilisé des manipulations de terrain au Portugal pour quantifier les réponses du CO2, du CH4 et du N2O à la sécheresse — des travaux qui ont directement inspiré les outils interactifs d'estimation des GES développés ensuite en tant que consultant en données.
+En parallèle, une série d'études collaboratives a examiné comment les flux de GES évoluent sous l'effet du réchauffement et de la réduction des précipitations dans les forêts sèches. La série Martins et al. (2015, 2016, 2017) a utilisé des manipulations de terrain en Australie et aux USA pour quantifier les réponses du CO₂, du CH₄ et du N₂O à la sécheresse — des travaux qui ont directement inspiré les outils interactifs d'estimation des GES développés ensuite en tant que consultant en données.
 
 ### Amorçage du carbone et l'expérience EucFACE
 
-Sur le site EucFACE — une expérience d'enrichissement en CO2 en air libre dans une forêt mature d'eucalyptus à l'ouest de Sydney — nous avons étudié comment l'élévation du CO2 atmosphérique modifie le devenir du carbone dans le sol. Les articles Fang et al. (2018, 2019) ont exploré les mécanismes microbiens d'amorçage du carbone dans des sols amendés au biochar, et Jiang et al. (2020) a retracé le devenir global des apports en carbone à l'échelle de l'écosystème.
+Sur le site EucFACE — une expérience d'enrichissement en CO₂ en air libre dans une forêt mature d'eucalyptus à l'ouest de Sydney — nous avons étudié comment l'élévation du CO₂ atmosphérique modifie le devenir du carbone dans le sol. Les articles Fang et al. (2018, 2019) ont exploré les mécanismes microbiens d'amorçage du carbone dans des sols amendés au biochar, et Jiang et al. (2020) a retracé le devenir global des apports en carbone à l'échelle de l'écosystème.
 
 ### Bioremédiation : bactéries dégradant les pesticides
 
@@ -60,10 +61,10 @@ Les collaborateurs scientifiques récurrents comprenaient **Brajesh K. Singh** (
 
 À la fin des années 2010, quelque chose avait changé. Les jeux de données générés par la recherche environnementale augmentaient plus vite que les outils disponibles pour les interpréter. De plus en plus de temps était consacré aux pipelines de données, à la modélisation statistique et à la visualisation plutôt qu'à la paillasse. Ce constat a cristallisé en une décision de carrière délibérée.
 
-Les compétences qui font la rigueur scientifique — concevoir des expériences, questionner les hypothèses, communiquer l'incertitude — se transposent naturellement au travail sur les données. Ce qui a changé, c'est le domaine : des stocks de carbone du sol aux KPI d'entreprise, des séries temporelles de flux gazeux aux pipelines ETL, de R et des cahiers de laboratoire à Python, SQL, Tableau et les plateformes cloud.
+Les compétences qui font la rigueur scientifique — concevoir des expériences, questionner les hypothèses, communiquer l'incertitude — se transposent naturellement au travail sur les données. Ce qui a changé, c'est le domaine : des stocks de carbone du sol aux KPI d'entreprise, des séries temporelles de flux gazeux aux pipelines ETL, d'Excel et des cahiers de laboratoire à Python, SQL, et Tableau.
 
 Les 19 publications et deux thèses de doctorat sont là. Tout comme le réflexe de demander : *que disent vraiment les données ?*
 
 ---
 
-*Pour la liste complète des publications, voir la section [Publications scientifiques](/fr/portfolio/scientific-publications).*
+*Pour la liste complète des publications, voir la section [Publications scientifiques](/fr/portfolio/scientific_publications).*
