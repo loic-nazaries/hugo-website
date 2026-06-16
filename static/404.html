@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>404 - Page Not Found</title>
+  <script>
+    // Detect the deployment base path (e.g. /website for GitHub Pages subdirectory,
+    // or empty string for a custom domain at the root).
+    // Extract everything before the /en/ or /fr/ segment in the failing URL.
+    // Falls back to empty string so the redirect stays at the domain root.
+    var pathname = window.location.pathname;
+    var langMatch = pathname.match(/^(.*?)\/(en|fr)(\/|$)/);
+    var base = langMatch ? langMatch[1] : '';
+    var lang = (navigator.language || 'fr').toLowerCase().startsWith('fr') ? 'fr' : 'en';
+    window.location.replace(base + '/' + lang + '/404.html');
+  </script>
+  <noscript>
+    <meta http-equiv="refresh" content="0;url=fr/404.html">
+  </noscript>
+</head>
+<body></body>
+</html>
