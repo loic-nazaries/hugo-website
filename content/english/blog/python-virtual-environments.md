@@ -1,7 +1,7 @@
 ---
 title: "Python Virtual Environments: venv vs Conda"
 date: 2026-04-26T09:00:00+01:00
-image: "images/portfolio/python_virtual_environment.png"
+image: "images/headers/python.jpg"
 tags: ["python", "tutorial", "conda", "workflow"]
 description: "A practical guide to creating and managing Python virtual environments with both venv and Conda — when to use each and how to keep your projects clean."
 draft: false

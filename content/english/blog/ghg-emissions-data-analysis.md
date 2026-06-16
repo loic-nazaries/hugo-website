@@ -1,7 +1,8 @@
 ---
 title: "Analysing Greenhouse Gas Emissions: From Field Data to Insights"
+weight: 4
 date: 2026-04-26T11:00:00+01:00
-image: "images/portfolio/ghg_modelling.png"
+image: "images/portfolio/pmoA-33_T-RF_map.jpg"
 tags: ["data science", "environment", "GHG", "modelling", "Python"]
 description: "How to approach greenhouse gas emissions analysis — from raw sensor data collected at the EucFACE experiment to statistical models and interactive dashboards."
 draft: false

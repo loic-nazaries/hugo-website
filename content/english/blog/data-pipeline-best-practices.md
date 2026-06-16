@@ -1,7 +1,7 @@
 ---
 title: "Data Pipeline Best Practices: From Raw Data to Clean Output"
 date: 2026-04-26T10:00:00+01:00
-image: "images/portfolio/data_pipeline.png"
+image: "images/headers/pipeline.jpg"
 tags: ["data engineering", "python", "ETL", "BigQuery"]
 description: "Key principles for building reliable, maintainable data pipelines — covering extraction, transformation, loading, and the tools that make it repeatable."
 draft: false
