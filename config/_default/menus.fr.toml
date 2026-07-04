@@ -8,6 +8,10 @@ pre = "fr/#"
 url = "about"
 weight = 20
 [[main]]
+name = "CV"
+url = "cv"
+weight = 25
+[[main]]
 name = "Services"
 pre = "fr/#"
 url = "service"

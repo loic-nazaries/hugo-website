@@ -106,7 +106,7 @@ teaching:
 
 ############################### Skills #################################
 skill:
-  enable : true
+  enable : false
   title : "COMPÉTENCES"
   skill_list:
 
@@ -149,6 +149,8 @@ custom_css: ""
 > Je suis un ***Data Specialist*** avec plus de 10 ans d’expérience dans le domaine des biostatistiques, de l’exploration des données (***Data Mining***) et du ***Machine Learning***. Le cycle de vie entier de la *Data* me passionne, depuis la modélisation d’une base de données à son utilisation dans le domaine de la ***Business Intelligence*** en passant par la création de supports visuels simples et impactant de type *Dashboard*. Ainsi, l'**analyse exploratoire de données** a le potentiel d’apporter une forte valeur ajoutée pour valoriser une aide à la prise de décision plus rapide et plus intelligente.
 
 Pour en savoir plus, interagissez avec mon <a href="https://chats.landbot.io/v3/H-929977-JNN6COBPP9H7MX3Z/index.html" target="_blank"> <b style="color:#cb6ce6">Chatbot</b></a> ! :robot_face:
+
+[Voir la version web du CV](/fr/cv/)
 
 ---
 
