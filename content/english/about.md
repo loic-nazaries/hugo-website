@@ -34,7 +34,7 @@ experience:
     - name : "Data Analyst Freelance"
       company : "BIFORA (Bordeaux, France)"
       duration : "| *01/2021 to 06/2021*"
-      content : "**Green House Gas temporal modelling pipeline** — reduced data lifecycle from days to hours <br>
+      content : "**Greenhouse Gas temporal modelling pipeline** — reduced data lifecycle from days to hours <br>
       → Data integration from heterogeneous sources (CSV, TXT, spreadsheets) <br>
       → Data cleaning & **Data Mining** <br>
       → Interactive **dashboard** deployed on Heroku <br>
@@ -106,7 +106,7 @@ teaching:
 
 ############################### Skills #################################
 skill:
-  enable : true
+  enable : false
   title : "SKILLS"
   skill_list:
 
@@ -149,6 +149,8 @@ custom_css: ""
 > I am a **Data Specialist** with over 10 years of experience in the fields of biostatistics, data exploration (**Data Mining**) and **Machine Learning**. I am passionate about the whole **data life cycle**, from modelling a database to its use in the field of **Business Intelligence** through the creation of simple and impactful visuals such as **dashboards**. Thus, I believe **exploratory data analysis** has the potential to strengthen a faster and more clever decision-making process.
 
 To know more, interact with my <a href="https://chats.landbot.io/v3/H-929977-JNN6COBPP9H7MX3Z/index.html" target="_blank"> <b style="color:#cb6ce6">Chatbot</b></a> ! :robot_face:
+
+[Open the Résumé web page](/en/cv/)
 
 ---
 
