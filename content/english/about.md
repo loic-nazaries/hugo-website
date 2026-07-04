@@ -34,7 +34,7 @@ experience:
     - name : "Data Analyst Freelance"
       company : "BIFORA (Bordeaux, France)"
       duration : "| *01/2021 to 06/2021*"
-      content : "**Green House Gas temporal modelling pipeline** — reduced data lifecycle from days to hours <br>
+      content : "**Greenhouse Gas temporal modelling pipeline** — reduced data lifecycle from days to hours <br>
       → Data integration from heterogeneous sources (CSV, TXT, spreadsheets) <br>
       → Data cleaning & **Data Mining** <br>
       → Interactive **dashboard** deployed on Heroku <br>

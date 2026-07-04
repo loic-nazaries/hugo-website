@@ -47,7 +47,7 @@ Data Consultant Senior polyvalent et rigoureux, avec plus de 10 années d’exp�
 **Consultant Data | Softeam, Bordeaux (33)**
 *(10/2025 à 05/2026)*
 
-- **Web Scraping & Automatisation :** Conception et mise en place d'une application web pour la gestion de scrapping multi-sites e-commerce complexes. Gestion des défis techniques avancés (géolocalisation, pop-up, différent types de pagination).
+- **Web Scraping & Automatisation :** Conception et mise en place d'une application web pour la gestion de scraping multi-sites e-commerce complexes. Gestion des défis techniques avancés (géolocalisation, pop-up, différents types de pagination).
 - **Intelligence Artificielle Appliquée :** Intégration réussie d’un **Large Language Model (LLM)** via API pour améliorer et automatiser le scraping de données non structurées, augmentant significativement l'efficacité des collectes.
 - **Optimisation Codebase :** Refonte majeure de la codebase existante en Python pour optimiser les processus critiques de scraping et garantir une scalabilité accrue du système.
 

@@ -27,7 +27,7 @@ Versatile and rigorous Senior Data Consultant with more than 10 years of experie
 - Statistics: Bayesian inference; A/B testing; geospatial and time-series modelling.
 - Languages: Python, R, MATLAB.
 
-**Business Intelligence & Visuali sation**
+**Business Intelligence & Visualisation**
 
 - Visualisation: Tableau, Power BI, Looker Studio (Google Data).
 - Storytelling: design of dynamic and narrative dashboards for performance steering (KPI dashboarding).
