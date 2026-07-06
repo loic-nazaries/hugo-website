@@ -106,7 +106,7 @@ teaching:
 
 ############################### Skills #################################
 skill:
-  enable : false
+  enable : true
   title : "SKILLS"
   skill_list:
 
@@ -130,6 +130,9 @@ skill:
 
     - name : "Web Development"
       percentage : "75%"
+
+    - name : "Agentic AI"
+      percentage : "50%"
 
 # custom style
 custom_class: "" 
