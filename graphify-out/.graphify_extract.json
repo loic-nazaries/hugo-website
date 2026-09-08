@@ -1,380 +1,308 @@
 {
   "nodes": [
     {
-      "id": "loic_nazaries",
-      "label": "Loic Nazaries",
+      "id": "about",
+      "label": "About Loic Nazaries",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "softeam",
-      "label": "Softeam",
+      "id": "banner",
+      "label": "Loic Nazaries - Data Mining and Business Intelligence Specialist",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "epsyl_alcen_group",
-      "label": "Epsyl - Alcen Group",
+      "id": "call_to_action",
+      "label": "Need a Service?",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "bifora",
-      "label": "BIFORA",
+      "id": "contact",
+      "label": "Contact",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "items_media_concept",
-      "label": "Items Media Concept",
+      "id": "cv",
+      "label": "Loic Nazaries CV",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "hawkesbury_institute_for_the_environment",
-      "label": "Hawkesbury Institute for the Environment",
+      "id": "funfacts",
+      "label": "My Guarantees",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "western_sydney_university",
-      "label": "Western Sydney University",
+      "id": "service",
+      "label": "Services",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "robert_gordon_university",
-      "label": "Robert Gordon University",
+      "id": "testimonial",
+      "label": "Testimonials",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "rowett_research_institute",
-      "label": "Rowett Research Institute",
+      "id": "blog_index",
+      "label": "Blog",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "james_hutton_institute",
-      "label": "James Hutton Institute",
+      "id": "blog_python_virtual_environments",
+      "label": "Python Virtual Environments: venv vs Conda",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "bioss",
-      "label": "Biomathematics and Statistics Scotland",
+      "id": "blog_my_research_journey",
+      "label": "Unveiling the Black Box: My Research Journey into the Microbial Heart of Our Planet",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "university_of_aberdeen",
-      "label": "University of Aberdeen",
+      "id": "blog_ghg_emissions_data_analysis",
+      "label": "Analysing Greenhouse Gas Emissions: From Field Data to Insights",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "university_of_warwick",
-      "label": "University of Warwick",
+      "id": "blog_from_lab_bench_to_data_desk",
+      "label": "From Lab Bench to Data Desk: A Research Scientist's Journey into Data",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "la_piscine_training_center",
-      "label": "La Piscine Training Center",
+      "id": "blog_from_bordeaux_to_scotland",
+      "label": "From Bordeaux to Bordeaux via Aberdeen and Sydney: Education, Academia, and a Career Reinvention",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "iseg",
-      "label": "ISEG",
+      "id": "blog_data_pipeline_best_practices",
+      "label": "Data Pipeline Best Practices: From Raw Data to Clean Output",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "ia_school",
-      "label": "IA School",
+      "id": "portfolio_index",
+      "label": "Portfolio",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "diderot_education",
-      "label": "Diderot Education",
+      "id": "portfolio_alteryx",
+      "label": "Alteryx",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "brajesh_k_singh",
-      "label": "Brajesh K. Singh",
+      "id": "portfolio_tableau_dashboard",
+      "label": "Tableau Dashboard",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "smriti_rayu",
-      "label": "Smriti Rayu",
+      "id": "portfolio_scientific_publications",
+      "label": "Scientific Publications",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "catarina_s_martins",
-      "label": "Catarina S. Martins",
+      "id": "portfolio_python_virtual_env_conda",
+      "label": "Python Virtual Environment (Conda)",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "imperial_college_london",
-      "label": "Imperial College London",
+      "id": "portfolio_python_virtual_environment",
+      "label": "Python Virtual Environment",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "university_of_minnesota",
-      "label": "University of Minnesota",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "grains_research_and_development_corporation",
-      "label": "Grains Research and Development Corporation",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "eucface_experiment",
-      "label": "EucFACE Experiment",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "greenhouse_gas_estimation_portal",
-      "label": "Greenhouse Gas Estimation Portal",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "greenhouse_gas_modelling",
-      "label": "Greenhouse Gas Modelling",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "geographical_modelling",
-      "label": "Geographical Modelling",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "kpi_modelling",
+      "id": "portfolio_kpi_modelling",
       "label": "KPI Modelling",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "data_pipeline",
+      "id": "portfolio_google_bigquery_datastudio",
+      "label": "Google BigQuery and Google Data Studio",
+      "file_type": "document",
+      "source_file": "content/english"
+    },
+    {
+      "id": "portfolio_google_bi",
+      "label": "Google Business Intelligence",
+      "file_type": "document",
+      "source_file": "content/english"
+    },
+    {
+      "id": "portfolio_github_repo",
+      "label": "Project Repository with GitHub",
+      "file_type": "document",
+      "source_file": "content/english"
+    },
+    {
+      "id": "portfolio_ghg_modelling",
+      "label": "GHG Modelling",
+      "file_type": "document",
+      "source_file": "content/english"
+    },
+    {
+      "id": "portfolio_geographical_modelling",
+      "label": "Geographical Modelling",
+      "file_type": "document",
+      "source_file": "content/english"
+    },
+    {
+      "id": "portfolio_eucface",
+      "label": "EucFACE Site Presentation",
+      "file_type": "document",
+      "source_file": "content/english"
+    },
+    {
+      "id": "portfolio_deploy_web_app_heroku",
+      "label": "Web App Deployment with Heroku",
+      "file_type": "document",
+      "source_file": "content/english"
+    },
+    {
+      "id": "portfolio_data_pipeline",
       "label": "Data Pipeline",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "database_modelling",
+      "id": "portfolio_database_modelling",
       "label": "Database Modelling",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "imdb_5000_movie_dataset",
-      "label": "IMDB 5000 Movie Dataset",
+      "id": "portfolio_dashboard",
+      "label": "Dashboard",
       "file_type": "document",
       "source_file": "content/english"
     },
     {
-      "id": "m_trflp",
-      "label": "Multiplex Terminal Restriction Fragment Length Polymorphism",
+      "id": "loic_nazaries",
+      "label": "Loic Nazaries",
       "file_type": "document",
-      "source_file": "content/english"
+      "source_file": "content/french"
     },
     {
-      "id": "usca_methanotrophs",
-      "label": "Upland Soil Cluster Alpha Methanotrophs",
+      "id": "softeam",
+      "label": "SOFTEAM",
       "file_type": "document",
-      "source_file": "content/english"
+      "source_file": "content/french"
     },
     {
-      "id": "methanotrophs",
-      "label": "Methanotrophs",
+      "id": "epsyl_alcen_group",
+      "label": "EPSYL - ALCEN Group",
       "file_type": "document",
-      "source_file": "content/english"
+      "source_file": "content/french"
     },
     {
-      "id": "methane",
-      "label": "Methane",
+      "id": "bifora",
+      "label": "BIFORA",
       "file_type": "document",
-      "source_file": "content/english"
+      "source_file": "content/french"
     },
     {
-      "id": "carbon_dioxide",
-      "label": "Carbon Dioxide",
+      "id": "items_media_concept",
+      "label": "Items Media Concept",
       "file_type": "document",
-      "source_file": "content/english"
+      "source_file": "content/french"
     },
     {
-      "id": "nitrous_oxide",
-      "label": "Nitrous Oxide",
+      "id": "western_sydney_university",
+      "label": "Western Sydney University",
       "file_type": "document",
-      "source_file": "content/english"
+      "source_file": "content/french"
     },
     {
-      "id": "soil_moisture",
-      "label": "Soil Moisture",
+      "id": "hawkesbury_institute_for_the_environment",
+      "label": "Hawkesbury Institute for the Environment",
       "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "afforestation",
-      "label": "Afforestation",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "chlorpyrifos",
-      "label": "Chlorpyrifos",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "python",
-      "label": "Python",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "streamlit",
-      "label": "Streamlit",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "heroku",
-      "label": "Heroku",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "tableau",
-      "label": "Tableau",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "talend",
-      "label": "Talend",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "postgresql",
-      "label": "PostgreSQL",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "google_bigquery",
-      "label": "Google BigQuery",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "google_data_studio",
-      "label": "Google Data Studio",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "conda",
-      "label": "Conda",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "venv",
-      "label": "Python venv",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "random_forest",
-      "label": "Random Forest",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "kriging",
-      "label": "Kriging",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "mixed_effects_model",
-      "label": "Mixed Effects Model",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "arima",
-      "label": "ARIMA",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "machine_learning",
-      "label": "Machine Learning",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "business_intelligence",
-      "label": "Business Intelligence",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "data_visualisation",
-      "label": "Data Visualisation",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "etl",
-      "label": "Extract Transform Load",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "land_use_changes_and_methanotrophic_community_structure_and_function",
-      "label": "Land-Use Changes and Methanotrophic Community Structure and Function",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "nazaries_et_al_2018",
-      "label": "Environmental Drivers of the Geographical Distribution of Methanotrophs",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "nazaries_et_al_2021",
-      "label": "Soil Multifunctionality and Agricultural Management Practices",
-      "file_type": "document",
-      "source_file": "content/english"
-    },
-    {
-      "id": "martins_et_al_2021",
-      "label": "Rainfall Frequency and Soil Water Availability Regulate Greenhouse Gas Emissions",
-      "file_type": "document",
-      "source_file": "content/english"
+      "source_file": "content/french"
     },
     {
       "id": "la_piscine",
       "label": "La Piscine Centre de Formation",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "university_of_warwick",
+      "label": "University of Warwick",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "university_of_aberdeen",
+      "label": "University of Aberdeen",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "robert_gordon_university",
+      "label": "Robert Gordon University",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "james_hutton_institute",
+      "label": "James Hutton Institute",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "bioss",
+      "label": "Biomathematics and Statistics Scotland",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "rowett_research_institute",
+      "label": "Rowett Research Institute",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "imperial_college_london",
+      "label": "Imperial College London",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "university_of_minnesota",
+      "label": "University of Minnesota",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "grains_research_and_development_corporation",
+      "label": "Grains Research and Development Corporation",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "eucface_experiment",
+      "label": "EucFACE Experiment",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "greenhouse_gas_estimation_portal",
+      "label": "Greenhouse Gas Estimation Portal",
       "file_type": "document",
       "source_file": "content/french"
     },
@@ -385,8 +313,56 @@
       "source_file": "content/french"
     },
     {
+      "id": "carbon_dioxide",
+      "label": "Carbon Dioxide",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "methane",
+      "label": "Methane",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "nitrous_oxide",
+      "label": "Nitrous Oxide",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "methanotrophs",
+      "label": "Methanotrophs",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
       "id": "usca",
       "label": "Upland Soil Cluster alpha",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "m_trflp",
+      "label": "Multiplex T-RFLP",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "chlorpyrifos",
+      "label": "Chlorpyrifos",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "data_pipeline",
+      "label": "Data Pipeline",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "etl",
+      "label": "ETL",
       "file_type": "document",
       "source_file": "content/french"
     },
@@ -403,8 +379,80 @@
       "source_file": "content/french"
     },
     {
+      "id": "postgresql",
+      "label": "PostgreSQL",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "python",
+      "label": "Python",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "streamlit",
+      "label": "Streamlit",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "heroku",
+      "label": "Heroku",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "tableau",
+      "label": "Tableau",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "google_bigquery",
+      "label": "Google BigQuery",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "google_data_studio",
+      "label": "Google Data Studio",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "conda",
+      "label": "Conda",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "venv",
+      "label": "venv",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "machine_learning",
+      "label": "Machine Learning",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
       "id": "geostatistics",
       "label": "Geostatistics",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "random_forest",
+      "label": "Random Forest",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "kriging",
+      "label": "Kriging",
       "file_type": "document",
       "source_file": "content/french"
     },
@@ -427,6 +475,24 @@
       "source_file": "content/french"
     },
     {
+      "id": "brajesh_k_singh",
+      "label": "Brajesh K. Singh",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "smriti_rayu",
+      "label": "Smriti Rayu",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
+      "id": "catarina_s_martins",
+      "label": "Catarina S. Martins",
+      "file_type": "document",
+      "source_file": "content/french"
+    },
+    {
       "id": "scientific_publications",
       "label": "Scientific Publications",
       "file_type": "document",
@@ -435,466 +501,340 @@
   ],
   "edges": [
     {
+      "source": "about",
+      "target": "cv",
+      "relation": "links_to",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_python_virtual_environments",
+      "target": "portfolio_python_virtual_environment",
+      "relation": "links_to",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_python_virtual_environments",
+      "target": "portfolio_python_virtual_env_conda",
+      "relation": "links_to",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_my_research_journey",
+      "target": "portfolio_eucface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_ghg_emissions_data_analysis",
+      "target": "portfolio_eucface",
+      "relation": "links_to",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_ghg_emissions_data_analysis",
+      "target": "portfolio_dashboard",
+      "relation": "links_to",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_ghg_emissions_data_analysis",
+      "target": "portfolio_ghg_modelling",
+      "relation": "links_to",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_ghg_emissions_data_analysis",
+      "target": "portfolio_geographical_modelling",
+      "relation": "links_to",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_from_lab_bench_to_data_desk",
+      "target": "portfolio_scientific_publications",
+      "relation": "links_to",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_data_pipeline_best_practices",
+      "target": "portfolio_google_bigquery_datastudio",
+      "relation": "links_to",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_ghg_modelling",
+      "target": "portfolio_eucface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_database_modelling",
+      "target": "portfolio_eucface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_database_modelling",
+      "target": "portfolio_dashboard",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_ghg_modelling",
+      "target": "portfolio_scientific_publications",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_geographical_modelling",
+      "target": "portfolio_scientific_publications",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_kpi_modelling",
+      "target": "portfolio_scientific_publications",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_from_lab_bench_to_data_desk",
+      "target": "blog_my_research_journey",
+      "relation": "covers_related_research",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_from_bordeaux_to_scotland",
+      "target": "blog_from_lab_bench_to_data_desk",
+      "relation": "covers_related_career_history",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_my_research_journey",
+      "target": "portfolio_geographical_modelling",
+      "relation": "covers_related_research",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_my_research_journey",
+      "target": "portfolio_ghg_modelling",
+      "relation": "covers_related_research",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_my_research_journey",
+      "target": "portfolio_eucface",
+      "relation": "covers_related_research",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_my_research_journey",
+      "target": "portfolio_scientific_publications",
+      "relation": "summarises",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_ghg_emissions_data_analysis",
+      "target": "portfolio_data_pipeline",
+      "relation": "uses_related_workflow",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_ghg_emissions_data_analysis",
+      "target": "portfolio_dashboard",
+      "relation": "uses_related_tooling",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_data_pipeline_best_practices",
+      "target": "portfolio_data_pipeline",
+      "relation": "covers_related_workflow",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "blog_data_pipeline_best_practices",
+      "target": "portfolio_google_bi",
+      "relation": "covers_related_workflow",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_google_bigquery_datastudio",
+      "target": "portfolio_google_bi",
+      "relation": "shares_technology",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_dashboard",
+      "target": "portfolio_deploy_web_app_heroku",
+      "relation": "shares_deployment_topic",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_dashboard",
+      "target": "portfolio_data_pipeline",
+      "relation": "uses_related_data_preparation",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_eucface",
+      "target": "portfolio_ghg_modelling",
+      "relation": "provides_experimental_context",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_eucface",
+      "target": "portfolio_dashboard",
+      "relation": "provides_data_context",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_eucface",
+      "target": "portfolio_database_modelling",
+      "relation": "provides_data_context",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_eucface",
+      "target": "portfolio_data_pipeline",
+      "relation": "provides_data_context",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_ghg_modelling",
+      "target": "portfolio_dashboard",
+      "relation": "shares_ghg_analysis_subject",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_ghg_modelling",
+      "target": "portfolio_data_pipeline",
+      "relation": "shares_ghg_analysis_subject",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_tableau_dashboard",
+      "target": "portfolio_ghg_modelling",
+      "relation": "visualises_related_subject",
+      "confidence": "AMBIGUOUS",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_kpi_modelling",
+      "target": "portfolio_geographical_modelling",
+      "relation": "shares_statistical_modelling_topic",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_python_virtual_environment",
+      "target": "portfolio_python_virtual_env_conda",
+      "relation": "compares_related_environment_management",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_alteryx",
+      "target": "portfolio_data_pipeline",
+      "relation": "shares_etl_topic",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "portfolio_github_repo",
+      "target": "blog_python_virtual_environments",
+      "relation": "shares_version_control_topic",
+      "confidence": "AMBIGUOUS",
+      "source_file": "content/english"
+    },
+    {
+      "source": "about",
+      "target": "service",
+      "relation": "describes_service_capabilities",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "about",
+      "target": "portfolio_index",
+      "relation": "presents_related_projects",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "cv",
+      "target": "about",
+      "relation": "describes_same_professional_profile",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "cv",
+      "target": "portfolio_index",
+      "relation": "summarises_related_projects",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "banner",
+      "target": "about",
+      "relation": "introduces",
+      "confidence": "INFERRED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "call_to_action",
+      "target": "contact",
+      "relation": "links_to_contact_section",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
+      "source": "testimonial",
+      "target": "contact",
+      "relation": "links_to_contact_section",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english"
+    },
+    {
       "source": "loic_nazaries",
       "target": "softeam",
       "relation": "worked_as_data_consultant_for",
       "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "epsyl_alcen_group",
-      "relation": "worked_as_data_scientist_and_analyst_for",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "bifora",
-      "relation": "worked_as_freelance_data_analyst_for",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "items_media_concept",
-      "relation": "worked_as_business_intelligence_analyst_for",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "hawkesbury_institute_for_the_environment",
-      "relation": "worked_as_statistical_research_analyst_at",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "hawkesbury_institute_for_the_environment",
-      "target": "western_sydney_university",
-      "relation": "is_part_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "iseg",
-      "relation": "taught_data_visualisation_at",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "ia_school",
-      "relation": "taught_business_intelligence_at",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "diderot_education",
-      "relation": "taught_biostatistics_at",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "robert_gordon_university",
-      "relation": "earned_bsc_and_msc_from",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "rowett_research_institute",
-      "relation": "worked_part_time_at",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "james_hutton_institute",
-      "relation": "worked_at",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "bioss",
-      "relation": "worked_with",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "university_of_aberdeen",
-      "relation": "held_joint_doctoral_registration_at",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "university_of_warwick",
-      "relation": "earned_phd_from",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "land_use_changes_and_methanotrophic_community_structure_and_function",
-      "relation": "authored_phd_thesis",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "brajesh_k_singh",
-      "target": "loic_nazaries",
-      "relation": "supervised_phd_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "la_piscine_training_center",
-      "relation": "completed_python_data_analyst_program_at",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "imperial_college_london",
-      "relation": "collaborated_with",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "university_of_minnesota",
-      "relation": "collaborated_with",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "smriti_rayu",
-      "relation": "supervised_phd_research_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "catarina_s_martins",
-      "relation": "supervised_phd_research_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "eucface_experiment",
-      "target": "hawkesbury_institute_for_the_environment",
-      "relation": "is_hosted_by",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "eucface_experiment",
-      "target": "greenhouse_gas_modelling",
-      "relation": "provides_data_for",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "eucface_experiment",
-      "target": "carbon_dioxide",
-      "relation": "tests_elevated_concentrations_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "eucface_experiment",
-      "target": "methane",
-      "relation": "measures_fluxes_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "eucface_experiment",
-      "target": "nitrous_oxide",
-      "relation": "measures_fluxes_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "eucface_experiment",
-      "target": "carbon_dioxide",
-      "relation": "measures_fluxes_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "greenhouse_gas_modelling",
-      "target": "soil_moisture",
-      "relation": "identifies_as_regulator_of_emissions",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "greenhouse_gas_modelling",
-      "target": "arima",
-      "relation": "uses",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "greenhouse_gas_modelling",
-      "target": "mixed_effects_model",
-      "relation": "uses",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "geographical_modelling",
-      "target": "methanotrophs",
-      "relation": "predicts_distribution_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "geographical_modelling",
-      "target": "random_forest",
-      "relation": "uses",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "geographical_modelling",
-      "target": "kriging",
-      "relation": "uses",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "nazaries_et_al_2018",
-      "relation": "authored",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "nazaries_et_al_2018",
-      "target": "methanotrophs",
-      "relation": "studies_geographical_distribution_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "m_trflp",
-      "target": "methanotrophs",
-      "relation": "characterises",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "m_trflp",
-      "relation": "developed",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "usca_methanotrophs",
-      "target": "methane",
-      "relation": "consume_atmospheric",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "afforestation",
-      "target": "methane",
-      "relation": "increases_soil_oxidation_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "chlorpyrifos",
-      "relation": "researched_bioremediation_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "kpi_modelling",
-      "relation": "developed",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "kpi_modelling",
-      "target": "grains_research_and_development_corporation",
-      "relation": "was_funded_by",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "nazaries_et_al_2021",
-      "relation": "authored",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "nazaries_et_al_2021",
-      "target": "kpi_modelling",
-      "relation": "documents",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "martins_et_al_2021",
-      "relation": "coauthored",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "martins_et_al_2021",
-      "target": "eucface_experiment",
-      "relation": "reports_findings_from",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "bifora",
-      "target": "data_pipeline",
-      "relation": "commissioned",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "data_pipeline",
-      "target": "etl",
-      "relation": "implements",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "data_pipeline",
-      "target": "python",
-      "relation": "uses",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "database_modelling",
-      "target": "eucface_experiment",
-      "relation": "models_data_for",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "database_modelling",
-      "target": "postgresql",
-      "relation": "uses",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "greenhouse_gas_estimation_portal",
-      "target": "streamlit",
-      "relation": "is_built_with",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "greenhouse_gas_estimation_portal",
-      "target": "heroku",
-      "relation": "is_deployed_on",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "greenhouse_gas_estimation_portal",
-      "target": "greenhouse_gas_modelling",
-      "relation": "supports_analysis_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "greenhouse_gas_estimation_portal",
-      "relation": "built",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "tableau",
-      "relation": "uses_for_data_visualisation",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "talend",
-      "relation": "uses_for_etl",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "business_intelligence",
-      "relation": "specialises_in",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "data_visualisation",
-      "relation": "specialises_in",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "loic_nazaries",
-      "target": "machine_learning",
-      "relation": "specialises_in",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "google_bigquery",
-      "target": "etl",
-      "relation": "supports",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "google_data_studio",
-      "target": "google_bigquery",
-      "relation": "connects_to",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "google_data_studio",
-      "target": "imdb_5000_movie_dataset",
-      "relation": "visualises",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "venv",
-      "target": "python",
-      "relation": "is_built_into",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
-    },
-    {
-      "source": "conda",
-      "target": "python",
-      "relation": "manages_versions_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english"
+      "source_file": "content/french"
     },
     {
       "source": "loic_nazaries",
@@ -905,8 +845,29 @@
     },
     {
       "source": "loic_nazaries",
+      "target": "bifora",
+      "relation": "worked_as_freelance_data_analyst_for",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "items_media_concept",
+      "relation": "worked_as_business_intelligence_analyst_for",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french"
+    },
+    {
+      "source": "loic_nazaries",
       "target": "hawkesbury_institute_for_the_environment",
       "relation": "worked_as_statistical_research_officer_at",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french"
+    },
+    {
+      "source": "hawkesbury_institute_for_the_environment",
+      "target": "western_sydney_university",
+      "relation": "is_part_of",
       "confidence": "EXTRACTED",
       "source_file": "content/french"
     },
@@ -935,6 +896,41 @@
       "source": "loic_nazaries",
       "target": "robert_gordon_university",
       "relation": "earned_bachelors_and_masters_degrees_from",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "rowett_research_institute",
+      "relation": "worked_part_time_at",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "james_hutton_institute",
+      "relation": "worked_at",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "bioss",
+      "relation": "worked_with",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "imperial_college_london",
+      "relation": "collaborated_with",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french"
+    },
+    {
+      "source": "loic_nazaries",
+      "target": "university_of_minnesota",
+      "relation": "collaborated_with",
       "confidence": "EXTRACTED",
       "source_file": "content/french"
     },
@@ -1023,6 +1019,20 @@
       "source_file": "content/french"
     },
     {
+      "source": "loic_nazaries",
+      "target": "greenhouse_gas_estimation_portal",
+      "relation": "built",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french"
+    },
+    {
+      "source": "greenhouse_gas_estimation_portal",
+      "target": "streamlit",
+      "relation": "is_built_with",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french"
+    },
+    {
       "source": "greenhouse_gas_estimation_portal",
       "target": "heroku",
       "relation": "was_deployed_on",
@@ -1047,6 +1057,13 @@
       "source": "data_pipeline",
       "target": "bifora",
       "relation": "was_created_for",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french"
+    },
+    {
+      "source": "data_pipeline",
+      "target": "etl",
+      "relation": "implements",
       "confidence": "EXTRACTED",
       "source_file": "content/french"
     },

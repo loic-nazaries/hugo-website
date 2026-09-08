@@ -5,3 +5,12 @@
 __pycache__/
 
 public/
+
+assets/
+resources/
+static/documents/
+
+themes/somrat/static/plugins/
+themes/somrat/exampleSite/
+themes/somrat/images/
+themes/somrat/graphify-out/

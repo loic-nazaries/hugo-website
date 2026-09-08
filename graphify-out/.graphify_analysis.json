@@ -3,147 +3,176 @@
     "0": [
       "bioss",
       "brajesh_k_singh",
-      "business_intelligence",
       "catarina_s_martins",
-      "data_visualisation",
-      "diderot_education",
+      "conda",
       "epsyl_alcen_group",
-      "ia_school",
       "imperial_college_london",
-      "iseg",
       "items_media_concept",
       "james_hutton_institute",
       "la_piscine",
-      "la_piscine_training_center",
-      "land_use_changes_and_methanotrophic_community_structure_and_function",
       "loic_nazaries",
+      "m_trflp",
       "robert_gordon_university",
       "rowett_research_institute",
       "scientific_publications",
       "softeam",
       "tableau",
-      "talend",
       "university_of_aberdeen",
       "university_of_minnesota",
-      "university_of_warwick"
-    ],
-    "1": [
-      "afforestation",
-      "carbon_dioxide",
-      "database_modelling",
-      "eucface_experiment",
-      "greenhouse_gas_emissions",
-      "hawkesbury_institute_for_the_environment",
-      "martins_et_al_2021",
-      "methane",
-      "nitrous_oxide",
-      "postgresql",
-      "relational_database",
-      "snowflake_schema",
-      "usca",
-      "usca_methanotrophs",
-      "western_sydney_university"
-    ],
-    "2": [
-      "bifora",
-      "conda",
-      "data_pipeline",
-      "etl",
-      "google_bigquery",
-      "google_data_studio",
-      "imdb_5000_movie_dataset",
-      "python",
+      "university_of_warwick",
       "venv"
     ],
-    "3": [
-      "geographical_modelling",
-      "geostatistics",
-      "kriging",
-      "m_trflp",
-      "machine_learning",
+    "1": [
+      "blog_from_bordeaux_to_scotland",
+      "blog_from_lab_bench_to_data_desk",
+      "blog_ghg_emissions_data_analysis",
+      "blog_my_research_journey",
+      "portfolio_alteryx",
+      "portfolio_dashboard",
+      "portfolio_data_pipeline",
+      "portfolio_database_modelling",
+      "portfolio_deploy_web_app_heroku",
+      "portfolio_eucface",
+      "portfolio_geographical_modelling",
+      "portfolio_ghg_modelling",
+      "portfolio_kpi_modelling",
+      "portfolio_scientific_publications",
+      "portfolio_tableau_dashboard"
+    ],
+    "2": [
+      "carbon_dioxide",
+      "eucface_experiment",
+      "greenhouse_gas_emissions",
+      "greenhouse_gas_estimation_portal",
+      "hawkesbury_institute_for_the_environment",
+      "heroku",
+      "methane",
       "methanotrophs",
-      "nazaries_et_al_2018",
-      "random_forest"
+      "nitrous_oxide",
+      "streamlit",
+      "usca",
+      "western_sydney_university"
+    ],
+    "3": [
+      "bifora",
+      "data_pipeline",
+      "etl",
+      "postgresql",
+      "relational_database",
+      "snowflake_schema"
     ],
     "4": [
-      "arima",
-      "greenhouse_gas_estimation_portal",
-      "greenhouse_gas_modelling",
-      "heroku",
-      "mixed_effects_model",
-      "soil_moisture",
-      "streamlit"
+      "about",
+      "banner",
+      "cv",
+      "portfolio_index",
+      "service"
     ],
     "5": [
+      "blog_python_virtual_environments",
+      "portfolio_github_repo",
+      "portfolio_python_virtual_env_conda",
+      "portfolio_python_virtual_environment"
+    ],
+    "6": [
       "agricultural_management_practices",
       "grains_research_and_development_corporation",
       "kpi",
-      "kpi_modelling",
-      "nazaries_et_al_2021",
       "soil_multifunctionality"
     ],
-    "6": [
+    "7": [
+      "call_to_action",
+      "contact",
+      "testimonial"
+    ],
+    "8": [
+      "blog_data_pipeline_best_practices",
+      "portfolio_google_bi",
+      "portfolio_google_bigquery_datastudio"
+    ],
+    "9": [
       "chlorpyrifos",
       "smriti_rayu"
+    ],
+    "10": [
+      "machine_learning",
+      "random_forest"
+    ],
+    "11": [
+      "geostatistics",
+      "kriging"
+    ],
+    "12": [
+      "google_bigquery",
+      "google_data_studio"
+    ],
+    "13": [
+      "funfacts"
+    ],
+    "14": [
+      "blog_index"
+    ],
+    "15": [
+      "python"
     ]
   },
   "cohesion": {},
   "god_nodes": [],
   "surprises": [
     {
-      "source": "Data Pipeline",
-      "target": "Relational Database",
+      "source": "Data Pipeline Best Practices: From Raw Data to Clean Output",
+      "target": "Data Pipeline",
       "source_files": [
         "content/english",
-        "content/french"
+        "content/english"
       ],
       "confidence": "INFERRED",
-      "relation": "populates",
-      "note": "Bridges community 2 \u2192 community 1"
+      "relation": "covers_related_workflow",
+      "note": "Bridges community 8 \u2192 community 1"
     },
     {
       "source": "Loic Nazaries",
       "target": "BIFORA",
       "source_files": [
-        "content/english",
-        "content/english"
+        "content/french",
+        "content/french"
       ],
       "confidence": "EXTRACTED",
       "relation": "worked_as_freelance_data_analyst_for",
-      "note": "Bridges community 0 \u2192 community 2"
+      "note": "Bridges community 0 \u2192 community 3"
     },
     {
       "source": "Loic Nazaries",
       "target": "Hawkesbury Institute for the Environment",
       "source_files": [
-        "content/english",
-        "content/english"
+        "content/french",
+        "content/french"
       ],
       "confidence": "EXTRACTED",
       "relation": "worked_as_statistical_research_officer_at",
-      "note": "Bridges community 0 \u2192 community 1"
-    },
-    {
-      "source": "Smriti Rayu",
-      "target": "Loic Nazaries",
-      "source_files": [
-        "content/english",
-        "content/english"
-      ],
-      "confidence": "EXTRACTED",
-      "relation": "was_supervised_by",
-      "note": "Bridges community 0 \u2192 community 6"
+      "note": "Bridges community 0 \u2192 community 2"
     },
     {
       "source": "Loic Nazaries",
-      "target": "Environmental Drivers of the Geographical Distribution of Methanotrophs",
+      "target": "Machine Learning",
       "source_files": [
-        "content/english",
-        "content/english"
+        "content/french",
+        "content/french"
       ],
       "confidence": "EXTRACTED",
-      "relation": "authored",
-      "note": "Bridges community 0 \u2192 community 3"
+      "relation": "uses_for_industrial_defect_detection",
+      "note": "Bridges community 0 \u2192 community 10"
+    },
+    {
+      "source": "Loic Nazaries",
+      "target": "Geostatistics",
+      "source_files": [
+        "content/french",
+        "content/french"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "uses_for_geographical_modelling",
+      "note": "Bridges community 0 \u2192 community 11"
     }
   ]
 }

@@ -4,3913 +4,974 @@
   "graph": {},
   "nodes": [
     {
-      "label": "script.js",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\assets\\js\\script.js",
-      "source_location": "L1",
-      "id": "assets_js_script_js",
-      "community": 12,
-      "norm_label": "script.js"
-    },
-    {
-      "label": "counter()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\assets\\js\\script.js",
-      "source_location": "L18",
-      "id": "script_counter",
-      "community": 12,
-      "norm_label": "counter()"
-    },
-    {
-      "label": "smoothScroll()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\assets\\js\\script.js",
-      "source_location": "L56",
-      "id": "script_smoothscroll",
-      "community": 12,
-      "norm_label": "smoothscroll()"
-    },
-    {
-      "label": "SliderBackground()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\assets\\js\\script.js",
-      "source_location": "L129",
-      "id": "script_sliderbackground",
-      "community": 12,
-      "norm_label": "sliderbackground()"
-    },
-    {
-      "label": "jquery.waypoints.min.js",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
-      "source_location": "L1",
-      "id": "static_plugins_jquery_waypoints_min_js",
-      "community": 13,
-      "norm_label": "jquery.waypoints.min.js"
-    },
-    {
-      "label": "t()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
-      "source_location": "L7",
-      "id": "jquery_waypoints_min_t",
-      "community": 13,
-      "norm_label": "t()"
-    },
-    {
-      "label": "e()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
-      "source_location": "L7",
-      "id": "jquery_waypoints_min_e",
-      "community": 13,
-      "norm_label": "e()"
-    },
-    {
-      "label": "i()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
-      "source_location": "L7",
-      "id": "jquery_waypoints_min_i",
-      "community": 13,
-      "norm_label": "i()"
-    },
-    {
-      "label": "wow.min.js",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L1",
-      "id": "static_plugins_wow_min_js",
-      "community": 1,
-      "norm_label": "wow.min.js"
-    },
-    {
-      "label": "c()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "id": "wow_min_c",
-      "community": 1,
-      "norm_label": "c()"
-    },
-    {
-      "label": "d()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "id": "wow_min_d",
-      "community": 1,
-      "norm_label": "d()"
-    },
-    {
-      "label": "e()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "id": "wow_min_e",
-      "community": 1,
-      "norm_label": "e()"
-    },
-    {
-      "label": "f()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "id": "wow_min_f",
-      "community": 1,
-      "norm_label": "f()"
-    },
-    {
-      "label": "g()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "id": "wow_min_g",
-      "community": 1,
-      "norm_label": "g()"
-    },
-    {
-      "label": "h()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "id": "wow_min_h",
-      "community": 1,
-      "norm_label": "h()"
-    },
-    {
-      "label": "i()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "id": "wow_min_i",
-      "community": 1,
-      "norm_label": "i()"
-    },
-    {
-      "label": "j()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "id": "wow_min_j",
-      "community": 1,
-      "norm_label": "j()"
-    },
-    {
-      "label": "k()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "id": "wow_min_k",
-      "community": 15,
-      "norm_label": "k()"
-    },
-    {
-      "label": "a()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "id": "wow_min_a",
-      "community": 1,
-      "norm_label": "a()"
-    },
-    {
-      "label": "bootstrap.min.js",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L1",
-      "id": "static_plugins_bootstrap_bootstrap_min_js",
-      "community": 1,
-      "norm_label": "bootstrap.min.js"
-    },
-    {
-      "label": "i()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "id": "bootstrap_min_i",
-      "community": 1,
-      "norm_label": "i()"
-    },
-    {
-      "label": "s()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "id": "bootstrap_min_s",
-      "community": 1,
-      "norm_label": "s()"
-    },
-    {
-      "label": "e()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "id": "bootstrap_min_e",
-      "community": 1,
-      "norm_label": "e()"
-    },
-    {
-      "label": "l()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "id": "bootstrap_min_l",
-      "community": 1,
-      "norm_label": "l()"
-    },
-    {
-      "label": "o()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "id": "bootstrap_min_o",
-      "community": 1,
-      "norm_label": "o()"
-    },
-    {
-      "label": "n()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "id": "bootstrap_min_n",
-      "community": 1,
-      "norm_label": "n()"
-    },
-    {
-      "label": "r()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "id": "bootstrap_min_r",
-      "community": 1,
-      "norm_label": "r()"
-    },
-    {
-      "label": "a()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "id": "bootstrap_min_a",
-      "community": 1,
-      "norm_label": "a()"
-    },
-    {
-      "label": "c()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "id": "bootstrap_min_c",
-      "community": 1,
-      "norm_label": "c()"
-    },
-    {
-      "label": "we()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "id": "bootstrap_min_we",
-      "community": 1,
-      "norm_label": "we()"
-    },
-    {
-      "label": "t()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "id": "bootstrap_min_t",
-      "community": 1,
-      "norm_label": "t()"
-    },
-    {
-      "label": "jquery.min.js",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L1",
-      "id": "static_plugins_jquery_jquery_min_js",
-      "community": 4,
-      "norm_label": "jquery.min.js"
-    },
-    {
-      "label": "b()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_b",
-      "community": 8,
-      "norm_label": "b()"
-    },
-    {
-      "label": "w()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_w",
-      "community": 9,
-      "norm_label": "w()"
-    },
-    {
-      "label": "d()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_d",
-      "community": 9,
-      "norm_label": "d()"
-    },
-    {
-      "label": "se()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_se",
-      "community": 5,
-      "norm_label": "se()"
-    },
-    {
-      "label": "ue()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_ue",
-      "community": 4,
-      "norm_label": "ue()"
-    },
-    {
-      "label": "le()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_le",
-      "community": 8,
-      "norm_label": "le()"
-    },
-    {
-      "label": "ce()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_ce",
-      "community": 5,
-      "norm_label": "ce()"
-    },
-    {
-      "label": "fe()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_fe",
-      "community": 14,
-      "norm_label": "fe()"
-    },
-    {
-      "label": "pe()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_pe",
-      "community": 4,
-      "norm_label": "pe()"
-    },
-    {
-      "label": "de()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_de",
-      "community": 6,
-      "norm_label": "de()"
-    },
-    {
-      "label": "he()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_he",
-      "community": 4,
-      "norm_label": "he()"
-    },
-    {
-      "label": "ge()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_ge",
-      "community": 15,
-      "norm_label": "ge()"
-    },
-    {
-      "label": "ve()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_ve",
-      "community": 8,
-      "norm_label": "ve()"
-    },
-    {
-      "label": "ye()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_ye",
-      "community": 8,
-      "norm_label": "ye()"
-    },
-    {
-      "label": "me()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_me",
-      "community": 4,
-      "norm_label": "me()"
-    },
-    {
-      "label": "xe()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_xe",
-      "community": 5,
-      "norm_label": "xe()"
-    },
-    {
-      "label": "be()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_be",
-      "community": 6,
-      "norm_label": "be()"
-    },
-    {
-      "label": "we()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_we",
-      "community": 8,
-      "norm_label": "we()"
-    },
-    {
-      "label": "Te()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_te",
-      "community": 5,
-      "norm_label": "te()"
-    },
-    {
-      "label": "Ee()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_ee",
-      "community": 5,
-      "norm_label": "ee()"
-    },
-    {
-      "label": "A()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_a",
-      "community": 8,
-      "norm_label": "a()"
-    },
-    {
-      "label": "j()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_j",
-      "community": 9,
-      "norm_label": "j()"
-    },
-    {
-      "label": "P()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_p",
-      "community": 5,
-      "norm_label": "p()"
-    },
-    {
-      "label": "M()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_m",
-      "community": 9,
-      "norm_label": "m()"
-    },
-    {
-      "label": "I()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_i",
-      "community": 9,
-      "norm_label": "i()"
-    },
-    {
-      "label": "l()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_l",
-      "community": 5,
-      "norm_label": "l()"
-    },
-    {
-      "label": "X()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_x",
-      "community": 9,
-      "norm_label": "x()"
-    },
-    {
-      "label": "V()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_v",
-      "community": 4,
-      "norm_label": "v()"
-    },
-    {
-      "label": "Y()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_y",
-      "community": 5,
-      "norm_label": "y()"
-    },
-    {
-      "label": "ke()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_ke",
-      "community": 4,
-      "norm_label": "ke()"
-    },
-    {
-      "label": "Ne()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_ne",
-      "community": 4,
-      "norm_label": "ne()"
-    },
-    {
-      "label": "Ae()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_ae",
-      "community": 15,
-      "norm_label": "ae()"
-    },
-    {
-      "label": "Oe()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_oe",
-      "community": 8,
-      "norm_label": "oe()"
-    },
-    {
-      "label": "Re()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_re",
-      "community": 4,
-      "norm_label": "re()"
-    },
-    {
-      "label": "Ie()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_ie",
-      "community": 8,
-      "norm_label": "ie()"
-    },
-    {
-      "label": "_e()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_e",
-      "community": 14,
-      "norm_label": "_e()"
-    },
-    {
-      "label": "ze()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_ze",
-      "community": 3,
-      "norm_label": "ze()"
-    },
-    {
-      "label": "t()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_t",
-      "community": 5,
-      "norm_label": "t()"
-    },
-    {
-      "label": "et()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_et",
-      "community": 14,
-      "norm_label": "et()"
-    },
-    {
-      "label": "tt()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_tt",
-      "community": 14,
-      "norm_label": "tt()"
-    },
-    {
-      "label": "nt()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_nt",
-      "community": 4,
-      "norm_label": "nt()"
-    },
-    {
-      "label": "lt()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_lt",
-      "community": 4,
-      "norm_label": "lt()"
-    },
-    {
-      "label": "ct()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_ct",
-      "community": 4,
-      "norm_label": "ct()"
-    },
-    {
-      "label": "ft()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_ft",
-      "community": 4,
-      "norm_label": "ft()"
-    },
-    {
-      "label": "pt()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_pt",
-      "community": 4,
-      "norm_label": "pt()"
-    },
-    {
-      "label": "dt()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_dt",
-      "community": 4,
-      "norm_label": "dt()"
-    },
-    {
-      "label": "mt()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_mt",
-      "community": 4,
-      "norm_label": "mt()"
-    },
-    {
-      "label": "xt()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_xt",
-      "community": 4,
-      "norm_label": "xt()"
-    },
-    {
-      "label": "bt()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_bt",
-      "community": 9,
-      "norm_label": "bt()"
-    },
-    {
-      "label": "qt()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_qt",
-      "community": 9,
-      "norm_label": "qt()"
-    },
-    {
-      "label": "zt()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "id": "jquery_min_zt",
-      "community": 4,
-      "norm_label": "zt()"
-    },
-    {
-      "label": "jquery.magnific-popup.min.js",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\magnific-popup\\jquery.magnific-popup.min.js",
-      "source_location": "L1",
-      "id": "static_plugins_magnific_popup_jquery_magnific_popup_min_js",
-      "community": 17,
-      "norm_label": "jquery.magnific-popup.min.js"
-    },
-    {
-      "label": "owl.carousel.min.js",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
-      "source_location": "L1",
-      "id": "static_plugins_owl_carousel_owl_carousel_min_js",
-      "community": 3,
-      "norm_label": "owl.carousel.min.js"
-    },
-    {
-      "label": "e()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
-      "source_location": "L6",
-      "id": "owl_carousel_min_e",
-      "community": 3,
-      "norm_label": "e()"
-    },
-    {
-      "label": "f()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
-      "source_location": "L7",
-      "id": "owl_carousel_min_f",
-      "community": 3,
-      "norm_label": "f()"
-    },
-    {
-      "label": "shuffle.min.js",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "id": "static_plugins_shuffle_shuffle_min_js",
-      "community": 3,
-      "norm_label": "shuffle.min.js"
-    },
-    {
-      "label": "t()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "id": "shuffle_min_t",
-      "community": 3,
-      "norm_label": "t()"
-    },
-    {
-      "label": "e()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "id": "shuffle_min_e",
-      "community": 3,
-      "norm_label": "e()"
-    },
-    {
-      "label": "i()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "id": "shuffle_min_i",
-      "community": 3,
-      "norm_label": "i()"
-    },
-    {
-      "label": "n()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "id": "shuffle_min_n",
-      "community": 3,
-      "norm_label": "n()"
-    },
-    {
-      "label": "s()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "id": "shuffle_min_s",
-      "community": 6,
-      "norm_label": "s()"
-    },
-    {
-      "label": "o()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "id": "shuffle_min_o",
-      "community": 3,
-      "norm_label": "o()"
-    },
-    {
-      "label": "r()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "id": "shuffle_min_r",
-      "community": 3,
-      "norm_label": "r()"
-    },
-    {
-      "label": "l()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "id": "shuffle_min_l",
-      "community": 3,
-      "norm_label": "l()"
-    },
-    {
-      "label": "c()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "id": "shuffle_min_c",
-      "community": 3,
-      "norm_label": "c()"
-    },
-    {
-      "label": "d()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "id": "shuffle_min_d",
-      "community": 3,
-      "norm_label": "d()"
-    },
-    {
-      "label": "z()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "id": "shuffle_min_z",
-      "community": 3,
-      "norm_label": "z()"
-    },
-    {
-      "label": "M()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "id": "shuffle_min_m",
-      "community": 3,
-      "norm_label": "m()"
-    },
-    {
-      "label": "A()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "id": "shuffle_min_a",
-      "community": 3,
-      "norm_label": "a()"
-    },
-    {
-      "label": "F()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "id": "shuffle_min_f",
-      "community": 3,
-      "norm_label": "f()"
-    },
-    {
-      "label": "x()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "id": "shuffle_min_x",
-      "community": 3,
-      "norm_label": "x()"
-    },
-    {
-      "label": "text-animation.js",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "id": "static_plugins_text_animation_text_animation_js",
-      "community": 6,
-      "norm_label": "text-animation.js"
-    },
-    {
-      "label": "l()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "id": "text_animation_l",
-      "community": 6,
-      "norm_label": "l()"
-    },
-    {
-      "label": "r()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "id": "text_animation_r",
-      "community": 6,
-      "norm_label": "r()"
-    },
-    {
-      "label": "o()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "id": "text_animation_o",
-      "community": 6,
-      "norm_label": "o()"
-    },
-    {
-      "label": "c()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "id": "text_animation_c",
-      "community": 6,
-      "norm_label": "c()"
-    },
-    {
-      "label": "h()",
-      "file_type": "code",
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "id": "text_animation_h",
-      "community": 6,
-      "norm_label": "h()"
-    },
-    {
-      "label": "Loic Nazaries",
+      "label": "About Loic Nazaries",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "loic_nazaries",
-      "community": 0,
-      "norm_label": "loic nazaries"
+      "id": "about",
+      "community": "Professional Profile & Portfolio"
     },
     {
-      "label": "Softeam",
+      "label": "Loic Nazaries - Data Mining and Business Intelligence Specialist",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "softeam",
-      "community": 0,
-      "norm_label": "softeam"
+      "id": "banner",
+      "community": "Professional Profile & Portfolio"
     },
     {
-      "label": "Epsyl - Alcen Group",
+      "label": "Need a Service?",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "epsyl_alcen_group",
-      "community": 0,
-      "norm_label": "epsyl - alcen group"
+      "id": "call_to_action",
+      "community": "Engagement & Contact"
     },
     {
-      "label": "BIFORA",
+      "label": "Contact",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "bifora",
-      "community": 7,
-      "norm_label": "bifora"
+      "id": "contact",
+      "community": "Engagement & Contact"
     },
     {
-      "label": "Items Media Concept",
+      "label": "Loic Nazaries CV",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "items_media_concept",
-      "community": 0,
-      "norm_label": "items media concept"
+      "id": "cv",
+      "community": "Professional Profile & Portfolio"
     },
     {
-      "label": "Hawkesbury Institute for the Environment",
+      "label": "My Guarantees",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "hawkesbury_institute_for_the_environment",
-      "community": 2,
-      "norm_label": "hawkesbury institute for the environment"
+      "id": "funfacts",
+      "community": "Service Guarantees"
     },
     {
-      "label": "Western Sydney University",
+      "label": "Services",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "western_sydney_university",
-      "community": 2,
-      "norm_label": "western sydney university"
+      "id": "service",
+      "community": "Professional Profile & Portfolio"
     },
     {
-      "label": "Robert Gordon University",
+      "label": "Testimonials",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "robert_gordon_university",
-      "community": 0,
-      "norm_label": "robert gordon university"
+      "id": "testimonial",
+      "community": "Engagement & Contact"
     },
     {
-      "label": "Rowett Research Institute",
+      "label": "Blog",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "rowett_research_institute",
-      "community": 0,
-      "norm_label": "rowett research institute"
+      "id": "blog_index",
+      "community": "Blog Hub"
     },
     {
-      "label": "James Hutton Institute",
+      "label": "Python Virtual Environments: venv vs Conda",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "james_hutton_institute",
-      "community": 0,
-      "norm_label": "james hutton institute"
+      "id": "blog_python_virtual_environments",
+      "community": "Python Development & Environments"
     },
     {
-      "label": "Biomathematics and Statistics Scotland",
+      "label": "Unveiling the Black Box: My Research Journey into the Microbial Heart of Our Planet",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "bioss",
-      "community": 0,
-      "norm_label": "biomathematics and statistics scotland"
+      "id": "blog_my_research_journey",
+      "community": "Career & Research Journey"
     },
     {
-      "label": "University of Aberdeen",
+      "label": "Analysing Greenhouse Gas Emissions: From Field Data to Insights",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "university_of_aberdeen",
-      "community": 0,
-      "norm_label": "university of aberdeen"
+      "id": "blog_ghg_emissions_data_analysis",
+      "community": "Career & Research Journey"
     },
     {
-      "label": "University of Warwick",
+      "label": "From Lab Bench to Data Desk: A Research Scientist's Journey into Data",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "university_of_warwick",
-      "community": 0,
-      "norm_label": "university of warwick"
+      "id": "blog_from_lab_bench_to_data_desk",
+      "community": "Career & Research Journey"
     },
     {
-      "label": "La Piscine Training Center",
+      "label": "From Bordeaux to Bordeaux via Aberdeen and Sydney: Education, Academia, and a Career Reinvention",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "la_piscine_training_center",
-      "community": 0,
-      "norm_label": "la piscine training center"
+      "id": "blog_from_bordeaux_to_scotland",
+      "community": "Career & Research Journey"
     },
     {
-      "label": "ISEG",
+      "label": "Data Pipeline Best Practices: From Raw Data to Clean Output",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "iseg",
-      "community": 0,
-      "norm_label": "iseg"
+      "id": "blog_data_pipeline_best_practices",
+      "community": "Data Analytics & BI"
     },
     {
-      "label": "IA School",
+      "label": "Portfolio",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "ia_school",
-      "community": 0,
-      "norm_label": "ia school"
+      "id": "portfolio_index",
+      "community": "Professional Profile & Portfolio"
     },
     {
-      "label": "Diderot Education",
+      "label": "Alteryx",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "diderot_education",
-      "community": 0,
-      "norm_label": "diderot education"
+      "id": "portfolio_alteryx",
+      "community": "Career & Research Journey"
     },
     {
-      "label": "Brajesh K. Singh",
+      "label": "Tableau Dashboard",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "brajesh_k_singh",
-      "community": 0,
-      "norm_label": "brajesh k. singh"
+      "id": "portfolio_tableau_dashboard",
+      "community": "Career & Research Journey"
     },
     {
-      "label": "Smriti Rayu",
+      "label": "Scientific Publications",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "smriti_rayu",
-      "community": 16,
-      "norm_label": "smriti rayu"
+      "id": "portfolio_scientific_publications",
+      "community": "Career & Research Journey"
     },
     {
-      "label": "Catarina S. Martins",
+      "label": "Python Virtual Environment (Conda)",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "catarina_s_martins",
-      "community": 0,
-      "norm_label": "catarina s. martins"
+      "id": "portfolio_python_virtual_env_conda",
+      "community": "Python Development & Environments"
     },
     {
-      "label": "Imperial College London",
+      "label": "Python Virtual Environment",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "imperial_college_london",
-      "community": 0,
-      "norm_label": "imperial college london"
-    },
-    {
-      "label": "University of Minnesota",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "university_of_minnesota",
-      "community": 0,
-      "norm_label": "university of minnesota"
-    },
-    {
-      "label": "Grains Research and Development Corporation",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "grains_research_and_development_corporation",
-      "community": 11,
-      "norm_label": "grains research and development corporation"
-    },
-    {
-      "label": "EucFACE Experiment",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "eucface_experiment",
-      "community": 2,
-      "norm_label": "eucface experiment"
-    },
-    {
-      "label": "Greenhouse Gas Estimation Portal",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "greenhouse_gas_estimation_portal",
-      "community": 2,
-      "norm_label": "greenhouse gas estimation portal"
-    },
-    {
-      "label": "Greenhouse Gas Modelling",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "greenhouse_gas_modelling",
-      "community": 2,
-      "norm_label": "greenhouse gas modelling"
-    },
-    {
-      "label": "Geographical Modelling",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "geographical_modelling",
-      "community": 10,
-      "norm_label": "geographical modelling"
+      "id": "portfolio_python_virtual_environment",
+      "community": "Python Development & Environments"
     },
     {
       "label": "KPI Modelling",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "kpi_modelling",
-      "community": 11,
-      "norm_label": "kpi modelling"
+      "id": "portfolio_kpi_modelling",
+      "community": "Career & Research Journey"
+    },
+    {
+      "label": "Google BigQuery and Google Data Studio",
+      "file_type": "document",
+      "source_file": "content/english",
+      "id": "portfolio_google_bigquery_datastudio",
+      "community": "Data Analytics & BI"
+    },
+    {
+      "label": "Google Business Intelligence",
+      "file_type": "document",
+      "source_file": "content/english",
+      "id": "portfolio_google_bi",
+      "community": "Data Analytics & BI"
+    },
+    {
+      "label": "Project Repository with GitHub",
+      "file_type": "document",
+      "source_file": "content/english",
+      "id": "portfolio_github_repo",
+      "community": "Python Development & Environments"
+    },
+    {
+      "label": "GHG Modelling",
+      "file_type": "document",
+      "source_file": "content/english",
+      "id": "portfolio_ghg_modelling",
+      "community": "Career & Research Journey"
+    },
+    {
+      "label": "Geographical Modelling",
+      "file_type": "document",
+      "source_file": "content/english",
+      "id": "portfolio_geographical_modelling",
+      "community": "Career & Research Journey"
+    },
+    {
+      "label": "EucFACE Site Presentation",
+      "file_type": "document",
+      "source_file": "content/english",
+      "id": "portfolio_eucface",
+      "community": "Career & Research Journey"
+    },
+    {
+      "label": "Web App Deployment with Heroku",
+      "file_type": "document",
+      "source_file": "content/english",
+      "id": "portfolio_deploy_web_app_heroku",
+      "community": "Career & Research Journey"
     },
     {
       "label": "Data Pipeline",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "data_pipeline",
-      "community": 7,
-      "norm_label": "data pipeline"
+      "id": "portfolio_data_pipeline",
+      "community": "Career & Research Journey"
     },
     {
       "label": "Database Modelling",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "database_modelling",
-      "community": 2,
-      "norm_label": "database modelling"
+      "id": "portfolio_database_modelling",
+      "community": "Career & Research Journey"
     },
     {
-      "label": "IMDB 5000 Movie Dataset",
+      "label": "Dashboard",
       "file_type": "document",
       "source_file": "content/english",
-      "id": "imdb_5000_movie_dataset",
-      "community": 7,
-      "norm_label": "imdb 5000 movie dataset"
+      "id": "portfolio_dashboard",
+      "community": "Career & Research Journey"
     },
     {
-      "label": "Multiplex Terminal Restriction Fragment Length Polymorphism",
+      "label": "Loic Nazaries",
       "file_type": "document",
-      "source_file": "content/english",
-      "id": "m_trflp",
-      "community": 10,
-      "norm_label": "multiplex terminal restriction fragment length polymorphism"
+      "source_file": "content/french",
+      "id": "loic_nazaries",
+      "community": "Professional Network & Institutions"
     },
     {
-      "label": "Upland Soil Cluster Alpha Methanotrophs",
+      "label": "SOFTEAM",
       "file_type": "document",
-      "source_file": "content/english",
-      "id": "usca_methanotrophs",
-      "community": 2,
-      "norm_label": "upland soil cluster alpha methanotrophs"
+      "source_file": "content/french",
+      "id": "softeam",
+      "community": "Professional Network & Institutions"
     },
     {
-      "label": "Methanotrophs",
+      "label": "EPSYL - ALCEN Group",
       "file_type": "document",
-      "source_file": "content/english",
-      "id": "methanotrophs",
-      "community": 10,
-      "norm_label": "methanotrophs"
+      "source_file": "content/french",
+      "id": "epsyl_alcen_group",
+      "community": "Professional Network & Institutions"
     },
     {
-      "label": "Methane",
+      "label": "BIFORA",
       "file_type": "document",
-      "source_file": "content/english",
-      "id": "methane",
-      "community": 2,
-      "norm_label": "methane"
+      "source_file": "content/french",
+      "id": "bifora",
+      "community": "Data Infrastructure & Tools"
     },
     {
-      "label": "Carbon Dioxide",
+      "label": "Items Media Concept",
       "file_type": "document",
-      "source_file": "content/english",
-      "id": "carbon_dioxide",
-      "community": 2,
-      "norm_label": "carbon dioxide"
+      "source_file": "content/french",
+      "id": "items_media_concept",
+      "community": "Professional Network & Institutions"
     },
     {
-      "label": "Nitrous Oxide",
+      "label": "Western Sydney University",
       "file_type": "document",
-      "source_file": "content/english",
-      "id": "nitrous_oxide",
-      "community": 2,
-      "norm_label": "nitrous oxide"
+      "source_file": "content/french",
+      "id": "western_sydney_university",
+      "community": "Environmental Research & GHG Studies"
     },
     {
-      "label": "Soil Moisture",
+      "label": "Hawkesbury Institute for the Environment",
       "file_type": "document",
-      "source_file": "content/english",
-      "id": "soil_moisture",
-      "community": 2,
-      "norm_label": "soil moisture"
-    },
-    {
-      "label": "Afforestation",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "afforestation",
-      "community": 2,
-      "norm_label": "afforestation"
-    },
-    {
-      "label": "Chlorpyrifos",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "chlorpyrifos",
-      "community": 16,
-      "norm_label": "chlorpyrifos"
-    },
-    {
-      "label": "Python",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "python",
-      "community": 7,
-      "norm_label": "python"
-    },
-    {
-      "label": "Streamlit",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "streamlit",
-      "community": 2,
-      "norm_label": "streamlit"
-    },
-    {
-      "label": "Heroku",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "heroku",
-      "community": 2,
-      "norm_label": "heroku"
-    },
-    {
-      "label": "Tableau",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "tableau",
-      "community": 0,
-      "norm_label": "tableau"
-    },
-    {
-      "label": "Talend",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "talend",
-      "community": 0,
-      "norm_label": "talend"
-    },
-    {
-      "label": "PostgreSQL",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "postgresql",
-      "community": 2,
-      "norm_label": "postgresql"
-    },
-    {
-      "label": "Google BigQuery",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "google_bigquery",
-      "community": 7,
-      "norm_label": "google bigquery"
-    },
-    {
-      "label": "Google Data Studio",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "google_data_studio",
-      "community": 7,
-      "norm_label": "google data studio"
-    },
-    {
-      "label": "Conda",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "conda",
-      "community": 7,
-      "norm_label": "conda"
-    },
-    {
-      "label": "Python venv",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "venv",
-      "community": 7,
-      "norm_label": "python venv"
-    },
-    {
-      "label": "Random Forest",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "random_forest",
-      "community": 10,
-      "norm_label": "random forest"
-    },
-    {
-      "label": "Kriging",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "kriging",
-      "community": 10,
-      "norm_label": "kriging"
-    },
-    {
-      "label": "Mixed Effects Model",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "mixed_effects_model",
-      "community": 2,
-      "norm_label": "mixed effects model"
-    },
-    {
-      "label": "ARIMA",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "arima",
-      "community": 2,
-      "norm_label": "arima"
-    },
-    {
-      "label": "Machine Learning",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "machine_learning",
-      "community": 10,
-      "norm_label": "machine learning"
-    },
-    {
-      "label": "Business Intelligence",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "business_intelligence",
-      "community": 0,
-      "norm_label": "business intelligence"
-    },
-    {
-      "label": "Data Visualisation",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "data_visualisation",
-      "community": 0,
-      "norm_label": "data visualisation"
-    },
-    {
-      "label": "Extract Transform Load",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "etl",
-      "community": 7,
-      "norm_label": "extract transform load"
-    },
-    {
-      "label": "Land-Use Changes and Methanotrophic Community Structure and Function",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "land_use_changes_and_methanotrophic_community_structure_and_function",
-      "community": 0,
-      "norm_label": "land-use changes and methanotrophic community structure and function"
-    },
-    {
-      "label": "Environmental Drivers of the Geographical Distribution of Methanotrophs",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "nazaries_et_al_2018",
-      "community": 10,
-      "norm_label": "environmental drivers of the geographical distribution of methanotrophs"
-    },
-    {
-      "label": "Soil Multifunctionality and Agricultural Management Practices",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "nazaries_et_al_2021",
-      "community": 11,
-      "norm_label": "soil multifunctionality and agricultural management practices"
-    },
-    {
-      "label": "Rainfall Frequency and Soil Water Availability Regulate Greenhouse Gas Emissions",
-      "file_type": "document",
-      "source_file": "content/english",
-      "id": "martins_et_al_2021",
-      "community": 2,
-      "norm_label": "rainfall frequency and soil water availability regulate greenhouse gas emissions"
+      "source_file": "content/french",
+      "id": "hawkesbury_institute_for_the_environment",
+      "community": "Environmental Research & GHG Studies"
     },
     {
       "label": "La Piscine Centre de Formation",
       "file_type": "document",
       "source_file": "content/french",
       "id": "la_piscine",
-      "community": 0,
-      "norm_label": "la piscine centre de formation"
+      "community": "Professional Network & Institutions"
+    },
+    {
+      "label": "University of Warwick",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "university_of_warwick",
+      "community": "Professional Network & Institutions"
+    },
+    {
+      "label": "University of Aberdeen",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "university_of_aberdeen",
+      "community": "Professional Network & Institutions"
+    },
+    {
+      "label": "Robert Gordon University",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "robert_gordon_university",
+      "community": "Professional Network & Institutions"
+    },
+    {
+      "label": "James Hutton Institute",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "james_hutton_institute",
+      "community": "Professional Network & Institutions"
+    },
+    {
+      "label": "Biomathematics and Statistics Scotland",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "bioss",
+      "community": "Professional Network & Institutions"
+    },
+    {
+      "label": "Rowett Research Institute",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "rowett_research_institute",
+      "community": "Professional Network & Institutions"
+    },
+    {
+      "label": "Imperial College London",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "imperial_college_london",
+      "community": "Professional Network & Institutions"
+    },
+    {
+      "label": "University of Minnesota",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "university_of_minnesota",
+      "community": "Professional Network & Institutions"
+    },
+    {
+      "label": "Grains Research and Development Corporation",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "grains_research_and_development_corporation",
+      "community": "Agriculture & Soil Modelling"
+    },
+    {
+      "label": "EucFACE Experiment",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "eucface_experiment",
+      "community": "Environmental Research & GHG Studies"
+    },
+    {
+      "label": "Greenhouse Gas Estimation Portal",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "greenhouse_gas_estimation_portal",
+      "community": "Environmental Research & GHG Studies"
     },
     {
       "label": "Greenhouse Gas Emissions",
       "file_type": "document",
       "source_file": "content/french",
       "id": "greenhouse_gas_emissions",
-      "community": 2,
-      "norm_label": "greenhouse gas emissions"
+      "community": "Environmental Research & GHG Studies"
+    },
+    {
+      "label": "Carbon Dioxide",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "carbon_dioxide",
+      "community": "Environmental Research & GHG Studies"
+    },
+    {
+      "label": "Methane",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "methane",
+      "community": "Environmental Research & GHG Studies"
+    },
+    {
+      "label": "Nitrous Oxide",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "nitrous_oxide",
+      "community": "Environmental Research & GHG Studies"
+    },
+    {
+      "label": "Methanotrophs",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "methanotrophs",
+      "community": "Environmental Research & GHG Studies"
     },
     {
       "label": "Upland Soil Cluster alpha",
       "file_type": "document",
       "source_file": "content/french",
       "id": "usca",
-      "community": 2,
-      "norm_label": "upland soil cluster alpha"
+      "community": "Environmental Research & GHG Studies"
+    },
+    {
+      "label": "Multiplex T-RFLP",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "m_trflp",
+      "community": "Professional Network & Institutions"
+    },
+    {
+      "label": "Chlorpyrifos",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "chlorpyrifos",
+      "community": "Research Supervision & Chemistry"
+    },
+    {
+      "label": "Data Pipeline",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "data_pipeline",
+      "community": "Data Infrastructure & Tools"
+    },
+    {
+      "label": "ETL",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "etl",
+      "community": "Data Infrastructure & Tools"
     },
     {
       "label": "Relational Database",
       "file_type": "document",
       "source_file": "content/french",
       "id": "relational_database",
-      "community": 2,
-      "norm_label": "relational database"
+      "community": "Data Infrastructure & Tools"
     },
     {
       "label": "Snowflake Schema",
       "file_type": "document",
       "source_file": "content/french",
       "id": "snowflake_schema",
-      "community": 2,
-      "norm_label": "snowflake schema"
+      "community": "Data Infrastructure & Tools"
+    },
+    {
+      "label": "PostgreSQL",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "postgresql",
+      "community": "Data Infrastructure & Tools"
+    },
+    {
+      "label": "Python",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "python",
+      "community": "Python Language"
+    },
+    {
+      "label": "Streamlit",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "streamlit",
+      "community": "Environmental Research & GHG Studies"
+    },
+    {
+      "label": "Heroku",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "heroku",
+      "community": "Environmental Research & GHG Studies"
+    },
+    {
+      "label": "Tableau",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "tableau",
+      "community": "Professional Network & Institutions"
+    },
+    {
+      "label": "Google BigQuery",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "google_bigquery",
+      "community": "Google Cloud BI"
+    },
+    {
+      "label": "Google Data Studio",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "google_data_studio",
+      "community": "Google Cloud BI"
+    },
+    {
+      "label": "Conda",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "conda",
+      "community": "Professional Network & Institutions"
+    },
+    {
+      "label": "venv",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "venv",
+      "community": "Professional Network & Institutions"
+    },
+    {
+      "label": "Machine Learning",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "machine_learning",
+      "community": "Machine Learning Techniques"
     },
     {
       "label": "Geostatistics",
       "file_type": "document",
       "source_file": "content/french",
       "id": "geostatistics",
-      "community": 10,
-      "norm_label": "geostatistics"
+      "community": "Geospatial Modelling"
+    },
+    {
+      "label": "Random Forest",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "random_forest",
+      "community": "Machine Learning Techniques"
+    },
+    {
+      "label": "Kriging",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "kriging",
+      "community": "Geospatial Modelling"
     },
     {
       "label": "Key Performance Indicator",
       "file_type": "document",
       "source_file": "content/french",
       "id": "kpi",
-      "community": 11,
-      "norm_label": "key performance indicator"
+      "community": "Agriculture & Soil Modelling"
     },
     {
       "label": "Agricultural Management Practices",
       "file_type": "document",
       "source_file": "content/french",
       "id": "agricultural_management_practices",
-      "community": 11,
-      "norm_label": "agricultural management practices"
+      "community": "Agriculture & Soil Modelling"
     },
     {
       "label": "Soil Multifunctionality",
       "file_type": "document",
       "source_file": "content/french",
       "id": "soil_multifunctionality",
-      "community": 11,
-      "norm_label": "soil multifunctionality"
+      "community": "Agriculture & Soil Modelling"
+    },
+    {
+      "label": "Brajesh K. Singh",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "brajesh_k_singh",
+      "community": "Professional Network & Institutions"
+    },
+    {
+      "label": "Smriti Rayu",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "smriti_rayu",
+      "community": "Research Supervision & Chemistry"
+    },
+    {
+      "label": "Catarina S. Martins",
+      "file_type": "document",
+      "source_file": "content/french",
+      "id": "catarina_s_martins",
+      "community": "Professional Network & Institutions"
     },
     {
       "label": "Scientific Publications",
       "file_type": "document",
       "source_file": "content/french",
       "id": "scientific_publications",
-      "community": 0,
-      "norm_label": "scientific publications"
+      "community": "Professional Network & Institutions"
     }
   ],
-  "links": [
+  "edges": [
     {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\assets\\js\\script.js",
-      "source_location": "L18",
-      "weight": 1.0,
-      "_src": "assets_js_script_js",
-      "_tgt": "script_counter",
-      "source": "assets_js_script_js",
-      "target": "script_counter",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\assets\\js\\script.js",
-      "source_location": "L56",
-      "weight": 1.0,
-      "_src": "assets_js_script_js",
-      "_tgt": "script_smoothscroll",
-      "source": "assets_js_script_js",
-      "target": "script_smoothscroll",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\assets\\js\\script.js",
-      "source_location": "L129",
-      "weight": 1.0,
-      "_src": "assets_js_script_js",
-      "_tgt": "script_sliderbackground",
-      "source": "assets_js_script_js",
-      "target": "script_sliderbackground",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
-      "source_location": "L7",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_waypoints_min_js",
-      "_tgt": "jquery_waypoints_min_t",
-      "source": "static_plugins_jquery_waypoints_min_js",
-      "target": "jquery_waypoints_min_t",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
-      "source_location": "L7",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_waypoints_min_js",
-      "_tgt": "jquery_waypoints_min_e",
-      "source": "static_plugins_jquery_waypoints_min_js",
-      "target": "jquery_waypoints_min_e",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
-      "source_location": "L7",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_waypoints_min_js",
-      "_tgt": "jquery_waypoints_min_i",
-      "source": "static_plugins_jquery_waypoints_min_js",
-      "target": "jquery_waypoints_min_i",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jquery.waypoints.min.js",
-      "source_location": "L7",
-      "weight": 1.0,
-      "_src": "jquery_waypoints_min_t",
-      "_tgt": "jquery_waypoints_min_e",
-      "source": "jquery_waypoints_min_t",
-      "target": "jquery_waypoints_min_e",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "weight": 1.0,
-      "_src": "static_plugins_wow_min_js",
-      "_tgt": "wow_min_c",
-      "source": "static_plugins_wow_min_js",
-      "target": "wow_min_c",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "weight": 1.0,
-      "_src": "static_plugins_wow_min_js",
-      "_tgt": "wow_min_d",
-      "source": "static_plugins_wow_min_js",
-      "target": "wow_min_d",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "weight": 1.0,
-      "_src": "static_plugins_wow_min_js",
-      "_tgt": "wow_min_e",
-      "source": "static_plugins_wow_min_js",
-      "target": "wow_min_e",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "weight": 1.0,
-      "_src": "static_plugins_wow_min_js",
-      "_tgt": "wow_min_f",
-      "source": "static_plugins_wow_min_js",
-      "target": "wow_min_f",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "weight": 1.0,
-      "_src": "static_plugins_wow_min_js",
-      "_tgt": "wow_min_g",
-      "source": "static_plugins_wow_min_js",
-      "target": "wow_min_g",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "weight": 1.0,
-      "_src": "static_plugins_wow_min_js",
-      "_tgt": "wow_min_h",
-      "source": "static_plugins_wow_min_js",
-      "target": "wow_min_h",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "weight": 1.0,
-      "_src": "static_plugins_wow_min_js",
-      "_tgt": "wow_min_i",
-      "source": "static_plugins_wow_min_js",
-      "target": "wow_min_i",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "weight": 1.0,
-      "_src": "static_plugins_wow_min_js",
-      "_tgt": "wow_min_j",
-      "source": "static_plugins_wow_min_js",
-      "target": "wow_min_j",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "weight": 1.0,
-      "_src": "static_plugins_wow_min_js",
-      "_tgt": "wow_min_k",
-      "source": "static_plugins_wow_min_js",
-      "target": "wow_min_k",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "weight": 1.0,
-      "_src": "static_plugins_wow_min_js",
-      "_tgt": "wow_min_a",
-      "source": "static_plugins_wow_min_js",
-      "target": "wow_min_a",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "weight": 1.0,
-      "_src": "wow_min_a",
-      "_tgt": "wow_min_c",
-      "source": "wow_min_c",
-      "target": "wow_min_a",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "weight": 1.0,
-      "_src": "wow_min_a",
-      "_tgt": "wow_min_e",
-      "source": "wow_min_e",
-      "target": "wow_min_a",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\wow.min.js",
-      "source_location": "L3",
-      "weight": 1.0,
-      "_src": "wow_min_a",
-      "_tgt": "wow_min_g",
-      "source": "wow_min_g",
-      "target": "wow_min_a",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
+      "relation": "describes_same_professional_profile",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "bootstrap_min_o",
-      "_tgt": "wow_min_g",
-      "source": "wow_min_g",
-      "target": "bootstrap_min_o"
+      "source_file": "content/english",
+      "_src": "cv",
+      "_tgt": "about",
+      "source": "about",
+      "target": "cv"
     },
     {
-      "relation": "calls",
+      "relation": "describes_service_capabilities",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "bootstrap_min_e",
-      "_tgt": "wow_min_g",
-      "source": "wow_min_g",
-      "target": "bootstrap_min_e"
+      "source_file": "content/english",
+      "_src": "about",
+      "_tgt": "service",
+      "source": "about",
+      "target": "service"
     },
     {
-      "relation": "calls",
+      "relation": "presents_related_projects",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "bootstrap_min_n",
-      "_tgt": "wow_min_g",
-      "source": "wow_min_g",
-      "target": "bootstrap_min_n"
+      "source_file": "content/english",
+      "_src": "about",
+      "_tgt": "portfolio_index",
+      "source": "about",
+      "target": "portfolio_index"
     },
     {
-      "relation": "calls",
+      "relation": "introduces",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "bootstrap_min_t",
-      "_tgt": "wow_min_g",
-      "source": "wow_min_g",
-      "target": "bootstrap_min_t"
+      "source_file": "content/english",
+      "_src": "banner",
+      "_tgt": "about",
+      "source": "about",
+      "target": "banner"
     },
     {
-      "relation": "calls",
+      "relation": "links_to_contact_section",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english",
+      "_src": "call_to_action",
+      "_tgt": "contact",
+      "source": "call_to_action",
+      "target": "contact"
+    },
+    {
+      "relation": "links_to_contact_section",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english",
+      "_src": "testimonial",
+      "_tgt": "contact",
+      "source": "contact",
+      "target": "testimonial"
+    },
+    {
+      "relation": "summarises_related_projects",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_se",
-      "_tgt": "wow_min_g",
-      "source": "wow_min_g",
-      "target": "jquery_min_se"
+      "source_file": "content/english",
+      "_src": "cv",
+      "_tgt": "portfolio_index",
+      "source": "cv",
+      "target": "portfolio_index"
     },
     {
-      "relation": "calls",
+      "relation": "links_to",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english",
+      "_src": "blog_python_virtual_environments",
+      "_tgt": "portfolio_python_virtual_environment",
+      "source": "blog_python_virtual_environments",
+      "target": "portfolio_python_virtual_environment"
+    },
+    {
+      "relation": "links_to",
+      "confidence": "EXTRACTED",
+      "source_file": "content/english",
+      "_src": "blog_python_virtual_environments",
+      "_tgt": "portfolio_python_virtual_env_conda",
+      "source": "blog_python_virtual_environments",
+      "target": "portfolio_python_virtual_env_conda"
+    },
+    {
+      "relation": "shares_version_control_topic",
+      "confidence": "AMBIGUOUS",
+      "source_file": "content/english",
+      "_src": "portfolio_github_repo",
+      "_tgt": "blog_python_virtual_environments",
+      "source": "blog_python_virtual_environments",
+      "target": "portfolio_github_repo"
+    },
+    {
+      "relation": "covers_related_research",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ce",
-      "_tgt": "wow_min_g",
-      "source": "wow_min_g",
-      "target": "jquery_min_ce"
+      "source_file": "content/english",
+      "_src": "blog_my_research_journey",
+      "_tgt": "portfolio_eucface",
+      "source": "blog_my_research_journey",
+      "target": "portfolio_eucface"
     },
     {
-      "relation": "calls",
+      "relation": "covers_related_research",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ae",
-      "_tgt": "wow_min_k",
-      "source": "wow_min_k",
-      "target": "jquery_min_ae"
+      "source_file": "content/english",
+      "_src": "blog_from_lab_bench_to_data_desk",
+      "_tgt": "blog_my_research_journey",
+      "source": "blog_my_research_journey",
+      "target": "blog_from_lab_bench_to_data_desk"
     },
     {
-      "relation": "calls",
+      "relation": "covers_related_research",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_oe",
-      "_tgt": "wow_min_k",
-      "source": "wow_min_k",
-      "target": "jquery_min_oe"
+      "source_file": "content/english",
+      "_src": "blog_my_research_journey",
+      "_tgt": "portfolio_geographical_modelling",
+      "source": "blog_my_research_journey",
+      "target": "portfolio_geographical_modelling"
     },
     {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "static_plugins_bootstrap_bootstrap_min_js",
-      "_tgt": "bootstrap_min_i",
-      "source": "static_plugins_bootstrap_bootstrap_min_js",
-      "target": "bootstrap_min_i",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "static_plugins_bootstrap_bootstrap_min_js",
-      "_tgt": "bootstrap_min_s",
-      "source": "static_plugins_bootstrap_bootstrap_min_js",
-      "target": "bootstrap_min_s",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "static_plugins_bootstrap_bootstrap_min_js",
-      "_tgt": "bootstrap_min_e",
-      "source": "static_plugins_bootstrap_bootstrap_min_js",
-      "target": "bootstrap_min_e",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "static_plugins_bootstrap_bootstrap_min_js",
-      "_tgt": "bootstrap_min_l",
-      "source": "static_plugins_bootstrap_bootstrap_min_js",
-      "target": "bootstrap_min_l",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "static_plugins_bootstrap_bootstrap_min_js",
-      "_tgt": "bootstrap_min_o",
-      "source": "static_plugins_bootstrap_bootstrap_min_js",
-      "target": "bootstrap_min_o",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "static_plugins_bootstrap_bootstrap_min_js",
-      "_tgt": "bootstrap_min_n",
-      "source": "static_plugins_bootstrap_bootstrap_min_js",
-      "target": "bootstrap_min_n",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "static_plugins_bootstrap_bootstrap_min_js",
-      "_tgt": "bootstrap_min_r",
-      "source": "static_plugins_bootstrap_bootstrap_min_js",
-      "target": "bootstrap_min_r",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "static_plugins_bootstrap_bootstrap_min_js",
-      "_tgt": "bootstrap_min_a",
-      "source": "static_plugins_bootstrap_bootstrap_min_js",
-      "target": "bootstrap_min_a",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "static_plugins_bootstrap_bootstrap_min_js",
-      "_tgt": "bootstrap_min_c",
-      "source": "static_plugins_bootstrap_bootstrap_min_js",
-      "target": "bootstrap_min_c",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "static_plugins_bootstrap_bootstrap_min_js",
-      "_tgt": "bootstrap_min_we",
-      "source": "static_plugins_bootstrap_bootstrap_min_js",
-      "target": "bootstrap_min_we",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "static_plugins_bootstrap_bootstrap_min_js",
-      "_tgt": "bootstrap_min_t",
-      "source": "static_plugins_bootstrap_bootstrap_min_js",
-      "target": "bootstrap_min_t",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "bootstrap_min_s",
-      "_tgt": "bootstrap_min_i",
-      "source": "bootstrap_min_i",
-      "target": "bootstrap_min_s",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "bootstrap_min_we",
-      "_tgt": "bootstrap_min_i",
-      "source": "bootstrap_min_i",
-      "target": "bootstrap_min_we",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "bootstrap_min_l",
-      "_tgt": "bootstrap_min_e",
-      "source": "bootstrap_min_e",
-      "target": "bootstrap_min_l",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "bootstrap_min_we",
-      "_tgt": "bootstrap_min_e",
-      "source": "bootstrap_min_e",
-      "target": "bootstrap_min_we",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\bootstrap\\bootstrap.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "bootstrap_min_e",
-      "_tgt": "bootstrap_min_t",
-      "source": "bootstrap_min_e",
-      "target": "bootstrap_min_t",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_b",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_b",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_w",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_w",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_d",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_d",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_se",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_se",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_ue",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_ue",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_le",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_le",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_ce",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_ce",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_fe",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_fe",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_pe",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_pe",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_de",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_de",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_he",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_he",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_ge",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_ge",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_ve",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_ve",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_ye",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_ye",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_me",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_me",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_xe",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_xe",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_be",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_be",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_we",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_we",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_te",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_te",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_ee",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_ee",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_a",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_a",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_j",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_j",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_p",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_p",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_m",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_m",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_i",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_i",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_l",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_l",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_x",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_x",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_v",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_v",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_y",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_y",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_ke",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_ke",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_ne",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_ne",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_ae",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_ae",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_oe",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_oe",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_re",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_re",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_ie",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_ie",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_e",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_e",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_ze",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_ze",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_t",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_t",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_et",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_et",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_tt",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_tt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_nt",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_nt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_lt",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_lt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_ct",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_ct",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_ft",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_ft",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_pt",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_pt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_dt",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_dt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_mt",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_mt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_xt",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_xt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_bt",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_bt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_qt",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_qt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "static_plugins_jquery_jquery_min_js",
-      "_tgt": "jquery_min_zt",
-      "source": "static_plugins_jquery_jquery_min_js",
-      "target": "jquery_min_zt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ie",
-      "_tgt": "jquery_min_b",
-      "source": "jquery_min_b",
-      "target": "jquery_min_ie",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_d",
-      "_tgt": "jquery_min_w",
-      "source": "jquery_min_w",
-      "target": "jquery_min_d",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_w",
-      "_tgt": "jquery_min_m",
-      "source": "jquery_min_w",
-      "target": "jquery_min_m",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_we",
-      "_tgt": "jquery_min_w",
-      "source": "jquery_min_w",
-      "target": "jquery_min_we",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_qt",
-      "_tgt": "jquery_min_w",
-      "source": "jquery_min_w",
-      "target": "jquery_min_qt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_d",
-      "_tgt": "jquery_min_m",
-      "source": "jquery_min_d",
-      "target": "jquery_min_m",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_d",
-      "_tgt": "jquery_min_x",
-      "source": "jquery_min_d",
-      "target": "jquery_min_x",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_se",
-      "_tgt": "jquery_min_t",
-      "source": "jquery_min_se",
-      "target": "jquery_min_t",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_se",
-      "_tgt": "jquery_min_y",
-      "source": "jquery_min_se",
-      "target": "jquery_min_y",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_se",
-      "_tgt": "jquery_min_xe",
-      "source": "jquery_min_se",
-      "target": "jquery_min_xe",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_se",
-      "_tgt": "jquery_min_ye",
-      "source": "jquery_min_se",
-      "target": "jquery_min_ye",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_se",
-      "_tgt": "jquery_min_a",
-      "source": "jquery_min_se",
-      "target": "jquery_min_a",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ce",
-      "_tgt": "jquery_min_se",
-      "source": "jquery_min_se",
-      "target": "jquery_min_ce",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_fe",
-      "_tgt": "jquery_min_se",
-      "source": "jquery_min_se",
-      "target": "jquery_min_fe",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
+      "relation": "covers_related_research",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_se",
-      "_tgt": "text_animation_h",
-      "source": "jquery_min_se",
-      "target": "text_animation_h"
+      "source_file": "content/english",
+      "_src": "blog_my_research_journey",
+      "_tgt": "portfolio_ghg_modelling",
+      "source": "blog_my_research_journey",
+      "target": "portfolio_ghg_modelling"
     },
     {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ve",
-      "_tgt": "jquery_min_le",
-      "source": "jquery_min_le",
-      "target": "jquery_min_ve",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ce",
-      "_tgt": "jquery_min_le",
-      "source": "jquery_min_le",
-      "target": "jquery_min_ce",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
+      "relation": "summarises",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_le",
-      "_tgt": "shuffle_min_s",
-      "source": "jquery_min_le",
-      "target": "shuffle_min_s"
+      "source_file": "content/english",
+      "_src": "blog_my_research_journey",
+      "_tgt": "portfolio_scientific_publications",
+      "source": "blog_my_research_journey",
+      "target": "portfolio_scientific_publications"
     },
     {
-      "relation": "calls",
+      "relation": "links_to",
       "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ce",
-      "_tgt": "jquery_min_te",
-      "source": "jquery_min_ce",
-      "target": "jquery_min_te",
-      "confidence_score": 1.0
+      "source_file": "content/english",
+      "_src": "blog_ghg_emissions_data_analysis",
+      "_tgt": "portfolio_eucface",
+      "source": "blog_ghg_emissions_data_analysis",
+      "target": "portfolio_eucface"
     },
     {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ce",
-      "_tgt": "jquery_min_v",
-      "source": "jquery_min_ce",
-      "target": "jquery_min_v",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ce",
-      "_tgt": "jquery_min_y",
-      "source": "jquery_min_ce",
-      "target": "jquery_min_y",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ce",
-      "_tgt": "jquery_min_p",
-      "source": "jquery_min_ce",
-      "target": "jquery_min_p",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ee",
-      "_tgt": "jquery_min_ce",
-      "source": "jquery_min_ce",
-      "target": "jquery_min_ee",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
+      "relation": "uses_related_tooling",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ce",
-      "_tgt": "shuffle_min_e",
-      "source": "jquery_min_ce",
-      "target": "shuffle_min_e"
+      "source_file": "content/english",
+      "_src": "blog_ghg_emissions_data_analysis",
+      "_tgt": "portfolio_dashboard",
+      "source": "blog_ghg_emissions_data_analysis",
+      "target": "portfolio_dashboard"
     },
     {
-      "relation": "calls",
+      "relation": "links_to",
       "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_e",
-      "_tgt": "jquery_min_fe",
-      "source": "jquery_min_fe",
-      "target": "jquery_min_e",
-      "confidence_score": 1.0
+      "source_file": "content/english",
+      "_src": "blog_ghg_emissions_data_analysis",
+      "_tgt": "portfolio_ghg_modelling",
+      "source": "blog_ghg_emissions_data_analysis",
+      "target": "portfolio_ghg_modelling"
     },
     {
-      "relation": "calls",
+      "relation": "links_to",
       "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_tt",
-      "_tgt": "jquery_min_fe",
-      "source": "jquery_min_fe",
-      "target": "jquery_min_tt",
-      "confidence_score": 1.0
+      "source_file": "content/english",
+      "_src": "blog_ghg_emissions_data_analysis",
+      "_tgt": "portfolio_geographical_modelling",
+      "source": "blog_ghg_emissions_data_analysis",
+      "target": "portfolio_geographical_modelling"
     },
     {
-      "relation": "calls",
+      "relation": "uses_related_workflow",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_de",
-      "_tgt": "text_animation_o",
-      "source": "jquery_min_de",
-      "target": "text_animation_o"
+      "source_file": "content/english",
+      "_src": "blog_ghg_emissions_data_analysis",
+      "_tgt": "portfolio_data_pipeline",
+      "source": "blog_ghg_emissions_data_analysis",
+      "target": "portfolio_data_pipeline"
     },
     {
-      "relation": "calls",
+      "relation": "links_to",
       "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ge",
-      "_tgt": "jquery_min_ae",
-      "source": "jquery_min_ge",
-      "target": "jquery_min_ae",
-      "confidence_score": 1.0
+      "source_file": "content/english",
+      "_src": "blog_from_lab_bench_to_data_desk",
+      "_tgt": "portfolio_scientific_publications",
+      "source": "blog_from_lab_bench_to_data_desk",
+      "target": "portfolio_scientific_publications"
     },
     {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ve",
-      "_tgt": "jquery_min_a",
-      "source": "jquery_min_ve",
-      "target": "jquery_min_a",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_we",
-      "_tgt": "jquery_min_ve",
-      "source": "jquery_min_ve",
-      "target": "jquery_min_we",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ie",
-      "_tgt": "jquery_min_ve",
-      "source": "jquery_min_ve",
-      "target": "jquery_min_ie",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_we",
-      "_tgt": "jquery_min_ye",
-      "source": "jquery_min_ye",
-      "target": "jquery_min_we",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ee",
-      "_tgt": "jquery_min_xe",
-      "source": "jquery_min_xe",
-      "target": "jquery_min_ee",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ee",
-      "_tgt": "jquery_min_be",
-      "source": "jquery_min_be",
-      "target": "jquery_min_ee",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
+      "relation": "covers_related_career_history",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_be",
-      "_tgt": "shuffle_min_s",
-      "source": "jquery_min_be",
-      "target": "shuffle_min_s"
+      "source_file": "content/english",
+      "_src": "blog_from_bordeaux_to_scotland",
+      "_tgt": "blog_from_lab_bench_to_data_desk",
+      "source": "blog_from_lab_bench_to_data_desk",
+      "target": "blog_from_bordeaux_to_scotland"
     },
     {
-      "relation": "calls",
+      "relation": "links_to",
       "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ee",
-      "_tgt": "jquery_min_we",
-      "source": "jquery_min_we",
-      "target": "jquery_min_ee",
-      "confidence_score": 1.0
+      "source_file": "content/english",
+      "_src": "blog_data_pipeline_best_practices",
+      "_tgt": "portfolio_google_bigquery_datastudio",
+      "source": "blog_data_pipeline_best_practices",
+      "target": "portfolio_google_bigquery_datastudio"
     },
     {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_we",
-      "_tgt": "jquery_min_oe",
-      "source": "jquery_min_we",
-      "target": "jquery_min_oe",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ie",
-      "_tgt": "jquery_min_we",
-      "source": "jquery_min_we",
-      "target": "jquery_min_ie",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
+      "relation": "covers_related_workflow",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_te",
-      "_tgt": "shuffle_min_n",
-      "source": "jquery_min_te",
-      "target": "shuffle_min_n"
+      "source_file": "content/english",
+      "_src": "blog_data_pipeline_best_practices",
+      "_tgt": "portfolio_data_pipeline",
+      "source": "blog_data_pipeline_best_practices",
+      "target": "portfolio_data_pipeline"
     },
     {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ee",
-      "_tgt": "jquery_min_p",
-      "source": "jquery_min_ee",
-      "target": "jquery_min_p",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ee",
-      "_tgt": "jquery_min_l",
-      "source": "jquery_min_ee",
-      "target": "jquery_min_l",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_oe",
-      "_tgt": "jquery_min_a",
-      "source": "jquery_min_a",
-      "target": "jquery_min_oe",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_l",
-      "_tgt": "jquery_min_a",
-      "source": "jquery_min_a",
-      "target": "jquery_min_l",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_j",
-      "_tgt": "jquery_min_m",
-      "source": "jquery_min_j",
-      "target": "jquery_min_m",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_l",
-      "_tgt": "jquery_min_m",
-      "source": "jquery_min_m",
-      "target": "jquery_min_l",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ie",
-      "_tgt": "jquery_min_m",
-      "source": "jquery_min_m",
-      "target": "jquery_min_ie",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_dt",
-      "_tgt": "jquery_min_m",
-      "source": "jquery_min_m",
-      "target": "jquery_min_dt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_bt",
-      "_tgt": "jquery_min_m",
-      "source": "jquery_min_m",
-      "target": "jquery_min_bt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_qt",
-      "_tgt": "jquery_min_i",
-      "source": "jquery_min_i",
-      "target": "jquery_min_qt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_t",
-      "_tgt": "jquery_min_l",
-      "source": "jquery_min_l",
-      "target": "jquery_min_t",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
+      "relation": "covers_related_workflow",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_l",
-      "_tgt": "shuffle_min_e",
-      "source": "jquery_min_l",
-      "target": "shuffle_min_e"
+      "source_file": "content/english",
+      "_src": "blog_data_pipeline_best_practices",
+      "_tgt": "portfolio_google_bi",
+      "source": "blog_data_pipeline_best_practices",
+      "target": "portfolio_google_bi"
     },
     {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_dt",
-      "_tgt": "jquery_min_v",
-      "source": "jquery_min_v",
-      "target": "jquery_min_dt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_e",
-      "_tgt": "jquery_min_oe",
-      "source": "jquery_min_oe",
-      "target": "jquery_min_e",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_e",
-      "_tgt": "jquery_min_t",
-      "source": "jquery_min_e",
-      "target": "jquery_min_t",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_tt",
-      "_tgt": "jquery_min_e",
-      "source": "jquery_min_e",
-      "target": "jquery_min_tt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
+      "relation": "shares_etl_topic",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_ze",
-      "_tgt": "shuffle_min_e",
-      "source": "jquery_min_ze",
-      "target": "shuffle_min_e"
+      "source_file": "content/english",
+      "_src": "portfolio_alteryx",
+      "_tgt": "portfolio_data_pipeline",
+      "source": "portfolio_alteryx",
+      "target": "portfolio_data_pipeline"
     },
     {
-      "relation": "calls",
+      "relation": "visualises_related_subject",
+      "confidence": "AMBIGUOUS",
+      "source_file": "content/english",
+      "_src": "portfolio_tableau_dashboard",
+      "_tgt": "portfolio_ghg_modelling",
+      "source": "portfolio_tableau_dashboard",
+      "target": "portfolio_ghg_modelling"
+    },
+    {
+      "relation": "references",
       "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_tt",
-      "_tgt": "jquery_min_et",
-      "source": "jquery_min_et",
-      "target": "jquery_min_tt",
-      "confidence_score": 1.0
+      "source_file": "content/english",
+      "_src": "portfolio_ghg_modelling",
+      "_tgt": "portfolio_scientific_publications",
+      "source": "portfolio_scientific_publications",
+      "target": "portfolio_ghg_modelling"
     },
     {
-      "relation": "calls",
+      "relation": "references",
       "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\jQuery\\jquery.min.js",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_src": "jquery_min_dt",
-      "_tgt": "jquery_min_ct",
-      "source": "jquery_min_ct",
-      "target": "jquery_min_dt",
-      "confidence_score": 1.0
+      "source_file": "content/english",
+      "_src": "portfolio_geographical_modelling",
+      "_tgt": "portfolio_scientific_publications",
+      "source": "portfolio_scientific_publications",
+      "target": "portfolio_geographical_modelling"
     },
     {
-      "relation": "contains",
+      "relation": "references",
       "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
-      "source_location": "L7",
-      "weight": 1.0,
-      "_src": "static_plugins_owl_carousel_owl_carousel_min_js",
-      "_tgt": "owl_carousel_min_e",
-      "source": "static_plugins_owl_carousel_owl_carousel_min_js",
-      "target": "owl_carousel_min_e",
-      "confidence_score": 1.0
+      "source_file": "content/english",
+      "_src": "portfolio_kpi_modelling",
+      "_tgt": "portfolio_scientific_publications",
+      "source": "portfolio_scientific_publications",
+      "target": "portfolio_kpi_modelling"
     },
     {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
-      "source_location": "L7",
-      "weight": 1.0,
-      "_src": "static_plugins_owl_carousel_owl_carousel_min_js",
-      "_tgt": "owl_carousel_min_f",
-      "source": "static_plugins_owl_carousel_owl_carousel_min_js",
-      "target": "owl_carousel_min_f",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
-      "source_location": "L7",
-      "weight": 1.0,
-      "_src": "owl_carousel_min_f",
-      "_tgt": "owl_carousel_min_e",
-      "source": "owl_carousel_min_e",
-      "target": "owl_carousel_min_f",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
+      "relation": "compares_related_environment_management",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\owl-carousel\\owl.carousel.min.js",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_src": "owl_carousel_min_e",
-      "_tgt": "shuffle_min_a",
-      "source": "owl_carousel_min_e",
-      "target": "shuffle_min_a"
+      "source_file": "content/english",
+      "_src": "portfolio_python_virtual_environment",
+      "_tgt": "portfolio_python_virtual_env_conda",
+      "source": "portfolio_python_virtual_env_conda",
+      "target": "portfolio_python_virtual_environment"
     },
     {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_shuffle_shuffle_min_js",
-      "_tgt": "shuffle_min_t",
-      "source": "static_plugins_shuffle_shuffle_min_js",
-      "target": "shuffle_min_t",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_shuffle_shuffle_min_js",
-      "_tgt": "shuffle_min_e",
-      "source": "static_plugins_shuffle_shuffle_min_js",
-      "target": "shuffle_min_e",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_shuffle_shuffle_min_js",
-      "_tgt": "shuffle_min_i",
-      "source": "static_plugins_shuffle_shuffle_min_js",
-      "target": "shuffle_min_i",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_shuffle_shuffle_min_js",
-      "_tgt": "shuffle_min_n",
-      "source": "static_plugins_shuffle_shuffle_min_js",
-      "target": "shuffle_min_n",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_shuffle_shuffle_min_js",
-      "_tgt": "shuffle_min_s",
-      "source": "static_plugins_shuffle_shuffle_min_js",
-      "target": "shuffle_min_s",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_shuffle_shuffle_min_js",
-      "_tgt": "shuffle_min_o",
-      "source": "static_plugins_shuffle_shuffle_min_js",
-      "target": "shuffle_min_o",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_shuffle_shuffle_min_js",
-      "_tgt": "shuffle_min_r",
-      "source": "static_plugins_shuffle_shuffle_min_js",
-      "target": "shuffle_min_r",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_shuffle_shuffle_min_js",
-      "_tgt": "shuffle_min_l",
-      "source": "static_plugins_shuffle_shuffle_min_js",
-      "target": "shuffle_min_l",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_shuffle_shuffle_min_js",
-      "_tgt": "shuffle_min_c",
-      "source": "static_plugins_shuffle_shuffle_min_js",
-      "target": "shuffle_min_c",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_shuffle_shuffle_min_js",
-      "_tgt": "shuffle_min_d",
-      "source": "static_plugins_shuffle_shuffle_min_js",
-      "target": "shuffle_min_d",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_shuffle_shuffle_min_js",
-      "_tgt": "shuffle_min_z",
-      "source": "static_plugins_shuffle_shuffle_min_js",
-      "target": "shuffle_min_z",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_shuffle_shuffle_min_js",
-      "_tgt": "shuffle_min_m",
-      "source": "static_plugins_shuffle_shuffle_min_js",
-      "target": "shuffle_min_m",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_shuffle_shuffle_min_js",
-      "_tgt": "shuffle_min_a",
-      "source": "static_plugins_shuffle_shuffle_min_js",
-      "target": "shuffle_min_a",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_shuffle_shuffle_min_js",
-      "_tgt": "shuffle_min_f",
-      "source": "static_plugins_shuffle_shuffle_min_js",
-      "target": "shuffle_min_f",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_shuffle_shuffle_min_js",
-      "_tgt": "shuffle_min_x",
-      "source": "static_plugins_shuffle_shuffle_min_js",
-      "target": "shuffle_min_x",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "shuffle_min_e",
-      "_tgt": "shuffle_min_t",
-      "source": "shuffle_min_t",
-      "target": "shuffle_min_e",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "shuffle_min_r",
-      "_tgt": "shuffle_min_t",
-      "source": "shuffle_min_t",
-      "target": "shuffle_min_r",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "shuffle_min_i",
-      "_tgt": "shuffle_min_e",
-      "source": "shuffle_min_e",
-      "target": "shuffle_min_i",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "shuffle_min_e",
-      "_tgt": "shuffle_min_d",
-      "source": "shuffle_min_e",
-      "target": "shuffle_min_d",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "shuffle_min_l",
-      "_tgt": "shuffle_min_e",
-      "source": "shuffle_min_e",
-      "target": "shuffle_min_l",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
+      "relation": "shares_statistical_modelling_topic",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "text_animation_l",
-      "_tgt": "shuffle_min_e",
-      "source": "shuffle_min_e",
-      "target": "text_animation_l"
+      "source_file": "content/english",
+      "_src": "portfolio_kpi_modelling",
+      "_tgt": "portfolio_geographical_modelling",
+      "source": "portfolio_kpi_modelling",
+      "target": "portfolio_geographical_modelling"
     },
     {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "shuffle_min_i",
-      "_tgt": "shuffle_min_d",
-      "source": "shuffle_min_i",
-      "target": "shuffle_min_d",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "shuffle_min_r",
-      "_tgt": "shuffle_min_i",
-      "source": "shuffle_min_i",
-      "target": "shuffle_min_r",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "shuffle_min_r",
-      "_tgt": "shuffle_min_n",
-      "source": "shuffle_min_n",
-      "target": "shuffle_min_r",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
+      "relation": "shares_technology",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "text_animation_l",
-      "_tgt": "shuffle_min_s",
-      "source": "shuffle_min_s",
-      "target": "text_animation_l"
+      "source_file": "content/english",
+      "_src": "portfolio_google_bigquery_datastudio",
+      "_tgt": "portfolio_google_bi",
+      "source": "portfolio_google_bigquery_datastudio",
+      "target": "portfolio_google_bi"
     },
     {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "shuffle_min_r",
-      "_tgt": "shuffle_min_o",
-      "source": "shuffle_min_o",
-      "target": "shuffle_min_r",
-      "confidence_score": 1.0
+      "relation": "provides_experimental_context",
+      "confidence": "INFERRED",
+      "source_file": "content/english",
+      "_src": "portfolio_eucface",
+      "_tgt": "portfolio_ghg_modelling",
+      "source": "portfolio_ghg_modelling",
+      "target": "portfolio_eucface"
     },
     {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "shuffle_min_l",
-      "_tgt": "shuffle_min_c",
-      "source": "shuffle_min_l",
-      "target": "shuffle_min_c",
-      "confidence_score": 1.0
+      "relation": "shares_ghg_analysis_subject",
+      "confidence": "INFERRED",
+      "source_file": "content/english",
+      "_src": "portfolio_ghg_modelling",
+      "_tgt": "portfolio_dashboard",
+      "source": "portfolio_ghg_modelling",
+      "target": "portfolio_dashboard"
     },
     {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\shuffle\\shuffle.min.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "shuffle_min_m",
-      "_tgt": "shuffle_min_d",
-      "source": "shuffle_min_d",
-      "target": "shuffle_min_m",
-      "confidence_score": 1.0
+      "relation": "shares_ghg_analysis_subject",
+      "confidence": "INFERRED",
+      "source_file": "content/english",
+      "_src": "portfolio_ghg_modelling",
+      "_tgt": "portfolio_data_pipeline",
+      "source": "portfolio_ghg_modelling",
+      "target": "portfolio_data_pipeline"
     },
     {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_text_animation_text_animation_js",
-      "_tgt": "text_animation_l",
-      "source": "static_plugins_text_animation_text_animation_js",
-      "target": "text_animation_l",
-      "confidence_score": 1.0
+      "relation": "provides_data_context",
+      "confidence": "INFERRED",
+      "source_file": "content/english",
+      "_src": "portfolio_eucface",
+      "_tgt": "portfolio_database_modelling",
+      "source": "portfolio_eucface",
+      "target": "portfolio_database_modelling"
     },
     {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_text_animation_text_animation_js",
-      "_tgt": "text_animation_r",
-      "source": "static_plugins_text_animation_text_animation_js",
-      "target": "text_animation_r",
-      "confidence_score": 1.0
+      "relation": "provides_data_context",
+      "confidence": "INFERRED",
+      "source_file": "content/english",
+      "_src": "portfolio_eucface",
+      "_tgt": "portfolio_dashboard",
+      "source": "portfolio_eucface",
+      "target": "portfolio_dashboard"
     },
     {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_text_animation_text_animation_js",
-      "_tgt": "text_animation_o",
-      "source": "static_plugins_text_animation_text_animation_js",
-      "target": "text_animation_o",
-      "confidence_score": 1.0
+      "relation": "provides_data_context",
+      "confidence": "INFERRED",
+      "source_file": "content/english",
+      "_src": "portfolio_eucface",
+      "_tgt": "portfolio_data_pipeline",
+      "source": "portfolio_eucface",
+      "target": "portfolio_data_pipeline"
     },
     {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_text_animation_text_animation_js",
-      "_tgt": "text_animation_c",
-      "source": "static_plugins_text_animation_text_animation_js",
-      "target": "text_animation_c",
-      "confidence_score": 1.0
+      "relation": "shares_deployment_topic",
+      "confidence": "INFERRED",
+      "source_file": "content/english",
+      "_src": "portfolio_dashboard",
+      "_tgt": "portfolio_deploy_web_app_heroku",
+      "source": "portfolio_deploy_web_app_heroku",
+      "target": "portfolio_dashboard"
     },
     {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "static_plugins_text_animation_text_animation_js",
-      "_tgt": "text_animation_h",
-      "source": "static_plugins_text_animation_text_animation_js",
-      "target": "text_animation_h",
-      "confidence_score": 1.0
+      "relation": "uses_related_data_preparation",
+      "confidence": "INFERRED",
+      "source_file": "content/english",
+      "_src": "portfolio_dashboard",
+      "_tgt": "portfolio_data_pipeline",
+      "source": "portfolio_data_pipeline",
+      "target": "portfolio_dashboard"
     },
     {
-      "relation": "calls",
+      "relation": "references",
       "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "text_animation_l",
-      "_tgt": "text_animation_c",
-      "source": "text_animation_l",
-      "target": "text_animation_c",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "text_animation_r",
-      "_tgt": "text_animation_l",
-      "source": "text_animation_l",
-      "target": "text_animation_r",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "text_animation_l",
-      "_tgt": "text_animation_h",
-      "source": "text_animation_l",
-      "target": "text_animation_h",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "text_animation_o",
-      "_tgt": "text_animation_l",
-      "source": "text_animation_l",
-      "target": "text_animation_o",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "source_file": "themes\\somrat\\static\\plugins\\text-animation\\text-animation.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_src": "text_animation_r",
-      "_tgt": "text_animation_o",
-      "source": "text_animation_r",
-      "target": "text_animation_o",
-      "confidence_score": 1.0
+      "source_file": "content/english",
+      "_src": "portfolio_database_modelling",
+      "_tgt": "portfolio_dashboard",
+      "source": "portfolio_database_modelling",
+      "target": "portfolio_dashboard"
     },
     {
       "relation": "worked_as_data_consultant_for",
       "confidence": "EXTRACTED",
-      "source_file": "content/english",
+      "source_file": "content/french",
       "_src": "loic_nazaries",
       "_tgt": "softeam",
       "source": "loic_nazaries",
-      "target": "softeam",
-      "confidence_score": 1.0
+      "target": "softeam"
     },
     {
       "relation": "worked_as_data_scientist_and_bi_analyst_for",
@@ -3919,28 +980,25 @@
       "_src": "loic_nazaries",
       "_tgt": "epsyl_alcen_group",
       "source": "loic_nazaries",
-      "target": "epsyl_alcen_group",
-      "confidence_score": 1.0
+      "target": "epsyl_alcen_group"
     },
     {
       "relation": "worked_as_freelance_data_analyst_for",
       "confidence": "EXTRACTED",
-      "source_file": "content/english",
+      "source_file": "content/french",
       "_src": "loic_nazaries",
       "_tgt": "bifora",
       "source": "loic_nazaries",
-      "target": "bifora",
-      "confidence_score": 1.0
+      "target": "bifora"
     },
     {
       "relation": "worked_as_business_intelligence_analyst_for",
       "confidence": "EXTRACTED",
-      "source_file": "content/english",
+      "source_file": "content/french",
       "_src": "loic_nazaries",
       "_tgt": "items_media_concept",
       "source": "loic_nazaries",
-      "target": "items_media_concept",
-      "confidence_score": 1.0
+      "target": "items_media_concept"
     },
     {
       "relation": "worked_as_statistical_research_officer_at",
@@ -3949,288 +1007,7 @@
       "_src": "loic_nazaries",
       "_tgt": "hawkesbury_institute_for_the_environment",
       "source": "loic_nazaries",
-      "target": "hawkesbury_institute_for_the_environment",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "taught_data_visualisation_at",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "iseg",
-      "source": "loic_nazaries",
-      "target": "iseg",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "taught_business_intelligence_at",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "ia_school",
-      "source": "loic_nazaries",
-      "target": "ia_school",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "taught_biostatistics_at",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "diderot_education",
-      "source": "loic_nazaries",
-      "target": "diderot_education",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "earned_bachelors_and_masters_degrees_from",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "loic_nazaries",
-      "_tgt": "robert_gordon_university",
-      "source": "loic_nazaries",
-      "target": "robert_gordon_university",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "worked_part_time_at",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "rowett_research_institute",
-      "source": "loic_nazaries",
-      "target": "rowett_research_institute",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "worked_at",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "james_hutton_institute",
-      "source": "loic_nazaries",
-      "target": "james_hutton_institute",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "worked_with",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "bioss",
-      "source": "loic_nazaries",
-      "target": "bioss",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "pursued_joint_doctorate_with",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "loic_nazaries",
-      "_tgt": "university_of_aberdeen",
-      "source": "loic_nazaries",
-      "target": "university_of_aberdeen",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "earned_doctorate_from",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "loic_nazaries",
-      "_tgt": "university_of_warwick",
-      "source": "loic_nazaries",
-      "target": "university_of_warwick",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "authored_phd_thesis",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "land_use_changes_and_methanotrophic_community_structure_and_function",
-      "source": "loic_nazaries",
-      "target": "land_use_changes_and_methanotrophic_community_structure_and_function",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "supervised_doctoral_research_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "loic_nazaries",
-      "_tgt": "brajesh_k_singh",
-      "source": "loic_nazaries",
-      "target": "brajesh_k_singh",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "completed_python_data_analyst_program_at",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "la_piscine_training_center",
-      "source": "loic_nazaries",
-      "target": "la_piscine_training_center",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "collaborated_with",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "imperial_college_london",
-      "source": "loic_nazaries",
-      "target": "imperial_college_london",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "collaborated_with",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "university_of_minnesota",
-      "source": "loic_nazaries",
-      "target": "university_of_minnesota",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "was_supervised_by",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "loic_nazaries",
-      "_tgt": "smriti_rayu",
-      "source": "loic_nazaries",
-      "target": "smriti_rayu",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "was_supervised_by",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "loic_nazaries",
-      "_tgt": "catarina_s_martins",
-      "source": "loic_nazaries",
-      "target": "catarina_s_martins",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "authored",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "nazaries_et_al_2018",
-      "source": "loic_nazaries",
-      "target": "nazaries_et_al_2018",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "developed_and_applied",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "loic_nazaries",
-      "_tgt": "m_trflp",
-      "source": "loic_nazaries",
-      "target": "m_trflp",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "researched_bioremediation_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "chlorpyrifos",
-      "source": "loic_nazaries",
-      "target": "chlorpyrifos",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "developed",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "kpi_modelling",
-      "source": "loic_nazaries",
-      "target": "kpi_modelling",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "authored",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "nazaries_et_al_2021",
-      "source": "loic_nazaries",
-      "target": "nazaries_et_al_2021",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "coauthored",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "martins_et_al_2021",
-      "source": "loic_nazaries",
-      "target": "martins_et_al_2021",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "built",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "greenhouse_gas_estimation_portal",
-      "source": "loic_nazaries",
-      "target": "greenhouse_gas_estimation_portal",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "uses_for_dashboarding",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "loic_nazaries",
-      "_tgt": "tableau",
-      "source": "loic_nazaries",
-      "target": "tableau",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "uses_for_etl",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "talend",
-      "source": "loic_nazaries",
-      "target": "talend",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "specialises_in",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "business_intelligence",
-      "source": "loic_nazaries",
-      "target": "business_intelligence",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "specialises_in",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "loic_nazaries",
-      "_tgt": "data_visualisation",
-      "source": "loic_nazaries",
-      "target": "data_visualisation",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "uses_for_industrial_defect_detection",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "loic_nazaries",
-      "_tgt": "machine_learning",
-      "source": "loic_nazaries",
-      "target": "machine_learning",
-      "confidence_score": 1.0
+      "target": "hawkesbury_institute_for_the_environment"
     },
     {
       "relation": "completed_python_data_analyst_training_at",
@@ -4239,8 +1016,97 @@
       "_src": "loic_nazaries",
       "_tgt": "la_piscine",
       "source": "loic_nazaries",
-      "target": "la_piscine",
-      "confidence_score": 1.0
+      "target": "la_piscine"
+    },
+    {
+      "relation": "earned_doctorate_from",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "loic_nazaries",
+      "_tgt": "university_of_warwick",
+      "source": "loic_nazaries",
+      "target": "university_of_warwick"
+    },
+    {
+      "relation": "pursued_joint_doctorate_with",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "loic_nazaries",
+      "_tgt": "university_of_aberdeen",
+      "source": "loic_nazaries",
+      "target": "university_of_aberdeen"
+    },
+    {
+      "relation": "earned_bachelors_and_masters_degrees_from",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "loic_nazaries",
+      "_tgt": "robert_gordon_university",
+      "source": "loic_nazaries",
+      "target": "robert_gordon_university"
+    },
+    {
+      "relation": "worked_part_time_at",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "loic_nazaries",
+      "_tgt": "rowett_research_institute",
+      "source": "loic_nazaries",
+      "target": "rowett_research_institute"
+    },
+    {
+      "relation": "worked_at",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "loic_nazaries",
+      "_tgt": "james_hutton_institute",
+      "source": "loic_nazaries",
+      "target": "james_hutton_institute"
+    },
+    {
+      "relation": "worked_with",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "loic_nazaries",
+      "_tgt": "bioss",
+      "source": "loic_nazaries",
+      "target": "bioss"
+    },
+    {
+      "relation": "collaborated_with",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "loic_nazaries",
+      "_tgt": "imperial_college_london",
+      "source": "loic_nazaries",
+      "target": "imperial_college_london"
+    },
+    {
+      "relation": "collaborated_with",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "loic_nazaries",
+      "_tgt": "university_of_minnesota",
+      "source": "loic_nazaries",
+      "target": "university_of_minnesota"
+    },
+    {
+      "relation": "supervised_doctoral_research_of",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "brajesh_k_singh",
+      "_tgt": "loic_nazaries",
+      "source": "loic_nazaries",
+      "target": "brajesh_k_singh"
+    },
+    {
+      "relation": "developed_and_applied",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "loic_nazaries",
+      "_tgt": "m_trflp",
+      "source": "loic_nazaries",
+      "target": "m_trflp"
     },
     {
       "relation": "researched_geographical_distribution_of",
@@ -4249,8 +1115,7 @@
       "_src": "loic_nazaries",
       "_tgt": "methanotrophs",
       "source": "loic_nazaries",
-      "target": "methanotrophs",
-      "confidence_score": 1.0
+      "target": "methanotrophs"
     },
     {
       "relation": "conducted_research_at",
@@ -4259,8 +1124,16 @@
       "_src": "loic_nazaries",
       "_tgt": "eucface_experiment",
       "source": "loic_nazaries",
-      "target": "eucface_experiment",
-      "confidence_score": 1.0
+      "target": "eucface_experiment"
+    },
+    {
+      "relation": "built",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "loic_nazaries",
+      "_tgt": "greenhouse_gas_estimation_portal",
+      "source": "loic_nazaries",
+      "target": "greenhouse_gas_estimation_portal"
     },
     {
       "relation": "built_for",
@@ -4269,8 +1142,16 @@
       "_src": "loic_nazaries",
       "_tgt": "data_pipeline",
       "source": "loic_nazaries",
-      "target": "data_pipeline",
-      "confidence_score": 1.0
+      "target": "data_pipeline"
+    },
+    {
+      "relation": "uses_for_industrial_defect_detection",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "loic_nazaries",
+      "_tgt": "machine_learning",
+      "source": "loic_nazaries",
+      "target": "machine_learning"
     },
     {
       "relation": "uses_for_geographical_modelling",
@@ -4279,8 +1160,7 @@
       "_src": "loic_nazaries",
       "_tgt": "geostatistics",
       "source": "loic_nazaries",
-      "target": "geostatistics",
-      "confidence_score": 1.0
+      "target": "geostatistics"
     },
     {
       "relation": "developed",
@@ -4289,8 +1169,7 @@
       "_src": "loic_nazaries",
       "_tgt": "kpi",
       "source": "loic_nazaries",
-      "target": "kpi",
-      "confidence_score": 1.0
+      "target": "kpi"
     },
     {
       "relation": "uses_for_etl_workflows",
@@ -4299,8 +1178,16 @@
       "_src": "loic_nazaries",
       "_tgt": "google_bigquery",
       "source": "loic_nazaries",
-      "target": "google_bigquery",
-      "confidence_score": 1.0
+      "target": "google_bigquery"
+    },
+    {
+      "relation": "uses_for_dashboarding",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "loic_nazaries",
+      "_tgt": "tableau",
+      "source": "loic_nazaries",
+      "target": "tableau"
     },
     {
       "relation": "documents_virtual_environment_creation_with",
@@ -4309,8 +1196,7 @@
       "_src": "loic_nazaries",
       "_tgt": "venv",
       "source": "loic_nazaries",
-      "target": "venv",
-      "confidence_score": 1.0
+      "target": "venv"
     },
     {
       "relation": "documents_virtual_environment_creation_with",
@@ -4319,8 +1205,25 @@
       "_src": "loic_nazaries",
       "_tgt": "conda",
       "source": "loic_nazaries",
-      "target": "conda",
-      "confidence_score": 1.0
+      "target": "conda"
+    },
+    {
+      "relation": "was_supervised_by",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "smriti_rayu",
+      "_tgt": "loic_nazaries",
+      "source": "loic_nazaries",
+      "target": "smriti_rayu"
+    },
+    {
+      "relation": "was_supervised_by",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "catarina_s_martins",
+      "_tgt": "loic_nazaries",
+      "source": "loic_nazaries",
+      "target": "catarina_s_martins"
     },
     {
       "relation": "authored_and_coauthored",
@@ -4329,68 +1232,34 @@
       "_src": "loic_nazaries",
       "_tgt": "scientific_publications",
       "source": "loic_nazaries",
-      "target": "scientific_publications",
-      "confidence_score": 1.0
+      "target": "scientific_publications"
     },
     {
       "relation": "was_created_for",
       "confidence": "EXTRACTED",
       "source_file": "content/french",
-      "_src": "bifora",
-      "_tgt": "data_pipeline",
+      "_src": "data_pipeline",
+      "_tgt": "bifora",
       "source": "bifora",
-      "target": "data_pipeline",
-      "confidence_score": 1.0
+      "target": "data_pipeline"
     },
     {
       "relation": "is_part_of",
       "confidence": "EXTRACTED",
-      "source_file": "content/english",
+      "source_file": "content/french",
       "_src": "hawkesbury_institute_for_the_environment",
       "_tgt": "western_sydney_university",
-      "source": "hawkesbury_institute_for_the_environment",
-      "target": "western_sydney_university",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "is_hosted_by",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "hawkesbury_institute_for_the_environment",
-      "_tgt": "eucface_experiment",
-      "source": "hawkesbury_institute_for_the_environment",
-      "target": "eucface_experiment",
-      "confidence_score": 1.0
+      "source": "western_sydney_university",
+      "target": "hawkesbury_institute_for_the_environment"
     },
     {
       "relation": "is_operated_by",
       "confidence": "EXTRACTED",
       "source_file": "content/french",
-      "_src": "western_sydney_university",
-      "_tgt": "eucface_experiment",
+      "_src": "eucface_experiment",
+      "_tgt": "western_sydney_university",
       "source": "western_sydney_university",
-      "target": "eucface_experiment",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "researched_biodegradation_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "smriti_rayu",
-      "_tgt": "chlorpyrifos",
-      "source": "smriti_rayu",
-      "target": "chlorpyrifos",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "was_funded_by",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "grains_research_and_development_corporation",
-      "_tgt": "kpi_modelling",
-      "source": "grains_research_and_development_corporation",
-      "target": "kpi_modelling",
-      "confidence_score": 1.0
+      "target": "eucface_experiment"
     },
     {
       "relation": "funded_research_for",
@@ -4399,18 +1268,16 @@
       "_src": "grains_research_and_development_corporation",
       "_tgt": "kpi",
       "source": "grains_research_and_development_corporation",
-      "target": "kpi",
-      "confidence_score": 1.0
+      "target": "kpi"
     },
     {
-      "relation": "provides_data_for",
+      "relation": "measures",
       "confidence": "EXTRACTED",
-      "source_file": "content/english",
+      "source_file": "content/french",
       "_src": "eucface_experiment",
-      "_tgt": "greenhouse_gas_modelling",
+      "_tgt": "greenhouse_gas_emissions",
       "source": "eucface_experiment",
-      "target": "greenhouse_gas_modelling",
-      "confidence_score": 1.0
+      "target": "greenhouse_gas_emissions"
     },
     {
       "relation": "tests_elevated_atmospheric_concentrations_of",
@@ -4419,78 +1286,25 @@
       "_src": "eucface_experiment",
       "_tgt": "carbon_dioxide",
       "source": "eucface_experiment",
-      "target": "carbon_dioxide",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "measures_fluxes_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "eucface_experiment",
-      "_tgt": "methane",
-      "source": "eucface_experiment",
-      "target": "methane",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "measures_fluxes_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "eucface_experiment",
-      "_tgt": "nitrous_oxide",
-      "source": "eucface_experiment",
-      "target": "nitrous_oxide",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "reports_findings_from",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "eucface_experiment",
-      "_tgt": "martins_et_al_2021",
-      "source": "eucface_experiment",
-      "target": "martins_et_al_2021",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "models_data_for",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "eucface_experiment",
-      "_tgt": "database_modelling",
-      "source": "eucface_experiment",
-      "target": "database_modelling",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "measures",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "eucface_experiment",
-      "_tgt": "greenhouse_gas_emissions",
-      "source": "eucface_experiment",
-      "target": "greenhouse_gas_emissions",
-      "confidence_score": 1.0
+      "target": "carbon_dioxide"
     },
     {
       "relation": "models_data_for",
       "confidence": "EXTRACTED",
       "source_file": "content/french",
-      "_src": "eucface_experiment",
-      "_tgt": "relational_database",
+      "_src": "relational_database",
+      "_tgt": "eucface_experiment",
       "source": "eucface_experiment",
-      "target": "relational_database",
-      "confidence_score": 1.0
+      "target": "relational_database"
     },
     {
       "relation": "is_built_with",
       "confidence": "EXTRACTED",
-      "source_file": "content/english",
+      "source_file": "content/french",
       "_src": "greenhouse_gas_estimation_portal",
       "_tgt": "streamlit",
       "source": "greenhouse_gas_estimation_portal",
-      "target": "streamlit",
-      "confidence_score": 1.0
+      "target": "streamlit"
     },
     {
       "relation": "was_deployed_on",
@@ -4499,18 +1313,7 @@
       "_src": "greenhouse_gas_estimation_portal",
       "_tgt": "heroku",
       "source": "greenhouse_gas_estimation_portal",
-      "target": "heroku",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "supports_analysis_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "greenhouse_gas_estimation_portal",
-      "_tgt": "greenhouse_gas_modelling",
-      "source": "greenhouse_gas_estimation_portal",
-      "target": "greenhouse_gas_modelling",
-      "confidence_score": 1.0
+      "target": "heroku"
     },
     {
       "relation": "analyzes",
@@ -4519,98 +1322,70 @@
       "_src": "greenhouse_gas_estimation_portal",
       "_tgt": "greenhouse_gas_emissions",
       "source": "greenhouse_gas_estimation_portal",
-      "target": "greenhouse_gas_emissions",
-      "confidence_score": 1.0
+      "target": "greenhouse_gas_emissions"
     },
     {
-      "relation": "identifies_as_regulator_of_emissions",
+      "relation": "includes",
       "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "greenhouse_gas_modelling",
-      "_tgt": "soil_moisture",
-      "source": "greenhouse_gas_modelling",
-      "target": "soil_moisture",
-      "confidence_score": 1.0
+      "source_file": "content/french",
+      "_src": "greenhouse_gas_emissions",
+      "_tgt": "carbon_dioxide",
+      "source": "greenhouse_gas_emissions",
+      "target": "carbon_dioxide"
     },
     {
-      "relation": "uses",
+      "relation": "includes",
       "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "greenhouse_gas_modelling",
-      "_tgt": "arima",
-      "source": "greenhouse_gas_modelling",
-      "target": "arima",
-      "confidence_score": 1.0
+      "source_file": "content/french",
+      "_src": "greenhouse_gas_emissions",
+      "_tgt": "methane",
+      "source": "greenhouse_gas_emissions",
+      "target": "methane"
     },
     {
-      "relation": "uses",
+      "relation": "includes",
       "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "greenhouse_gas_modelling",
-      "_tgt": "mixed_effects_model",
-      "source": "greenhouse_gas_modelling",
-      "target": "mixed_effects_model",
-      "confidence_score": 1.0
+      "source_file": "content/french",
+      "_src": "greenhouse_gas_emissions",
+      "_tgt": "nitrous_oxide",
+      "source": "greenhouse_gas_emissions",
+      "target": "nitrous_oxide"
     },
     {
-      "relation": "predicts_distribution_of",
+      "relation": "consumes_atmospheric",
       "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "geographical_modelling",
-      "_tgt": "methanotrophs",
-      "source": "geographical_modelling",
-      "target": "methanotrophs",
-      "confidence_score": 1.0
+      "source_file": "content/french",
+      "_src": "usca",
+      "_tgt": "methane",
+      "source": "methane",
+      "target": "usca"
     },
     {
-      "relation": "uses",
+      "relation": "consume_atmospheric",
       "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "geographical_modelling",
-      "_tgt": "random_forest",
-      "source": "geographical_modelling",
-      "target": "random_forest",
-      "confidence_score": 1.0
+      "source_file": "content/french",
+      "_src": "methanotrophs",
+      "_tgt": "methane",
+      "source": "methane",
+      "target": "methanotrophs"
     },
     {
-      "relation": "uses",
+      "relation": "researched_biodegradation_of",
       "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "geographical_modelling",
-      "_tgt": "kriging",
-      "source": "geographical_modelling",
-      "target": "kriging",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "documents",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "kpi_modelling",
-      "_tgt": "nazaries_et_al_2021",
-      "source": "kpi_modelling",
-      "target": "nazaries_et_al_2021",
-      "confidence_score": 1.0
+      "source_file": "content/french",
+      "_src": "smriti_rayu",
+      "_tgt": "chlorpyrifos",
+      "source": "chlorpyrifos",
+      "target": "smriti_rayu"
     },
     {
       "relation": "implements",
       "confidence": "EXTRACTED",
-      "source_file": "content/english",
+      "source_file": "content/french",
       "_src": "data_pipeline",
       "_tgt": "etl",
       "source": "data_pipeline",
-      "target": "etl",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "uses",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "data_pipeline",
-      "_tgt": "python",
-      "source": "data_pipeline",
-      "target": "python",
-      "confidence_score": 1.0
+      "target": "etl"
     },
     {
       "relation": "populates",
@@ -4619,188 +1394,7 @@
       "_src": "data_pipeline",
       "_tgt": "relational_database",
       "source": "data_pipeline",
-      "target": "relational_database",
-      "confidence_score": 0.5
-    },
-    {
-      "relation": "uses",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "database_modelling",
-      "_tgt": "postgresql",
-      "source": "database_modelling",
-      "target": "postgresql",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "visualises",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "imdb_5000_movie_dataset",
-      "_tgt": "google_data_studio",
-      "source": "imdb_5000_movie_dataset",
-      "target": "google_data_studio",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "characterises",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "m_trflp",
-      "_tgt": "methanotrophs",
-      "source": "m_trflp",
-      "target": "methanotrophs",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "consume_atmospheric",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "usca_methanotrophs",
-      "_tgt": "methane",
-      "source": "usca_methanotrophs",
-      "target": "methane",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "studies_geographical_distribution_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "methanotrophs",
-      "_tgt": "nazaries_et_al_2018",
-      "source": "methanotrophs",
-      "target": "nazaries_et_al_2018",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "consume_atmospheric",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "methanotrophs",
-      "_tgt": "methane",
-      "source": "methanotrophs",
-      "target": "methane",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "increases_soil_oxidation_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "methane",
-      "_tgt": "afforestation",
-      "source": "methane",
-      "target": "afforestation",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "consumes_atmospheric",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "methane",
-      "_tgt": "usca",
-      "source": "methane",
-      "target": "usca",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "includes",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "methane",
-      "_tgt": "greenhouse_gas_emissions",
-      "source": "methane",
-      "target": "greenhouse_gas_emissions",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "includes",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "carbon_dioxide",
-      "_tgt": "greenhouse_gas_emissions",
-      "source": "carbon_dioxide",
-      "target": "greenhouse_gas_emissions",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "includes",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "nitrous_oxide",
-      "_tgt": "greenhouse_gas_emissions",
-      "source": "nitrous_oxide",
-      "target": "greenhouse_gas_emissions",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "is_built_into",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "python",
-      "_tgt": "venv",
-      "source": "python",
-      "target": "venv",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "manages_versions_of",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "python",
-      "_tgt": "conda",
-      "source": "python",
-      "target": "conda",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "is_implemented_with",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "postgresql",
-      "_tgt": "relational_database",
-      "source": "postgresql",
-      "target": "relational_database",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "supports",
-      "confidence": "EXTRACTED",
-      "source_file": "content/english",
-      "_src": "google_bigquery",
-      "_tgt": "etl",
-      "source": "google_bigquery",
-      "target": "etl",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "supplies_data_to",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "google_bigquery",
-      "_tgt": "google_data_studio",
-      "source": "google_bigquery",
-      "target": "google_data_studio",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "includes",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "random_forest",
-      "_tgt": "machine_learning",
-      "source": "random_forest",
-      "target": "machine_learning",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "includes",
-      "confidence": "EXTRACTED",
-      "source_file": "content/french",
-      "_src": "kriging",
-      "_tgt": "geostatistics",
-      "source": "kriging",
-      "target": "geostatistics",
-      "confidence_score": 1.0
+      "target": "relational_database"
     },
     {
       "relation": "uses",
@@ -4809,8 +1403,43 @@
       "_src": "relational_database",
       "_tgt": "snowflake_schema",
       "source": "relational_database",
-      "target": "snowflake_schema",
-      "confidence_score": 1.0
+      "target": "snowflake_schema"
+    },
+    {
+      "relation": "is_implemented_with",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "relational_database",
+      "_tgt": "postgresql",
+      "source": "relational_database",
+      "target": "postgresql"
+    },
+    {
+      "relation": "supplies_data_to",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "google_bigquery",
+      "_tgt": "google_data_studio",
+      "source": "google_bigquery",
+      "target": "google_data_studio"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "machine_learning",
+      "_tgt": "random_forest",
+      "source": "machine_learning",
+      "target": "random_forest"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "source_file": "content/french",
+      "_src": "geostatistics",
+      "_tgt": "kriging",
+      "source": "geostatistics",
+      "target": "kriging"
     },
     {
       "relation": "measures",
@@ -4819,8 +1448,7 @@
       "_src": "kpi",
       "_tgt": "soil_multifunctionality",
       "source": "kpi",
-      "target": "soil_multifunctionality",
-      "confidence_score": 1.0
+      "target": "soil_multifunctionality"
     },
     {
       "relation": "evaluates_effects_of",
@@ -4829,9 +1457,7 @@
       "_src": "kpi",
       "_tgt": "agricultural_management_practices",
       "source": "kpi",
-      "target": "agricultural_management_practices",
-      "confidence_score": 1.0
+      "target": "agricultural_management_practices"
     }
-  ],
-  "hyperedges": []
+  ]
 }
