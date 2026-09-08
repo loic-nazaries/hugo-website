@@ -1,142 +1,129 @@
-# Graph Report - hugo-website  (2026-09-03)
+# Graph Report - content  (2026-09-04)
 
 ## Corpus Check
-- 9 files · ~2,685,774 words
-- Verdict: corpus is large enough that graph structure adds value.
+- Corpus is ~29,183 words - fits in a single context window. You may not need a graph.
 
 ## Summary
-- 181 nodes · 288 edges · 16 communities detected
-- Extraction: 93% EXTRACTED · 7% INFERRED · 0% AMBIGUOUS · INFERRED: 20 edges (avg confidence: 0.79)
+- 83 nodes · 97 edges · 16 communities detected
+- Extraction: 69% EXTRACTED · 29% INFERRED · 2% AMBIGUOUS · INFERRED: 28 edges (avg confidence: 0.5)
 - Token cost: 0 input · 0 output
 
 ## Community Hubs (Navigation)
-- [[_COMMUNITY_Community 0|Community 0]]
-- [[_COMMUNITY_Community 1|Community 1]]
-- [[_COMMUNITY_Community 2|Community 2]]
-- [[_COMMUNITY_Community 3|Community 3]]
-- [[_COMMUNITY_Community 4|Community 4]]
-- [[_COMMUNITY_Community 5|Community 5]]
-- [[_COMMUNITY_Community 6|Community 6]]
-- [[_COMMUNITY_Community 7|Community 7]]
-- [[_COMMUNITY_Community 8|Community 8]]
-- [[_COMMUNITY_Community 9|Community 9]]
-- [[_COMMUNITY_Community 10|Community 10]]
-- [[_COMMUNITY_Community 11|Community 11]]
-- [[_COMMUNITY_Community 13|Community 13]]
-- [[_COMMUNITY_Community 14|Community 14]]
-- [[_COMMUNITY_Community 15|Community 15]]
-- [[_COMMUNITY_Community 16|Community 16]]
+- [[_COMMUNITY_Professional Network & Institutions|Professional Network & Institutions]]
+- [[_COMMUNITY_Career & Research Journey|Career & Research Journey]]
+- [[_COMMUNITY_Environmental Research & GHG Studies|Environmental Research & GHG Studies]]
+- [[_COMMUNITY_Data Infrastructure & Tools|Data Infrastructure & Tools]]
+- [[_COMMUNITY_Professional Profile & Portfolio|Professional Profile & Portfolio]]
+- [[_COMMUNITY_Python Development & Environments|Python Development & Environments]]
+- [[_COMMUNITY_Agriculture & Soil Modelling|Agriculture & Soil Modelling]]
+- [[_COMMUNITY_Engagement & Contact|Engagement & Contact]]
+- [[_COMMUNITY_Data Analytics & BI|Data Analytics & BI]]
+- [[_COMMUNITY_Research Supervision & Chemistry|Research Supervision & Chemistry]]
+- [[_COMMUNITY_Machine Learning Techniques|Machine Learning Techniques]]
+- [[_COMMUNITY_Geospatial Modelling|Geospatial Modelling]]
+- [[_COMMUNITY_Google Cloud BI|Google Cloud BI]]
+- [[_COMMUNITY_Service Guarantees|Service Guarantees]]
+- [[_COMMUNITY_Blog Hub|Blog Hub]]
+- [[_COMMUNITY_Python Language|Python Language]]
 
 ## God Nodes (most connected - your core abstractions)
-1. `se()` - 10 edges
-2. `ce()` - 10 edges
-3. `e()` - 9 edges
-4. `g()` - 8 edges
-5. `M()` - 8 edges
-6. `we()` - 7 edges
-7. `Ee()` - 7 edges
-8. `l()` - 7 edges
-9. `l()` - 6 edges
-10. `e()` - 5 edges
 
 ## Surprising Connections (you probably didn't know these)
-- `o()` --calls--> `g()`  [INFERRED]
-  themes\somrat\static\plugins\bootstrap\bootstrap.min.js → themes\somrat\static\plugins\wow.min.js
-- `n()` --calls--> `g()`  [INFERRED]
-  themes\somrat\static\plugins\bootstrap\bootstrap.min.js → themes\somrat\static\plugins\wow.min.js
-- `se()` --calls--> `g()`  [INFERRED]
-  themes\somrat\static\plugins\jQuery\jquery.min.js → themes\somrat\static\plugins\wow.min.js
-- `ce()` --calls--> `g()`  [INFERRED]
-  themes\somrat\static\plugins\jQuery\jquery.min.js → themes\somrat\static\plugins\wow.min.js
-- `Oe()` --calls--> `k()`  [INFERRED]
-  themes\somrat\static\plugins\jQuery\jquery.min.js → themes\somrat\static\plugins\wow.min.js
+- `Data Pipeline Best Practices: From Raw Data to Clean Output` --covers_related_workflow--> `Data Pipeline`  [INFERRED]
+  content/english → content/english  _Bridges community 8 → community 1_
+- `Loic Nazaries` --worked_as_freelance_data_analyst_for--> `BIFORA`  [EXTRACTED]
+  content/french → content/french  _Bridges community 0 → community 3_
+- `Loic Nazaries` --worked_as_statistical_research_officer_at--> `Hawkesbury Institute for the Environment`  [EXTRACTED]
+  content/french → content/french  _Bridges community 0 → community 2_
+- `Loic Nazaries` --uses_for_industrial_defect_detection--> `Machine Learning`  [EXTRACTED]
+  content/french → content/french  _Bridges community 0 → community 10_
+- `Loic Nazaries` --uses_for_geographical_modelling--> `Geostatistics`  [EXTRACTED]
+  content/french → content/french  _Bridges community 0 → community 11_
 
 ## Communities
 
-### Community 0 - "Community 0"
-Cohesion: 0.08
-Nodes (25): Biomathematics and Statistics Scotland, Brajesh K. Singh, Business Intelligence, Catarina S. Martins, Data Visualisation, Diderot Education, Epsyl - Alcen Group, IA School (+17 more)
+### Community 0 - "Professional Network & Institutions"
+Cohesion: 0.0
+Nodes (20): Biomathematics and Statistics Scotland, Brajesh K. Singh, Catarina S. Martins, Conda, EPSYL - ALCEN Group, Imperial College London, Items Media Concept, James Hutton Institute (+12 more)
 
-### Community 1 - "Community 1"
-Cohesion: 0.14
-Nodes (12): e(), i(), l(), n(), o(), s(), t(), we() (+4 more)
+### Community 1 - "Career & Research Journey"
+Cohesion: 0.0
+Nodes (15): From Bordeaux to Bordeaux via Aberdeen and Sydney: Education, Academia, and a Career Reinvention, From Lab Bench to Data Desk: A Research Scientist's Journey into Data, Analysing Greenhouse Gas Emissions: From Field Data to Insights, Unveiling the Black Box: My Research Journey into the Microbial Heart of Our Planet, Alteryx, Dashboard, Data Pipeline, Database Modelling (+7 more)
 
-### Community 2 - "Community 2"
-Cohesion: 0.12
-Nodes (22): Afforestation, ARIMA, Carbon Dioxide, Database Modelling, EucFACE Experiment, Greenhouse Gas Emissions, Greenhouse Gas Estimation Portal, Greenhouse Gas Modelling (+14 more)
+### Community 2 - "Environmental Research & GHG Studies"
+Cohesion: 0.0
+Nodes (12): Carbon Dioxide, EucFACE Experiment, Greenhouse Gas Emissions, Greenhouse Gas Estimation Portal, Hawkesbury Institute for the Environment, Heroku, Methane, Methanotrophs (+4 more)
 
-### Community 3 - "Community 3"
-Cohesion: 0.18
-Nodes (14): ze(), e(), f(), A(), c(), d(), e(), i() (+6 more)
+### Community 3 - "Data Infrastructure & Tools"
+Cohesion: 0.0
+Nodes (6): BIFORA, Data Pipeline, ETL, PostgreSQL, Relational Database, Snowflake Schema
 
-### Community 4 - "Community 4"
-Cohesion: 0.12
-Nodes (3): ct(), dt(), V()
+### Community 4 - "Professional Profile & Portfolio"
+Cohesion: 0.0
+Nodes (5): About Loic Nazaries, Loic Nazaries - Data Mining and Business Intelligence Specialist, Loic Nazaries CV, Portfolio, Services
 
-### Community 5 - "Community 5"
-Cohesion: 0.33
-Nodes (9): ce(), Ee(), l(), P(), se(), t(), Te(), xe() (+1 more)
+### Community 5 - "Python Development & Environments"
+Cohesion: 0.0
+Nodes (4): Python Virtual Environments: venv vs Conda, Project Repository with GitHub, Python Virtual Environment (Conda), Python Virtual Environment
 
-### Community 6 - "Community 6"
-Cohesion: 0.36
-Nodes (8): be(), de(), s(), c(), h(), l(), o(), r()
+### Community 6 - "Agriculture & Soil Modelling"
+Cohesion: 0.0
+Nodes (4): Agricultural Management Practices, Grains Research and Development Corporation, Key Performance Indicator, Soil Multifunctionality
 
-### Community 7 - "Community 7"
-Cohesion: 0.22
-Nodes (9): BIFORA, Conda, Data Pipeline, Extract Transform Load, Google BigQuery, Google Data Studio, IMDB 5000 Movie Dataset, Python (+1 more)
+### Community 7 - "Engagement & Contact"
+Cohesion: 0.0
+Nodes (3): Need a Service?, Contact, Testimonials
 
-### Community 8 - "Community 8"
-Cohesion: 0.32
-Nodes (8): A(), b(), Ie(), le(), Oe(), ve(), we(), ye()
+### Community 8 - "Data Analytics & BI"
+Cohesion: 0.0
+Nodes (3): Data Pipeline Best Practices: From Raw Data to Clean Output, Google Business Intelligence, Google BigQuery and Google Data Studio
 
-### Community 9 - "Community 9"
-Cohesion: 0.29
-Nodes (8): bt(), d(), I(), j(), M(), qt(), w(), X()
-
-### Community 10 - "Community 10"
-Cohesion: 0.25
-Nodes (8): Geographical Modelling, Geostatistics, Kriging, Multiplex Terminal Restriction Fragment Length Polymorphism, Machine Learning, Methanotrophs, Environmental Drivers of the Geographical Distribution of Methanotrophs, Random Forest
-
-### Community 11 - "Community 11"
-Cohesion: 0.33
-Nodes (6): Agricultural Management Practices, Grains Research and Development Corporation, Key Performance Indicator, KPI Modelling, Soil Multifunctionality and Agricultural Management Practices, Soil Multifunctionality
-
-### Community 13 - "Community 13"
-Cohesion: 0.67
-Nodes (2): e(), t()
-
-### Community 14 - "Community 14"
-Cohesion: 0.67
-Nodes (4): _e(), et(), fe(), tt()
-
-### Community 15 - "Community 15"
-Cohesion: 0.67
-Nodes (3): Ae(), ge(), k()
-
-### Community 16 - "Community 16"
-Cohesion: 1.0
+### Community 9 - "Research Supervision & Chemistry"
+Cohesion: 0.0
 Nodes (2): Chlorpyrifos, Smriti Rayu
 
+### Community 10 - "Machine Learning Techniques"
+Cohesion: 0.0
+Nodes (2): Machine Learning, Random Forest
+
+### Community 11 - "Geospatial Modelling"
+Cohesion: 0.0
+Nodes (2): Geostatistics, Kriging
+
+### Community 12 - "Google Cloud BI"
+Cohesion: 0.0
+Nodes (2): Google BigQuery, Google Data Studio
+
+### Community 13 - "Service Guarantees"
+Cohesion: 0.0
+Nodes (1): My Guarantees
+
+### Community 14 - "Blog Hub"
+Cohesion: 0.0
+Nodes (1): Blog
+
+### Community 15 - "Python Language"
+Cohesion: 0.0
+Nodes (1): Python
+
+## Ambiguous Edges - Review These
+- `Python Virtual Environments: venv vs Conda` → `Project Repository with GitHub`  [AMBIGUOUS]
+  content/english · relation: shares_version_control_topic
+- `Tableau Dashboard` → `GHG Modelling`  [AMBIGUOUS]
+  content/english · relation: visualises_related_subject
+
 ## Knowledge Gaps
-- **Thin community `Community 13`** (4 nodes): `e()`, `i()`, `t()`, `jquery.waypoints.min.js`
+- **Thin community `Community 9`** (2 nodes): `Chlorpyrifos`, `Smriti Rayu`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 16`** (2 nodes): `Chlorpyrifos`, `Smriti Rayu`
+- **Thin community `Community 10`** (2 nodes): `Machine Learning`, `Random Forest`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-
-## Suggested Questions
-_Questions this graph is uniquely positioned to answer:_
-
-- **Why does `g()` connect `Community 1` to `Community 5`?**
-  _High betweenness centrality (0.098) - this node is a cross-community bridge._
-- **Why does `ce()` connect `Community 5` to `Community 8`, `Community 1`, `Community 3`, `Community 4`?**
-  _High betweenness centrality (0.073) - this node is a cross-community bridge._
-- **Why does `e()` connect `Community 3` to `Community 5`, `Community 6`?**
-  _High betweenness centrality (0.066) - this node is a cross-community bridge._
-- **Are the 2 inferred relationships involving `se()` (e.g. with `h()` and `g()`) actually correct?**
-  _`se()` has 2 INFERRED edges - model-reasoned connections that need verification._
-- **Are the 2 inferred relationships involving `ce()` (e.g. with `e()` and `g()`) actually correct?**
-  _`ce()` has 2 INFERRED edges - model-reasoned connections that need verification._
-- **Are the 4 inferred relationships involving `e()` (e.g. with `ce()` and `l()`) actually correct?**
-  _`e()` has 4 INFERRED edges - model-reasoned connections that need verification._
-- **Should `Community 0` be split into smaller, more focused modules?**
-  _Cohesion score 0.08 - nodes in this community are weakly interconnected._
+- **Thin community `Community 11`** (2 nodes): `Geostatistics`, `Kriging`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 12`** (2 nodes): `Google BigQuery`, `Google Data Studio`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 13`** (1 nodes): `My Guarantees`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 14`** (1 nodes): `Blog`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 15`** (1 nodes): `Python`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
